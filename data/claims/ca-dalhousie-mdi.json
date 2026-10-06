@@ -1,0 +1,73 @@
+{
+ "id": "ca-dalhousie-mdi",
+ "claims": {
+  "bachelor_required": {
+   "value": "Four-year undergraduate university degree",
+   "source": "https://www.dal.ca/academics/programs/graduate/digital-innovation.html"
+  },
+  "bachelor_field": {
+   "value": "Open to diverse backgrounds (CS, business, law, health, etc.)",
+   "source": "https://www.dal.ca/academics/programs/graduate/digital-innovation.html"
+  },
+  "non_cs_eligible": {
+   "value": "yes",
+   "source": "https://www.dal.ca/academics/programs/graduate/digital-innovation.html",
+   "quote": "Open to diverse backgrounds"
+  },
+  "prerequisites": {
+   "value": "Introductory programming courses recommended, not required",
+   "source": "https://www.dal.ca/academics/programs/graduate/digital-innovation.html"
+  },
+  "min_gpa": {
+   "value": "3.0",
+   "source": "https://www.dal.ca/academics/programs/graduate/digital-innovation.html"
+  },
+  "work_experience_considered": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "experience_pathway": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "ielts": {
+   "value": "UNKNOWN (page defers to FGS; MACSc page says 7.0)",
+   "source": "https://www.dal.ca/academics/programs/graduate/digital-innovation.html"
+  },
+  "toefl": {
+   "value": "UNKNOWN (MACSc page says iBT 92)",
+   "source": ""
+  },
+  "english_waiver": {
+   "value": "yes - FGS waiver for English-instruction degree in English-official country",
+   "source": "https://www.dal.ca/faculty/gradstudies/apply-graduate-studies/admission-requirements/english-requirements.html"
+  },
+  "gre_gmat": {
+   "value": "UNKNOWN (not mentioned)",
+   "source": "https://www.dal.ca/academics/programs/graduate/digital-innovation.html"
+  },
+  "other_requirements": {
+   "value": "References and statement of purpose referenced, counts unspecified",
+   "source": "https://www.dal.ca/academics/programs/graduate/digital-innovation.html"
+  },
+  "application_fee": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "duration": {
+   "value": "16+ months; course, thesis, internship options",
+   "source": "https://www.dal.ca/academics/programs/graduate/digital-innovation.html"
+  },
+  "deadline": {
+   "value": "Sept start: Apr 1 intl",
+   "source": "https://www.dal.ca/academics/programs/graduate/digital-innovation.html"
+  },
+  "tuition": {
+   "value": "International rate up to 2 years at thesis-option pricing; amounts not on page",
+   "source": "https://www.dal.ca/academics/programs/graduate/digital-innovation.html"
+  }
+ },
+ "eligibility": "eligible",
+ "eligibility_notes": "Provisional: any discipline accepted, programming only recommended, GPA 3.0 (2:1 grade conversion unconfirmed). English waiver likely. Curriculum technical weight (AI, HCI, systems, networks, security) to be checked by verifier.",
+ "saved_on": "2026-10-06"
+}

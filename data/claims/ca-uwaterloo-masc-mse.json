@@ -1,0 +1,80 @@
+{
+ "id": "ca-uwaterloo-masc-mse",
+ "claims": {
+  "bachelor_required": {
+   "value": "Relevant four-year honours bachelor's or equivalent",
+   "source": "https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/management-science-and-engineering-master-applied-science",
+   "quote": "relevant four-year honours bachelor's degree or equivalent"
+  },
+  "bachelor_field": {
+   "value": "Relevant degree",
+   "source": "https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/management-science-and-engineering-master-applied-science"
+  },
+  "non_cs_eligible": {
+   "value": "case-by-case ('relevant' degree)",
+   "source": "https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/management-science-and-engineering-master-applied-science"
+  },
+  "non_cs_notes": {
+   "value": "Only 'relevant four-year honours bachelor's degree' stated; no CS requirement; no explicit non-CS statement",
+   "source": "https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/management-science-and-engineering-master-applied-science",
+   "quote": "relevant four-year honours bachelor's degree or equivalent"
+  },
+  "min_gpa": {
+   "value": "75% overall standing or equivalent",
+   "source": "https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/management-science-and-engineering-master-applied-science"
+  },
+  "work_experience_considered": {
+   "value": "Partially: one business reference accepted if working several years; not a prerequisite substitute",
+   "source": "https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/management-science-and-engineering-master-applied-science",
+   "quote": "have been working for several years, one business reference will be accepted"
+  },
+  "experience_pathway": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "ielts": {
+   "value": "7.0 overall (writing 6.5, speaking 6.5)",
+   "source": "https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/management-science-and-engineering-master-applied-science"
+  },
+  "toefl": {
+   "value": "4.5 (writing 5, speaking 5) as stated on page; verify iBT scale",
+   "source": "https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/management-science-and-engineering-master-applied-science"
+  },
+  "english_waiver": {
+   "value": "Waterloo ELP exemption: 3+ years post-secondary at WHED-listed English-only institution, or 3 years English employment in listed country incl. Nigeria",
+   "source": "https://uwaterloo.ca/future-graduate-students/admissions/admission-and-english-language-proficiency-requirements"
+  },
+  "gre_gmat": {
+   "value": "Not mentioned",
+   "source": "https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/management-science-and-engineering-master-applied-science"
+  },
+  "other_requirements": {
+   "value": "Three references; one-page Statement of Purpose incl. research interests; supervisor must be found before applying",
+   "source": "https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/management-science-and-engineering-master-applied-science",
+   "quote": "Three references are required"
+  },
+  "application_fee": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "deadline": {
+   "value": "February 1 (for September admission)",
+   "source": "https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/management-science-and-engineering-master-applied-science"
+  },
+  "duration": {
+   "value": "24 months full-time (thesis)",
+   "source": "https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/management-science-and-engineering-master-applied-science"
+  },
+  "coop_internship": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "tuition_amount": {
+   "value": "UNKNOWN",
+   "source": ""
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: thesis/research MASc needing a supervisor and three references, 75% average, relevant degree. No stated route for non-relevant degrees or experience. Research-heavy and research experience is None per profile; low admission likelihood.",
+ "saved_on": "2026-10-06"
+}

@@ -1,0 +1,84 @@
+{
+ "id": "ca-sfu-master-of-cybersecurity",
+ "claims": {
+  "bachelor_required": {
+   "value": "Bachelor's degree or equivalent",
+   "source": "https://www.sfu.ca/fas/study/future-graduates/apply/computing-science.html"
+  },
+  "bachelor_field": {
+   "value": "Computer science or a related field",
+   "source": "https://www.sfu.ca/fas/study/future-graduates/apply/computing-science.html",
+   "quote": "a bachelor's degree or equivalent in computer science or a related field"
+  },
+  "non_cs_eligible": {
+   "value": "case-by-case",
+   "source": "https://www.sfu.ca/fas/study/future-graduates/apply/computing-science.html"
+  },
+  "experience_pathway": {
+   "value": "case-by-case",
+   "source": "https://www.sfu.ca/fas/study/future-graduates/apply/computing-science.html",
+   "quote": "The admissions committee may evaluate exceptional applicants from non-CS fields using relevant work experience, course work, or certificates, diplomas, etc."
+  },
+  "work_experience_considered": {
+   "value": "CASE-BY-CASE",
+   "source": "https://www.sfu.ca/fas/study/future-graduates/apply/computing-science.html"
+  },
+  "non_cs_notes": {
+   "value": "Exceptional non-CS applicants may be evaluated using work experience, coursework, certificates",
+   "source": "https://www.sfu.ca/fas/study/future-graduates/apply/computing-science.html",
+   "quote": "relevant work experience, course work, or certificates, diplomas, etc."
+  },
+  "prerequisites": {
+   "value": "Programming (Java, Python, C++); calculus, linear algebra, statistics; data structures, algorithms, databases, operating systems",
+   "source": "https://www.sfu.ca/fas/study/future-graduates/apply/computing-science.html"
+  },
+  "min_gpa": {
+   "value": "3.00/4.33 cumulative, or 3.33/4.33 on last 60 credits (Canadian-educated); international per country equivalencies",
+   "source": "https://www.sfu.ca/fas/study/future-graduates/apply/computing-science.html"
+  },
+  "english_waiver": {
+   "value": "Waived only for degrees from English-medium institutions in English-primary countries; Nigeria status unclear (likely test needed)",
+   "source": "https://www.sfu.ca/fas/study/future-graduates/apply/computing-science.html",
+   "quote": "Required unless applicants completed degrees in English-medium institutions within English-primary countries"
+  },
+  "english_req": {
+   "value": "IELTS/TOEFL required unless waived",
+   "source": "https://www.sfu.ca/fas/study/future-graduates/apply/computing-science.html"
+  },
+  "ielts": {
+   "value": "7.0 overall, 6.5 each section (MPCS; per search summary of SFU page, not directly fetched)",
+   "source": "https://www.sfu.ca/fas/study/future-graduates/apply/computing-science.html"
+  },
+  "toefl": {
+   "value": "iBT 93, min 20 each section",
+   "source": "https://www.sfu.ca/fas/study/future-graduates/apply/computing-science.html"
+  },
+  "gre_gmat": {
+   "value": "NOT REQUIRED (not listed among required documents)",
+   "source": "https://www.sfu.ca/fas/study/future-graduates/apply/computing-science.html"
+  },
+  "other_requirements": {
+   "value": "3 professional reference letters, CV, SOP (max 2 pages), unofficial transcripts, English test if applicable",
+   "source": "https://www.sfu.ca/fas/study/future-graduates/apply/computing-science.html"
+  },
+  "application_fee": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "deadline": {
+   "value": "Fall 2027: January 19, 2027",
+   "source": "https://www.sfu.ca/fas/study/future-graduates/apply/computing-science.html"
+  },
+  "duration": {
+   "value": "Four terms",
+   "source": "https://www.sfu.ca/students/calendar/2026/fall/programs/cybersecurity/master-of-cybersecurity.html"
+  },
+  "coop_internship": {
+   "value": "Co-op integral but competitive; requires 12 units CMPT 700-level, CGPA 3.0",
+   "source": "https://www.sfu.ca/students/calendar/2026/fall/programs/cybersecurity/master-of-cybersecurity.html"
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: calendar says applicants 'normally have a bachelor's degree, or equivalent in computer science or a related field'; admissions page allows exceptional non-CS applicants via work experience, so not a reject. Geography BSc with 5-7 yrs DevOps may qualify case-by-case but math/CS prerequisites (calculus, linear algebra, data structures, OS) are a gap. Nigeria likely needs IELTS/TOEFL. Conditional/qualifying admission possible per calendar. Cybersecurity track is security-focused with a distributed/cloud course. Admission fee and ielts figures not directly confirmed for this program.",
+ "saved_on": "2026-10-06"
+}

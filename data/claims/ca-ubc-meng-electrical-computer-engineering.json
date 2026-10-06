@@ -1,0 +1,89 @@
+{
+ "id": "ca-ubc-meng-electrical-computer-engineering",
+ "claims": {
+  "bachelor_required": {
+   "value": "Four-year bachelor's equivalent to UBC, in engineering or related discipline",
+   "source": "https://vancouver.calendar.ubc.ca/node/14506",
+   "quote": "must hold a credential deemed academically equivalent to a four-year bachelor's degree from UBC, in engineering or a related discipline"
+  },
+  "bachelor_field": {
+   "value": "Electrical or Computer Engineering or closely related field (significant course overlap)",
+   "source": "https://vancouver.calendar.ubc.ca/node/14506"
+  },
+  "non_cs_eligible": {
+   "value": "no",
+   "source": "https://vancouver.calendar.ubc.ca/node/14506",
+   "quote": "in engineering or a related discipline"
+  },
+  "non_cs_notes": {
+   "value": "Engineering degree required; Geography unlikely to qualify",
+   "source": "https://vancouver.calendar.ubc.ca/node/14506"
+  },
+  "min_gpa": {
+   "value": "76% UBC-equivalent; ECE says unlikely to succeed unless first-class range",
+   "source": "https://vancouver.calendar.ubc.ca/node/14506"
+  },
+  "work_experience_considered": {
+   "value": "YES",
+   "source": "https://vancouver.calendar.ubc.ca/node/14506",
+   "quote": "Relevant professional experience is considered an asset"
+  },
+  "experience_pathway": {
+   "value": "no",
+   "source": "https://vancouver.calendar.ubc.ca/node/14506"
+  },
+  "work_experience": {
+   "value": "considered",
+   "source": "https://vancouver.calendar.ubc.ca/node/14506"
+  },
+  "english_waiver": {
+   "value": "UNKNOWN",
+   "source": "https://vancouver.calendar.ubc.ca/node/14506",
+   "quote": "Language proficiency required from a university outside Canada in which English is not the primary language of instruction; Nigeria waiver not confirmed"
+  },
+  "english_req": {
+   "value": "IELTS/TOEFL/DET (ECE page: IELTS 7 with 6.0 each band per search summary, unverified)",
+   "source": "https://vancouver.calendar.ubc.ca/node/14506"
+  },
+  "gre_gmat": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "other_requirements": {
+   "value": "UNKNOWN; apply through engineering.ubc.ca",
+   "source": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-engineering-electrical-computer-engineering"
+  },
+  "application_fee": {
+   "value": "168.25 CAD (international)",
+   "source": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-engineering-electrical-computer-engineering"
+  },
+  "deadline": {
+   "value": "Dec 12, 2026 for Sept 2027 intake",
+   "source": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-engineering-electrical-computer-engineering"
+  },
+  "tuition_intl_per_year": {
+   "value": "27,419.34 CAD",
+   "source": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-engineering-electrical-computer-engineering"
+  },
+  "duration": {
+   "value": "avg 1.7 years",
+   "source": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-engineering-electrical-computer-engineering"
+  },
+  "delivery_mode": {
+   "value": "on-campus",
+   "source": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-engineering-electrical-computer-engineering"
+  },
+  "coop_internship": {
+   "value": "Co-op via separate arrangement",
+   "source": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-engineering-electrical-computer-engineering"
+  }
+ },
+ "eligibility": "ineligible",
+ "eligibility_notes": "Provisional: requires an accredited 4-year engineering (ECE or closely related) degree; professional experience only an asset, not a substitute. Geography BSc unlikely to count; also first-class range effectively expected.",
+ "reject_basis": {
+  "reject_filter": "background",
+  "claim": "Applicants to the Master of Engineering program in all specializations must hold a credential deemed academically equivalent to a four-year bachelor's degree from UBC, in engineering or a related discipline; relevant professional experience is considered an asset",
+  "source": "https://vancouver.calendar.ubc.ca/node/14506"
+ },
+ "saved_on": "2026-10-06"
+}

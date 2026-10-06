@@ -1,0 +1,86 @@
+{
+ "id": "ca-uregina-msc-computer-science-project",
+ "claims": {
+  "bachelor_required": {
+   "value": "4-year bachelor's in Computer Science",
+   "source": "https://www.uregina.ca/science/computer-science/graduate-programs/application-process.html",
+   "quote": "four year Bachelor's degree in Computer Science"
+  },
+  "bachelor_field": {
+   "value": "Computer Science; or B.Sc. equivalent with 10 CS 300/400-level courses incl. theory, 2 software, 2 systems, 2 applications courses",
+   "source": "https://www.uregina.ca/science/computer-science/graduate-programs/application-process.html",
+   "quote": "equivalent B.Sc with 10 CS 300- or 400-level courses"
+  },
+  "non_cs_eligible": {
+   "value": "with-bridging (only via equivalent CS coursework)",
+   "source": "https://www.uregina.ca/science/computer-science/graduate-programs/application-process.html"
+  },
+  "non_cs_notes": {
+   "value": "Non-CS degree must be equivalent to a CS BSc with 10 CS 300/400-level courses; no non-CS pathway otherwise",
+   "source": "https://www.uregina.ca/science/computer-science/graduate-programs/application-process.html",
+   "quote": "for students with a degree in another discipline, an equivalent B.Sc degree in Computer Science with the equivalent of 10 CS 300- or 400-level courses"
+  },
+  "prerequisites": {
+   "value": "10 CS 300/400-level courses: 1 theory, 2 software, 2 systems, 2 applications",
+   "source": "https://www.uregina.ca/science/computer-science/graduate-programs/application-process.html"
+  },
+  "min_gpa": {
+   "value": "70% overall, 75% CS average; meeting minimums often insufficient; below B-level auto-rejected",
+   "source": "https://www.uregina.ca/science/computer-science/graduate-programs/application-process.html",
+   "quote": "overall average of at least 70% and a CS average of 75%"
+  },
+  "experience_pathway": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "work_experience": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "ielts": {
+   "value": "6.5 overall, 6.0 each band",
+   "source": "https://www.uregina.ca/graduate-studies-research/graduate-calendar/application-procedures.html"
+  },
+  "toefl": {
+   "value": "iBT 4 each band (new scale)",
+   "source": "https://www.uregina.ca/graduate-studies-research/graduate-calendar/application-procedures.html"
+  },
+  "english_waiver": {
+   "value": "yes - degree taught in English",
+   "source": "https://www.uregina.ca/graduate-studies-research/future-students/eligibility-requirements.html",
+   "quote": "Completed post-secondary education where English was the primary language of instruction (per ELP List by Country)"
+  },
+  "english_req": {
+   "value": "IELTS 6.5/6.0, TOEFL, CAEL 70, PTE 59, Duolingo 125; exemption possible",
+   "source": "https://www.uregina.ca/graduate-studies-research/graduate-calendar/application-procedures.html"
+  },
+  "gre_gmat": {
+   "value": "NOT REQUIRED",
+   "source": "https://www.uregina.ca/science/computer-science/graduate-programs/application-process.html",
+   "quote": "GRE is not required for Computer Science"
+  },
+  "other_requirements": {
+   "value": "Transcripts + WES evaluation, confidential recommendation letters (two, academics/employers), letter of intent; supervisor not required for Data Science/HCC streams",
+   "source": "https://www.uregina.ca/science/computer-science/graduate-programs/application-process.html"
+  },
+  "application_fee": {
+   "value": "125 CAD",
+   "source": "https://www.uregina.ca/graduate-studies-research/graduate-calendar/application-procedures.html"
+  },
+  "deadline": {
+   "value": "Feb 15 (Fall)",
+   "source": "https://www.uregina.ca/science/computer-science/graduate-programs/application-process.html"
+  },
+  "duration": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "tuition": {
+   "value": "UNKNOWN",
+   "source": ""
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: CS degree 'ordinarily' required; Geography BSc only qualifies with ~10 CS 300/400-level courses (profile coursework unknown, likely lacking). Work experience not mentioned as compensating. English waiver likely, GRE not required. Not hard-rejected because no explicit statement that no alternative exists, but weak background fit. Program is CS-focused, moderate relevance.",
+ "saved_on": "2026-10-06"
+}

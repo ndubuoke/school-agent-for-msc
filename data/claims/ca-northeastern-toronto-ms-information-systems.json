@@ -1,0 +1,84 @@
+{
+ "id": "ca-northeastern-toronto-ms-information-systems",
+ "claims": {
+  "english_waiver": {
+   "value": "Yes: waived if degree taught entirely in English (documentation required); Nigeria not automatically listed",
+   "source": "https://coe.northeastern.edu/academics-experiential-learning/graduate-school-of-engineering/graduate-admissions/",
+   "quote": "holding degrees where English is the only language of instruction for the entirety of the program"
+  },
+  "ielts": {
+   "value": "6.5 overall (no band minimums found)",
+   "source": "https://coe.northeastern.edu/academics-experiential-learning/graduate-school-of-engineering/graduate-admissions/"
+  },
+  "toefl": {
+   "value": "79 iBT overall (4.0 on 2026 scale); no section minimums found",
+   "source": "https://coe.northeastern.edu/academics-experiential-learning/graduate-school-of-engineering/graduate-admissions/"
+  },
+  "gre_gmat": {
+   "value": "GRE not required/test-optional",
+   "source": "https://coe.northeastern.edu/academics-experiential-learning/graduate-school-of-engineering/graduate-admissions/",
+   "quote": "Northeastern University is GRE test-optional"
+  },
+  "application_fee": {
+   "value": "USD 100 normally; waived for new master's applicants for Fall 2026 and Spring 2027 terms (Fall 2027 waiver not confirmed; one search snippet said Fall 2027 waived, unverified)",
+   "source": "https://coe.northeastern.edu/academics-experiential-learning/graduate-school-of-engineering/graduate-admissions/"
+  },
+  "work_experience_considered": {
+   "value": "Resume required; experience not an explicit requirement or substitute",
+   "source": "https://coe.northeastern.edu/academics-experiential-learning/graduate-school-of-engineering/graduate-admissions/"
+  },
+  "bachelor_required": {
+   "value": "Accredited bachelor's degree (or equivalent); min GPA 3.0/4.0 per search snippet",
+   "source": "https://graduate.northeastern.edu/programs/msis-information-systems/master-of-science-in-information-systems-toronto/"
+  },
+  "bachelor_field": {
+   "value": "No field stated on program page; COE generic page says engineering/technology degree, non-engineering may be eligible for select programs; Bridge option for career-changers",
+   "source": "https://graduate.northeastern.edu/programs/msis-information-systems/master-of-science-in-information-systems-toronto/",
+   "quote": "an option for career-changers without a related degree"
+  },
+  "non_cs_eligible": {
+   "value": "yes (Bridge variant)",
+   "source": "https://toronto.northeastern.edu/academic_program/master-of-science-in-information-systems-bridge/"
+  },
+  "non_cs_notes": {
+   "value": "Program offers 'an option for career-changers without a related degree' (MS IS Bridge). Standard program page states no field restriction.",
+   "source": "https://graduate.northeastern.edu/programs/msis-information-systems/master-of-science-in-information-systems-toronto/"
+  },
+  "min_gpa": {
+   "value": "3.0/4.0 (from search snippet of admissions page; not confirmed on program page)",
+   "source": "https://admissions.northeastern.edu/application-information/international-applicants/"
+  },
+  "other_requirements": {
+   "value": "2 recommendation letters, statement of purpose, resume, transcripts + Foreign Credential Evaluation (FCE)",
+   "source": "https://graduate.northeastern.edu/programs/msis-information-systems/master-of-science-in-information-systems-toronto/"
+  },
+  "duration": {
+   "value": "2-3 years (full-/part-time)",
+   "source": "https://graduate.northeastern.edu/programs/msis-information-systems/master-of-science-in-information-systems-toronto/"
+  },
+  "delivery_mode": {
+   "value": "On-ground (program page); graduate page says on campus, online or combination; part-time and full-time options. Verify full-time on-campus for PGWP/study permit",
+   "source": "https://graduate.northeastern.edu/programs/msis-information-systems/master-of-science-in-information-systems-toronto/"
+  },
+  "coop_internship": {
+   "value": "Optional co-op up to 8 months",
+   "source": "https://graduate.northeastern.edu/programs/msis-information-systems/master-of-science-in-information-systems-toronto/"
+  },
+  "tuition": {
+   "value": "International CAD 48,000 est. (toronto page, AY2025-26); CAD 48,090 (2026-27)",
+   "source": "https://toronto.northeastern.edu/academic_program/master-of-science-in-information-systems/"
+  },
+  "deadline": {
+   "value": "Fall: Early Action Dec 1; June 15 intl out-of-country, July 1 in-country; Spring Nov 1",
+   "source": "https://toronto.northeastern.edu/academic_program/master-of-science-in-information-systems/"
+  },
+  "ministry_consent": {
+   "value": "Yes: consent for five-year term starting March 30, 2026",
+   "source": "https://toronto.northeastern.edu/academic_program/master-of-science-in-information-systems/",
+   "quote": "This institution has been granted a consent by the Minister of Colleges, Universities, Research, Excellence and Security to offer this program for a five-year term starting March 30, 2026."
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: no CS degree required, Bridge option for career-changers; English test waivable with English-medium degree (documentation needed); GRE not required; GPA 3.0/4.0 vs unknown CGPA (2:1) is the caveat. Delivery blends on-campus/online; confirm full-time on-ground for PGWP. Intl tuition ~CAD 48k.",
+ "saved_on": "2026-10-06"
+}

@@ -1,0 +1,83 @@
+{
+ "id": "ca-uoft-mi-isd",
+ "claims": {
+  "bachelor_required": {
+   "value": "4-year bachelor's from recognized university",
+   "source": "https://ischool.utoronto.ca/future-students/apply/graduate-admission-requirements-of-our-masters-programs/",
+   "quote": "An appropriate 4\u2013year bachelor's degree from a recognized university is required."
+  },
+  "bachelor_field": {
+   "value": "Any discipline",
+   "source": "https://ischool.utoronto.ca/future-students/apply/graduate-admission-requirements-of-our-masters-programs/",
+   "quote": "No specific discipline is mandated"
+  },
+  "non_cs_eligible": {
+   "value": "yes",
+   "source": "https://ischool.utoronto.ca/future-students/apply/graduate-admission-requirements-of-our-masters-programs/"
+  },
+  "non_cs_notes": {
+   "value": "Any background accepted; work experience valued in holistic review but cannot substitute for academic requirements",
+   "source": "https://ischool.utoronto.ca/future-students/apply/graduate-admission-requirements-of-our-masters-programs/",
+   "quote": "Work experience is valued but cannot substitute for academic requirements"
+  },
+  "prerequisites": {
+   "value": "None specified",
+   "source": "https://ischool.utoronto.ca/future-students/apply/graduate-admission-requirements-of-our-masters-programs/"
+  },
+  "min_gpa": {
+   "value": "mid-B equivalent (3.3/4.0 cGPA or final year); search snippet on ischool site says B+ generally competitive",
+   "source": "https://ischool.utoronto.ca/future-students/apply/graduate-admission-requirements-of-our-masters-programs/",
+   "quote": "A mid-B equivalent is required for consideration (3.3 / 4.0 GPA cGPA or final year)."
+  },
+  "work_experience_considered": {
+   "value": "YES",
+   "source": "https://ischool.utoronto.ca/future-students/apply/graduate-admission-requirements-of-our-masters-programs/"
+  },
+  "experience_pathway": {
+   "value": "no",
+   "source": "https://ischool.utoronto.ca/future-students/apply/graduate-admission-requirements-of-our-masters-programs/",
+   "quote": "cannot substitute for academic requirements (but no-CS-degree needed)"
+  },
+  "ielts": {
+   "value": "7.5 overall, writing 7.5, speaking 7 (if no waiver)",
+   "source": "https://ischool.utoronto.ca/future-students/international-applicants/admission-requirements/"
+  },
+  "toefl": {
+   "value": "107 iBT, speaking 24, writing 27 (if no waiver)",
+   "source": "https://ischool.utoronto.ca/future-students/international-applicants/admission-requirements/"
+  },
+  "english_waiver": {
+   "value": "Likely yes: degree from institution where English is uniform language of instruction/examination, with official confirmation",
+   "source": "https://ischool.utoronto.ca/future-students/apply/graduate-admission-requirements-of-our-masters-programs/",
+   "quote": "Waivers are possible if applicants obtained their degree from an English-language institution with official confirmation."
+  },
+  "gre_gmat": {
+   "value": "NOT REQUIRED",
+   "source": "https://ischool.utoronto.ca/future-students/apply/graduate-admission-requirements-of-our-masters-programs/",
+   "quote": "Standardized tests (such as GMAT or GRE) are not required or requested, and will not be considered."
+  },
+  "other_requirements": {
+   "value": "2 academic references (3rd optional); essay-format Statement of Interest (400-600 words) plus question responses",
+   "source": "https://ischool.utoronto.ca/future-students/apply/graduate-admission-requirements-of-our-masters-programs/"
+  },
+  "application_fee": {
+   "value": "135 CAD, non-refundable",
+   "source": "https://ischool.utoronto.ca/future-students/apply/graduate-admission-requirements-of-our-masters-programs/"
+  },
+  "deadline": {
+   "value": "Regular deadline January 31 for Fall (intl and domestic)",
+   "source": "https://ischool.utoronto.ca/future-students/apply/graduate-admission-requirements-of-our-masters-programs/"
+  },
+  "duration": {
+   "value": "8.0 FCE, about 2 years, in-person Toronto",
+   "source": "https://ischool.utoronto.ca/master-of-information/information-systems-and-design/"
+  },
+  "coop_internship": {
+   "value": "MI Co-op (1.0 FCE placement), practicum, thesis option",
+   "source": "https://ischool.utoronto.ca/master-of-information/information-systems-and-design/"
+  }
+ },
+ "eligibility": "eligible",
+ "eligibility_notes": "Provisional: any-discipline 4-year degree accepted, no GRE, English likely waived with official confirmation of English medium of instruction. GPA threshold 3.3/4.0 mid-B; 2:1 should map but exact CGPA unknown. Requires 2 academic references (may be hard if long out of school). Work experience cannot substitute for academic requirements but is valued.",
+ "saved_on": "2026-10-06"
+}

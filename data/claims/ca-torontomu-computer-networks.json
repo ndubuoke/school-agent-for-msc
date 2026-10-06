@@ -1,0 +1,80 @@
+{
+ "id": "ca-torontomu-computer-networks",
+ "claims": {
+  "bachelor_required": {
+   "value": "4-year undergraduate degree in engineering, CS, mathematics or physical sciences (or equivalent)",
+   "source": "https://www.torontomu.ca/graduate/programs/computer-networks/",
+   "quote": "completion of a four-year undergraduate degree in engineering, computer science, mathematics or physical sciences (or equivalent degree)"
+  },
+  "bachelor_field": {
+   "value": "Engineering, CS, mathematics or physical sciences (or equivalent)",
+   "source": "https://www.torontomu.ca/graduate/programs/computer-networks/"
+  },
+  "non_cs_eligible": {
+   "value": "case-by-case",
+   "source": "https://www.torontomu.ca/graduate/programs/computer-networks/"
+  },
+  "non_cs_notes": {
+   "value": "Geography may or may not count as 'physical sciences or equivalent'; no stated pathway",
+   "source": "https://www.torontomu.ca/graduate/programs/computer-networks/",
+   "quote": "engineering, computer science, mathematics or physical sciences (or equivalent degree)"
+  },
+  "prerequisites": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "min_gpa": {
+   "value": "MEng 3.00/4.33 (B) last two years; MASc 3.33/4.33",
+   "source": "https://www.torontomu.ca/graduate/programs/computer-networks/"
+  },
+  "work_experience_considered": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "experience_pathway": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "ielts": {
+   "value": "6.5 (band minimums UNKNOWN)",
+   "source": "https://www.torontomu.ca/graduate/future-students/requirements/"
+  },
+  "toefl": {
+   "value": "80 iBT",
+   "source": "https://www.torontomu.ca/graduate/future-students/requirements/"
+  },
+  "english_waiver": {
+   "value": "Yes if 2+ years full-time postsecondary in English-medium university, with registrar statement",
+   "source": "https://www.torontomu.ca/graduate/future-students/requirements/",
+   "quote": "completed two or more years of full-time postsecondary education at a university at which English was the primary language of instruction"
+  },
+  "gre_gmat": {
+   "value": "NOT REQUIRED (not mentioned)",
+   "source": "https://www.torontomu.ca/graduate/programs/computer-networks/"
+  },
+  "other_requirements": {
+   "value": "2 recommendation letters, statement of interest, CV, transcripts",
+   "source": "https://www.torontomu.ca/graduate/programs/computer-networks/"
+  },
+  "application_fee": {
+   "value": "110 CAD",
+   "source": "https://www.torontomu.ca/graduate/future-students/apply/faq/",
+   "quote": "A $110 CAD application fee is required for each application."
+  },
+  "deadline": {
+   "value": "First consideration date for Fall 2026 was Jan 19, 2026; Fall 2027 not yet published",
+   "source": "https://www.torontomu.ca/graduate/future-students/apply/faq/"
+  },
+  "delivery_mode": {
+   "value": "MEng full-time or part-time (on-campus); MASc full-time",
+   "source": "https://www.torontomu.ca/graduate/programs/computer-networks/"
+  },
+  "coop_internship": {
+   "value": "Not stated",
+   "source": "https://www.torontomu.ca/graduate/programs/computer-networks/"
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: degree list is engineering/CS/math/physical sciences 'or equivalent'; a Geography BSc may be judged as physical science or not, and no experience pathway is stated, so confirm with program. English test waivable via English-medium degree. Not a clear hard-filter failure. Network-centric curriculum with cloud computing lab; less IS-management.",
+ "saved_on": "2026-10-06"
+}

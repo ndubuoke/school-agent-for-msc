@@ -1,0 +1,87 @@
+{
+ "id": "ca-etsmtl-msca-information-technology-engineering",
+ "claims": {
+  "bachelor_required": {
+   "value": "Bachelor's or equivalent in engineering, applied sciences or 'appropriate field', cumulative avg >= 3.0/4.3",
+   "source": "https://www.etsmtl.ca/programmes-formations/maitrise-genie-technologies-information",
+   "quote": "\u00catre titulaire d'un baccalaur\u00e9at, ou l'\u00e9quivalent, en g\u00e9nie, en sciences appliqu\u00e9es ou dans un domaine appropri\u00e9, obtenu avec une moyenne cumulative d'au moins 3,0 (sur 4,3)"
+  },
+  "bachelor_field": {
+   "value": "Engineering, computer science, applied sciences with IT component, or appropriate field",
+   "source": "https://www.etsmtl.ca/programmes-formations/maitrise-genie-technologies-information"
+  },
+  "non_cs_eligible": {
+   "value": "case-by-case",
+   "source": "https://www.etsmtl.ca/programmes-formations/maitrise-genie-technologies-information",
+   "quote": "dans un domaine appropri\u00e9"
+  },
+  "non_cs_notes": {
+   "value": "Geography degree not obviously 'appropriate'; alternative route via knowledge/training/relevant professional experience in engineering environments",
+   "source": "https://www.etsmtl.ca/programmes-formations/maitrise-genie-technologies-information"
+  },
+  "min_gpa": {
+   "value": "3.0/4.3; 2.8-3.0 may be admitted after file review",
+   "source": "https://www.etsmtl.ca/programmes-formations/maitrise-genie-technologies-information"
+  },
+  "work_experience_considered": {
+   "value": "yes",
+   "source": "https://www.etsmtl.ca/programmes-formations/maitrise-genie-technologies-information"
+  },
+  "experience_pathway": {
+   "value": "yes",
+   "source": "https://www.etsmtl.ca/programmes-formations/maitrise-genie-technologies-information",
+   "quote": "candidates may possess necessary knowledge, appropriate training and relevant professional experience in engineering-focused environments"
+  },
+  "prerequisites": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "english_req": {
+   "value": "M.Sc.A. can be admitted on English proficiency (anglophone university diploma or English test) but must pass a 3-credit university French course to graduate AND must show a professor agreed to act as thesis director",
+   "source": "https://www.etsmtl.ca/programmes-formations/maitrise-genie-technologies-information"
+  },
+  "english_waiver": {
+   "value": "Yes via anglophone university diploma (Nigerian English-medium degree acceptance unconfirmed)",
+   "source": "https://www.etsmtl.ca/programmes-formations/maitrise-genie-technologies-information"
+  },
+  "ielts": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "toefl": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "gre_gmat": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "other_requirements": {
+   "value": "Confirmed thesis supervisor required for English-based admission; thesis profile (30 thesis credits)",
+   "source": "https://www.etsmtl.ca/programmes-formations/maitrise-genie-technologies-information"
+  },
+  "language": {
+   "value": "French default; English admission allowed for M.Sc.A. research profile with mandatory 3-credit French course (the M.Ing. is French-only)",
+   "source": "https://www.etsmtl.ca/programmes-formations/maitrise-genie-technologies-information"
+  },
+  "duration": {
+   "value": "45 credits, 6 full-time sessions (~2 years)",
+   "source": "https://www.etsmtl.ca/programmes-formations/maitrise-genie-technologies-information"
+  },
+  "deadline": {
+   "value": "Fall Aug 1 / Winter Dec 1 / Spring Apr 1; international earlier (dates not stated)",
+   "source": "https://www.etsmtl.ca/programmes-formations/maitrise-genie-technologies-information"
+  },
+  "application_fee": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "tuition_amount": {
+   "value": "UNKNOWN",
+   "source": ""
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: English admission is possible for the M.Sc.A. but requires a pre-secured thesis director and a 3-credit French course; field requirement is engineering/CS/applied sciences or 'appropriate field', with a professional-experience alternative. Geography degree plus 5-7 yrs DevOps is case-by-case. Research/thesis format; funding, tuition and international deadlines UNKNOWN. Not ineligible.",
+ "saved_on": "2026-10-06"
+}

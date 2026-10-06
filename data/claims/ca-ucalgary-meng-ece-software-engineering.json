@@ -1,0 +1,74 @@
+{
+ "id": "ca-ucalgary-meng-ece-software-engineering",
+ "claims": {
+  "bachelor_required": {
+   "value": "Four-year bachelor's degree in engineering for Software Engineering specialization",
+   "source": "https://calendar.ucalgary.ca/programs/ENECMENG/admissions-cMwRI",
+   "quote": "A four-year bachelor's degree in engineering from a recognized institution"
+  },
+  "bachelor_field": {
+   "value": "Engineering (general MEng: electrical, computer or software engineering; other disciplines may be considered with extra undergrad courses)",
+   "source": "https://calendar.ucalgary.ca/programs/ENECMENG/admissions-cMwRI"
+  },
+  "non_cs_eligible": {
+   "value": "case-by-case",
+   "source": "https://calendar.ucalgary.ca/programs/ENECMENG/admissions-cMwRI",
+   "quote": "Applicants from other disciplines may be considered; additional undergraduate courses ... may be required"
+  },
+  "non_cs_notes": {
+   "value": "Foundation courses (C, Python, Java, data structures, testing) exist for non-software engineers, but the specialization asks for an engineering bachelor's; a Geography BSc is not engineering. Non-engineering route is only the general-MEng 'other disciplines may be considered' wording.",
+   "source": "https://schulich.ucalgary.ca/electrical-computer/programs/graduate/master-engineering-course-based-software"
+  },
+  "prerequisites": {
+   "value": "Possible extra undergraduate EE/CE/SE courses; 3 foundation courses for non-software engineers",
+   "source": "https://calendar.ucalgary.ca/programs/ENECMENG/admissions-cMwRI"
+  },
+  "min_gpa": {
+   "value": "3.0/4.0 over last two years (60 units) - from search snippet of Calgary calendar, not read directly",
+   "source": ""
+  },
+  "duration": {
+   "value": "12 months for non-software engineers (3 foundation + 10 core courses over three terms); two years or less",
+   "source": "https://schulich.ucalgary.ca/electrical-computer/programs/graduate/master-engineering-course-based-software"
+  },
+  "work_experience_considered": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "experience_pathway": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "ielts": {
+   "value": "6.5 (snippet, unverified)",
+   "source": ""
+  },
+  "toefl": {
+   "value": "86, no section below 20 (snippet, unverified)",
+   "source": ""
+  },
+  "english_waiver": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "gre_gmat": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "other_requirements": {
+   "value": "Rolling offers; program fills quickly",
+   "source": "https://schulich.ucalgary.ca/electrical-computer/programs/graduate/master-engineering-course-based-software"
+  },
+  "application_fee": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "coop_internship": {
+   "value": "UNKNOWN",
+   "source": ""
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: software specialization asks for a 4-year ENGINEERING bachelor's; Philip holds a Geography BSc, so admission depends on 'other disciplines may be considered' with extra undergrad courses. Likely weak fit and curriculum (data engineering, ML, VR) is not cloud/IT-management. Not ineligible because wording allows other disciplines, and filter 9 is about computing degrees.",
+ "saved_on": "2026-10-06"
+}

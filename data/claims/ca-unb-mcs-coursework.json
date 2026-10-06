@@ -1,0 +1,93 @@
+{
+ "id": "ca-unb-mcs-coursework",
+ "claims": {
+  "bachelor_required": {
+   "value": "Undergraduate degree in CS or related discipline (engineering/science); no length/class scale stated",
+   "source": "https://www.unb.ca/fredericton/cs/grad/admission.html",
+   "quote": "an undergraduate degree in computer science (or related discipline such as engineering or science), with a minimum GPA of B for the MCS by coursework and MACSec"
+  },
+  "bachelor_field": {
+   "value": "Computer science or related discipline such as engineering or science",
+   "source": "https://www.unb.ca/fredericton/cs/grad/admission.html",
+   "quote": "an undergraduate degree in computer science (or related discipline such as engineering or science), with a minimum GPA of B for the MCS by coursework and MACSec"
+  },
+  "non_cs_eligible": {
+   "value": "case-by-case",
+   "source": "https://www.unb.ca/fredericton/cs/grad/admission.html",
+   "quote": "an undergraduate degree in computer science (or related discipline such as engineering or science), with a minimum GPA of B for the MCS by coursework and MACSec"
+  },
+  "non_cs_notes": {
+   "value": "Related discipline (engineering/science) accepted but formal CS background expected; no explicit non-CS route",
+   "source": "https://www.unb.ca/fredericton/cs/grad/admission.html",
+   "quote": "Applicants are expected to have a formal background in software engineering, data structures, operating systems, algorithms and computer architecture"
+  },
+  "prerequisites": {
+   "value": "Formal background in software engineering, data structures, operating systems, algorithms, computer architecture",
+   "source": "https://www.unb.ca/fredericton/cs/grad/admission.html",
+   "quote": "Applicants are expected to have a formal background in software engineering, data structures, operating systems, algorithms and computer architecture"
+  },
+  "min_gpa": {
+   "value": "B (coursework option and MACSec); B+ for thesis/report MCS. Top 20% of class expected",
+   "source": "https://www.unb.ca/fredericton/cs/grad/admission.html",
+   "quote": "minimum GPA of B for the MCS by coursework and MACSec"
+  },
+  "work_experience_considered": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "experience_pathway": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "work_experience": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "ielts": {
+   "value": "IELTS Academic 7.0 overall (Graduate Studies minimum; programs may require higher)",
+   "source": "https://www.unb.ca/gradstudies/admissions/international.html"
+  },
+  "toefl": {
+   "value": "TOEFL iBT: new Jan 2026+ scale 5 overall, 4.5 speaking/writing (Graduate Studies); program-specific minimums UNKNOWN",
+   "source": "https://www.unb.ca/gradstudies/admissions/international.html"
+  },
+  "english_waiver": {
+   "value": "CONFLICT",
+   "source": "https://www.unb.ca/fredericton/cs/grad/admission.html | https://www.unb.ca/gradstudies/admissions/international.html",
+   "quote": "CONFLICT: CS admission page says English proficiency 'will not be waived'; Graduate Studies international page lists Nigeria among countries exempt from proof of English proficiency."
+  },
+  "english_req": {
+   "value": "CONFLICT: CS admission page says English proficiency 'will not be waived'; Graduate Studies international page lists Nigeria among countries exempt from proof of English proficiency. Exemption list includes Nigeria; Duolingo 125, PTE 65 also accepted otherwise.",
+   "source": "https://www.unb.ca/gradstudies/admissions/international.html"
+  },
+  "gre_gmat": {
+   "value": "OPTIONAL (GRE optional unless credentials from unfamiliar non-Canadian institution; if submitted, Quant 600+, AW 3.5+)",
+   "source": "https://www.unb.ca/fredericton/cs/grad/admission.html",
+   "quote": "GRE scores are optional unless your academic credentials come from an unfamiliar non-Canadian institution"
+  },
+  "other_requirements": {
+   "value": "Official transcripts, three letters of recommendation (at least 2 academic), CV; MCS thesis/report also supervisor-student agreement",
+   "source": "https://www.unb.ca/fredericton/cs/grad/admission.html"
+  },
+  "application_fee": {
+   "value": "125 CAD (international)",
+   "source": "https://www.unb.ca/gradstudies/admissions/index.html",
+   "quote": "International applicants: $125"
+  },
+  "deadline": {
+   "value": "Sept intake: Dec 15 (early), Jan 15 (standard, extended to Feb 28)",
+   "source": "https://www.unb.ca/fredericton/cs/grad/admission.html"
+  },
+  "duration": {
+   "value": "16-24 months typical for master's; co-op option available",
+   "source": "https://www.unb.ca/fredericton/cs/grad/masters/index.html"
+  },
+  "coop_internship": {
+   "value": "Co-op available",
+   "source": "https://www.unb.ca/fredericton/cs/grad/masters/index.html"
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: same department admission page; 'related discipline such as engineering or science' accepted but formal CS background expected; no experience pathway stated (UNKNOWN). Generic CS with co-op, tuition not found. English waiver conflict between pages.",
+ "saved_on": "2026-10-06"
+}

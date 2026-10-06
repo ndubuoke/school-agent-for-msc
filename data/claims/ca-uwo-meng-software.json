@@ -1,0 +1,79 @@
+{
+ "id": "ca-uwo-meng-software",
+ "claims": {
+  "bachelor_required": {
+   "value": "4-year honours bachelor's, ECE or equivalent",
+   "source": "https://www.eng.uwo.ca/electrical/graduate/future_students/How-to-apply.html",
+   "quote": "Minimum 70% average in the last two years of study in a four-year honours degree or equivalent from an accredited university."
+  },
+  "bachelor_field": {
+   "value": "Electrical & Computer Engineering or equivalent; similar degree from another scientific discipline in some cases with approval",
+   "source": "https://www.eng.uwo.ca/electrical/graduate/current_students/meng_programs/index.html"
+  },
+  "non_cs_eligible": {
+   "value": "case-by-case",
+   "source": "https://www.eng.uwo.ca/electrical/graduate/future_students/How-to-apply.html",
+   "quote": "In some cases, students with a similar degree from another scientific discipline may be admitted, with appropriate approval (per search summary; verify quote)"
+  },
+  "non_cs_notes": {
+   "value": "Non-ECE degrees only 'in some cases' with approval; Geography fit doubtful; no experience pathway found",
+   "source": "https://www.eng.uwo.ca/electrical/graduate/future_students/How-to-apply.html"
+  },
+  "prerequisites": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "min_gpa": {
+   "value": "70% (B) in last two years",
+   "source": "https://www.eng.uwo.ca/electrical/graduate/future_students/How-to-apply.html"
+  },
+  "work_experience_considered": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "experience_pathway": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "ielts": {
+   "value": "6.5 overall, no band below 6.0",
+   "source": "https://www.eng.uwo.ca/electrical/graduate/future_students/How-to-apply.html"
+  },
+  "toefl": {
+   "value": "UNKNOWN (page lists 'TOEFL minimum 4.5', likely a section/essay scale; verify)",
+   "source": "https://www.eng.uwo.ca/electrical/graduate/future_students/How-to-apply.html"
+  },
+  "english_waiver": {
+   "value": "UNKNOWN: no medium-of-instruction exemption found on ECE page",
+   "source": "https://www.eng.uwo.ca/electrical/graduate/future_students/How-to-apply.html"
+  },
+  "gre_gmat": {
+   "value": "UNKNOWN (not mentioned)",
+   "source": "https://www.eng.uwo.ca/electrical/graduate/future_students/How-to-apply.html"
+  },
+  "other_requirements": {
+   "value": "2 letters (academic preferred), CV, statement of purpose, supplementary questions, transcripts",
+   "source": "https://www.eng.uwo.ca/electrical/graduate/future_students/How-to-apply.html"
+  },
+  "application_fee": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "deadline": {
+   "value": "Application rounds for professional MEng; Sept 2027 dates not found",
+   "source": "https://www.eng.uwo.ca/electrical/graduate/future_students/How-to-apply.html"
+  },
+  "duration": {
+   "value": "3 terms; co-op option 4 terms (75% average needed)",
+   "source": "https://www.eng.uwo.ca/graduate/future-students/Graduate-Degree-Programs/meng-programs.html"
+  },
+  "coop_internship": {
+   "value": "Co-op option available, requires cumulative average 75%+",
+   "source": "https://www.eng.uwo.ca/graduate/future-students/Graduate-Degree-Programs/meng-programs.html",
+   "quote": "a cumulative average of 75% or higher"
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: stated requirement is ECE or equivalent, with non-engineering 'scientific discipline' degrees only by approval; Geography is uncertain and no experience pathway found, so not a clear reject. English waiver, fee, GRE and deadlines UNKNOWN. Software engineering focus with cloud course; far from IS management.",
+ "saved_on": "2026-10-06"
+}

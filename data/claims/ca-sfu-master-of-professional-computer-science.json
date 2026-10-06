@@ -1,0 +1,80 @@
+{
+ "id": "ca-sfu-master-of-professional-computer-science",
+ "claims": {
+  "bachelor_required": {
+   "value": "Bachelor's degree or equivalent",
+   "source": "https://www.sfu.ca/fas/study/future-graduates/apply/computing-science.html"
+  },
+  "bachelor_field": {
+   "value": "Computer science or a related field",
+   "source": "https://www.sfu.ca/fas/study/future-graduates/apply/computing-science.html",
+   "quote": "a bachelor's degree or equivalent in computer science or a related field"
+  },
+  "non_cs_eligible": {
+   "value": "case-by-case",
+   "source": "https://www.sfu.ca/fas/study/future-graduates/apply/computing-science.html"
+  },
+  "experience_pathway": {
+   "value": "case-by-case",
+   "source": "https://www.sfu.ca/fas/study/future-graduates/apply/computing-science.html",
+   "quote": "The admissions committee may evaluate exceptional applicants from non-CS fields using relevant work experience, course work, or certificates, diplomas, etc."
+  },
+  "work_experience_considered": {
+   "value": "CASE-BY-CASE",
+   "source": "https://www.sfu.ca/fas/study/future-graduates/apply/computing-science.html"
+  },
+  "non_cs_notes": {
+   "value": "Exceptional non-CS applicants may be evaluated using work experience, coursework, certificates",
+   "source": "https://www.sfu.ca/fas/study/future-graduates/apply/computing-science.html",
+   "quote": "relevant work experience, course work, or certificates, diplomas, etc."
+  },
+  "prerequisites": {
+   "value": "Competence at 3rd-year level equivalent to CMPT 300 (OS), CMPT 307 (algorithms), CMPT 354 (databases) per search summary; plus programming/maths list",
+   "source": "https://www.sfu.ca/fas/study/future-graduates/apply/computing-science.html"
+  },
+  "min_gpa": {
+   "value": "3.00/4.33 cumulative, or 3.33/4.33 on last 60 credits (Canadian-educated); international per country equivalencies",
+   "source": "https://www.sfu.ca/fas/study/future-graduates/apply/computing-science.html"
+  },
+  "english_waiver": {
+   "value": "Waived only for degrees from English-medium institutions in English-primary countries; Nigeria status unclear (likely test needed)",
+   "source": "https://www.sfu.ca/fas/study/future-graduates/apply/computing-science.html",
+   "quote": "Required unless applicants completed degrees in English-medium institutions within English-primary countries"
+  },
+  "english_req": {
+   "value": "IELTS/TOEFL required unless waived",
+   "source": "https://www.sfu.ca/fas/study/future-graduates/apply/computing-science.html"
+  },
+  "ielts": {
+   "value": "7.0 overall, 6.5 each section (MPCS; per search summary of SFU page, not directly fetched)",
+   "source": "https://www.sfu.ca/fas/study/future-graduates/apply/computing-science.html"
+  },
+  "toefl": {
+   "value": "iBT 93, min 20 each section",
+   "source": "https://www.sfu.ca/fas/study/future-graduates/apply/computing-science.html"
+  },
+  "gre_gmat": {
+   "value": "NOT REQUIRED (not listed among required documents)",
+   "source": "https://www.sfu.ca/fas/study/future-graduates/apply/computing-science.html"
+  },
+  "other_requirements": {
+   "value": "3 professional reference letters, CV, SOP (max 2 pages), unofficial transcripts, English test if applicable",
+   "source": "https://www.sfu.ca/fas/study/future-graduates/apply/computing-science.html"
+  },
+  "application_fee": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "deadline": {
+   "value": "Fall 2027: January 19, 2027",
+   "source": "https://www.sfu.ca/fas/study/future-graduates/apply/computing-science.html"
+  },
+  "coop_internship": {
+   "value": "Mandatory paid co-op (per record notes; not re-verified)",
+   "source": "https://www.sfu.ca/fas/study/future-graduates/apply/computing-science.html"
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: CS or related degree normally required, but non-CS exceptional applicants may be assessed on work experience, courses, certificates (not a reject). Prerequisite gaps in maths and CS fundamentals; IELTS/TOEFL probably required (Nigeria waiver unlikely); competitive; three professional references, SOP, CV; Fall 2027 deadline Jan 19, 2027.",
+ "saved_on": "2026-10-06"
+}

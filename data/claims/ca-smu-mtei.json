@@ -1,0 +1,97 @@
+{
+ "id": "ca-smu-mtei",
+ "claims": {
+  "bachelor_required": {
+   "value": "Undergraduate degree from an accredited university",
+   "source": "https://www.smu.ca/sobey/mtei/admissions/",
+   "quote": "Applicants will possess an Undergraduate degree in any discipline from an accredited university."
+  },
+  "bachelor_field": {
+   "value": "Any discipline",
+   "source": "https://www.smu.ca/sobey/mtei/admissions/"
+  },
+  "non_cs_eligible": {
+   "value": "yes",
+   "source": "https://www.smu.ca/sobey/mtei/admissions/",
+   "quote": "Undergraduate degree in any discipline"
+  },
+  "non_cs_notes": {
+   "value": "Any discipline accepted",
+   "source": "https://www.smu.ca/sobey/mtei/admissions/",
+   "quote": "Applicants will possess an Undergraduate degree in any discipline from an accredited university."
+  },
+  "prerequisites": {
+   "value": "None stated",
+   "source": "https://www.smu.ca/sobey/mtei/admissions/"
+  },
+  "min_gpa": {
+   "value": "B average (3.0 GPA) or equivalent in final 60 credit hours",
+   "source": "https://www.smu.ca/sobey/mtei/admissions/"
+  },
+  "experience_pathway": {
+   "value": "UNKNOWN",
+   "source": "https://www.smu.ca/sobey/mtei/admissions/"
+  },
+  "work_experience_considered": {
+   "value": "YES (CV indicating relevant working experiences required)",
+   "source": "https://www.smu.ca/sobey/mtei/admissions/",
+   "quote": "submit an up-to-date curriculum vitae, indicating relevant working experiences"
+  },
+  "work_experience": {
+   "value": "considered",
+   "source": "https://www.smu.ca/sobey/mtei/admissions/"
+  },
+  "ielts": {
+   "value": "7.0 overall, no band below 6.5",
+   "source": "https://www.smu.ca/sobey/mtei/admissions/"
+  },
+  "toefl": {
+   "value": "iBT 92, no band below 20",
+   "source": "https://www.smu.ca/sobey/mtei/admissions/"
+  },
+  "english_waiver": {
+   "value": "UNKNOWN - MTEI page lists scores for non-native speakers and does not mention waiver; general SMU grad policy exempts Nigeria-degree holders",
+   "source": "https://www.smu.ca/gradstudies/graduate-studies-language-requirements.html"
+  },
+  "english_req": {
+   "value": "TOEFL iBT 92 / IELTS 7.0 / DET 125 for non-native speakers; general SMU grad exemption: degree with 3+ years English instruction from exempted country (Nigeria listed)",
+   "source": "https://www.smu.ca/sobey/mtei/admissions/"
+  },
+  "gre_gmat": {
+   "value": "NOT REQUIRED (not mentioned)",
+   "source": "https://www.smu.ca/sobey/mtei/admissions/"
+  },
+  "other_requirements": {
+   "value": "2 letters of reference; CV; timed online interview (per search result, unconfirmed on admissions page); 125 CAD fee",
+   "source": "https://www.smu.ca/sobey/mtei/admissions/"
+  },
+  "application_fee": {
+   "value": "125 CAD",
+   "source": "https://www.smu.ca/sobey/mtei/admissions/"
+  },
+  "deadline": {
+   "value": "International: 2026-05-15 for 2026 entry (passed); 2027 date not yet posted",
+   "source": "https://www.smu.ca/sobey/mtei/admissions/"
+  },
+  "tuition_amount": {
+   "value": "46000 CAD international total (2026-27 estimate)",
+   "source": "https://www.smu.ca/sobey/mtei/tuitionfees/"
+  },
+  "duration": {
+   "value": "16 months full-time (4 semesters), alternating Fri/Sat classes",
+   "source": "https://www.smu.ca/sobey/mtei/programoverview/"
+  },
+  "coop_internship": {
+   "value": "Capstone options: startup, 6-month internship, thesis, coursework",
+   "source": "https://www.smu.ca/sobey/mtei/programoverview/"
+  },
+  "post_study_work": {
+   "value": "Eligible for 3-year PGWP",
+   "source": "https://www.smu.ca/sobey/mtei/programoverview/",
+   "quote": "MTEI program is eligible for three-year Post Graduation Work Permit (PGWP) in Canada."
+  }
+ },
+ "eligibility": "eligible",
+ "eligibility_notes": "Provisional: any-discipline degree accepted; 2:1 likely meets 3.0 B-average (conversion unknown). Experience valued via CV. Eligibility is not the issue; fit is: curriculum is business/entrepreneurship (strategy, marketing, finance, IT), likely low relevance. English waiver for MTEI not explicitly confirmed (IELTS 7.0 otherwise). Tuition 46,000 CAD.",
+ "saved_on": "2026-10-06"
+}

@@ -1,0 +1,89 @@
+{
+ "id": "ca-concordia-msc-batm",
+ "claims": {
+  "bachelor_required": {
+   "value": "Bachelor's degree in any discipline, min overall B; B in final two years",
+   "source": "https://www.concordia.ca/jmsb/programs/graduate/msc-batm/admissions/requirements.html",
+   "quote": "A Bachelor's degree in any discipline with a minimum overall grade of B (or equivalent)"
+  },
+  "bachelor_field": {
+   "value": "Any discipline",
+   "source": "https://www.concordia.ca/jmsb/programs/graduate/msc-batm/admissions/requirements.html"
+  },
+  "non_cs_eligible": {
+   "value": "yes (any discipline); non-commerce students may need supplemental courses in statistics, organizational behaviour or business technology",
+   "source": "https://www.concordia.ca/jmsb/programs/graduate/msc-batm/admissions/requirements.html"
+  },
+  "non_cs_notes": {
+   "value": "'A Bachelor's degree in any discipline with a minimum overall grade of B (or equivalent)'; 'Non-commerce students may need supplemental courses in statistics, organizational behaviour, or business technology'",
+   "source": "https://www.concordia.ca/jmsb/programs/graduate/msc-batm/admissions/requirements.html"
+  },
+  "prerequisites": {
+   "value": "Possible supplemental courses: statistics, organizational behaviour, business technology",
+   "source": "https://www.concordia.ca/jmsb/programs/graduate/msc-batm/admissions/requirements.html"
+  },
+  "min_gpa": {
+   "value": "B overall and B in final two years (equivalent; 2:1 likely maps but confirm via country table)",
+   "source": "https://www.concordia.ca/jmsb/programs/graduate/msc-batm/admissions/requirements.html"
+  },
+  "work_experience_considered": {
+   "value": "NO - not required; not stated as substitute",
+   "source": "https://www.concordia.ca/jmsb/programs/graduate/msc-batm/admissions/requirements.html",
+   "quote": "Work experience is 'not required.'"
+  },
+  "experience_pathway": {
+   "value": "not needed (any discipline accepted)",
+   "source": "https://www.concordia.ca/jmsb/programs/graduate/msc-batm/admissions/requirements.html"
+  },
+  "ielts": {
+   "value": "7.0 overall, no section below 6.5",
+   "source": "https://www.concordia.ca/jmsb/programs/graduate/msc-batm/admissions/requirements.html"
+  },
+  "toefl": {
+   "value": "iBT 90, no section below 20",
+   "source": "https://www.concordia.ca/jmsb/programs/graduate/msc-batm/admissions/requirements.html"
+  },
+  "english_waiver": {
+   "value": "yes - test not required with 3+ full years of study in an exempt country; Nigeria on exempt list",
+   "source": "https://www.concordia.ca/gradstudies/future-students/how-to-apply/english-language-proficiency/exempt-countries.html",
+   "quote": "In all cases, the university reserves the right to require a proficiency test if we deem it necessary."
+  },
+  "english_req": {
+   "value": "Duolingo 120 also accepted",
+   "source": "https://www.concordia.ca/jmsb/programs/graduate/msc-batm/admissions/requirements.html"
+  },
+  "gre_gmat": {
+   "value": "UNKNOWN - not mentioned on requirements page",
+   "source": "https://www.concordia.ca/jmsb/programs/graduate/msc-batm/admissions/requirements.html"
+  },
+  "other_requirements": {
+   "value": "CV (1-2 pages), SOP (~500 words), at least two academic references (one extra professional possible), passport copy",
+   "source": "https://www.concordia.ca/jmsb/programs/graduate/msc-batm/admissions/requirements.html"
+  },
+  "application_fee": {
+   "value": "100 CAD",
+   "source": "https://www.concordia.ca/jmsb/programs/graduate/msc-batm/admissions/requirements.html",
+   "quote": "$100 CAD"
+  },
+  "deadline": {
+   "value": "Fall: February 1",
+   "source": "https://www.concordia.ca/jmsb/programs/graduate/msc-batm.html",
+   "quote": "Deadline: February 1"
+  },
+  "tuition_total_cad": {
+   "value": "43,700 CAD international (estimated, 45-credit program, full-time only)",
+   "source": "https://www.concordia.ca/jmsb/programs/graduate/msc-batm/tuition-aid.html"
+  },
+  "funding": {
+   "value": "Entrance awards considered automatically for Feb 1 applicants; not guaranteed; TA/RA not guaranteed",
+   "source": "https://www.concordia.ca/jmsb/programs/graduate/msc-batm/tuition-aid.html"
+  },
+  "duration": {
+   "value": "UNKNOWN",
+   "source": ""
+  }
+ },
+ "eligibility": "eligible",
+ "eligibility_notes": "Provisional: any-discipline bachelor's with B average, so Geography BSc qualifies (possible supplemental stats/business-tech courses). English test likely waived via Nigeria exempt-country list (university can still require test; otherwise IELTS 7.0). Experience not required or credited. GRE/GMAT, duration unknown. Fee 100 CAD; intl tuition about 43,700 CAD. Curriculum is business analytics/tech management, thesis-based, less cloud content.",
+ "saved_on": "2026-10-06"
+}

@@ -1,0 +1,83 @@
+{
+ "id": "ca-wlu-mac",
+ "claims": {
+  "bachelor_required": {
+   "value": "4-year honours degree in Computer Science or a closely related area",
+   "source": "https://www.wlu.ca/programs/science/graduate/applied-computing-mac/index.html",
+   "quote": "A 4-year honours degree in Computer Science or a closely related area"
+  },
+  "bachelor_field": {
+   "value": "CS or closely related; must include data structures, OO programming, software engineering courses",
+   "source": "https://www.wlu.ca/programs/science/graduate/applied-computing-mac/index.html",
+   "quote": "Your degree must clearly include courses in data structures, object-oriented language, programming and software engineering."
+  },
+  "non_cs_eligible": {
+   "value": "UNKNOWN (only 'closely related area' with specific course content)",
+   "source": "https://www.wlu.ca/programs/science/graduate/applied-computing-mac/index.html"
+  },
+  "non_cs_notes": {
+   "value": "Degree must clearly include data structures, OO programming and software engineering courses; no experience substitute stated",
+   "source": "https://www.wlu.ca/programs/science/graduate/applied-computing-mac/index.html",
+   "quote": "Your degree must clearly include courses in data structures, object-oriented language, programming and software engineering."
+  },
+  "prerequisites": {
+   "value": "Courses in data structures, object-oriented programming, software engineering",
+   "source": "https://www.wlu.ca/programs/science/graduate/applied-computing-mac/index.html"
+  },
+  "min_gpa": {
+   "value": "Final year GPA at least B+ and cumulative B+ in all CS courses",
+   "source": "https://www.wlu.ca/programs/science/graduate/applied-computing-mac/index.html"
+  },
+  "work_experience_considered": {
+   "value": "Resume of relevant work experience requested for thesis and co-op options; no substitution stated",
+   "source": "https://www.wlu.ca/programs/science/graduate/applied-computing-mac/index.html"
+  },
+  "experience_pathway": {
+   "value": "UNKNOWN",
+   "source": "https://www.wlu.ca/programs/science/graduate/applied-computing-mac/index.html"
+  },
+  "ielts": {
+   "value": "6.5 overall, no band below 6.0",
+   "source": "https://www.wlu.ca/academics/faculties/graduate-and-postdoctoral-studies/admissions/step-1-applying/international-applicants.html"
+  },
+  "toefl": {
+   "value": "iBT minimum 83",
+   "source": "https://www.wlu.ca/academics/faculties/graduate-and-postdoctoral-studies/admissions/step-1-applying/international-applicants.html"
+  },
+  "english_waiver": {
+   "value": "Test not needed if prior degree language of instruction was English; official letter from prior institution required",
+   "source": "https://www.wlu.ca/academics/faculties/graduate-and-postdoctoral-studies/admissions/step-1-applying/international-applicants.html"
+  },
+  "gre_gmat": {
+   "value": "Not mentioned",
+   "source": "https://www.wlu.ca/programs/science/graduate/applied-computing-mac/index.html"
+  },
+  "other_requirements": {
+   "value": "Coursework: no references. Thesis/co-op: two academic or professional references, statement of research intent, resume",
+   "source": "https://www.wlu.ca/programs/science/graduate/applied-computing-mac/index.html"
+  },
+  "application_fee": {
+   "value": "Non-refundable; amount not stated",
+   "source": "https://www.wlu.ca/programs/science/graduate/applied-computing-mac/index.html"
+  },
+  "deadline": {
+   "value": "Fall 2027: May 30-July 30 (international/domestic windows per page)",
+   "source": "https://www.wlu.ca/programs/science/graduate/applied-computing-mac/index.html"
+  },
+  "coop_internship": {
+   "value": "Co-op option available",
+   "source": "https://www.wlu.ca/programs/science/graduate/applied-computing-mac/index.html"
+  },
+  "duration": {
+   "value": "Four to nine terms",
+   "source": "https://www.wlu.ca/programs/science/graduate/applied-computing-mac/index.html"
+  },
+  "tuition_amount": {
+   "value": "UNKNOWN",
+   "source": ""
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: requires CS or closely related 4-year honours degree with specific programming/software engineering courses and B+ in CS courses; geography degree unlikely to meet this unless coursework covers it. No stated experience pathway (UNKNOWN, not a stated 'no'), so not rejected. English waiver available. Low admission likelihood; ask program whether work experience and certifications substitute.",
+ "saved_on": "2026-10-06"
+}

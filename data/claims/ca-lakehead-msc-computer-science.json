@@ -1,0 +1,92 @@
+{
+ "id": "ca-lakehead-msc-computer-science",
+ "claims": {
+  "bachelor_required": {
+   "value": "Four-year bachelor's or equivalent, at least second class standing (B) on last 20 half courses",
+   "source": "https://www.lakeheadu.ca/programs/graduate/programs/masters/computer-science",
+   "quote": "four year bachelor's degree or its equivalent with at least second class standing (B) based on their last 20 half courses or equivalent"
+  },
+  "bachelor_field": {
+   "value": "Honours Computer Science or equivalent; other degrees considered by coursework and standing",
+   "source": "https://www.lakeheadu.ca/programs/graduate/programs/masters/computer-science"
+  },
+  "non_cs_eligible": {
+   "value": "case-by-case",
+   "source": "https://www.lakeheadu.ca/programs/graduate/programs/masters/computer-science",
+   "quote": "Applicants with degrees outside Computer Science may be considered based on coursework taken and academic standing"
+  },
+  "non_cs_notes": {
+   "value": "Mandatory Computer Science Background Form; admission depends on CS coursework taken",
+   "source": "https://www.lakeheadu.ca/programs/graduate/programs/masters/computer-science"
+  },
+  "prerequisites": {
+   "value": "CS coursework (assessed via Computer Science Background Form); specifics UNKNOWN",
+   "source": "https://www.lakeheadu.ca/programs/graduate/programs/masters/computer-science"
+  },
+  "min_gpa": {
+   "value": "B (second class standing) on last 20 half courses",
+   "source": "https://www.lakeheadu.ca/programs/graduate/programs/masters/computer-science"
+  },
+  "work_experience_considered": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "experience_pathway": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "work_experience": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "ielts": {
+   "value": "6.5 overall, no band below 6.0",
+   "source": "https://www.lakeheadu.ca/programs/graduate/Graduate-english-requirements"
+  },
+  "toefl": {
+   "value": "iBT 80, no component below 19",
+   "source": "https://www.lakeheadu.ca/programs/graduate/Graduate-english-requirements"
+  },
+  "english_waiver": {
+   "value": "yes",
+   "source": "https://www.lakeheadu.ca/programs/graduate/Graduate-english-requirements",
+   "quote": "Successful Completion of Undergraduate Degree taught in English (official letter of English medium of instruction)"
+  },
+  "english_req": {
+   "value": "IELTS 6.5/6.0, TOEFL 80/19, CAEL 60, DET 120; waiver via English-medium degree letter or Lakehead AEP",
+   "source": "https://www.lakeheadu.ca/programs/graduate/Graduate-english-requirements"
+  },
+  "gre_gmat": {
+   "value": "NOT REQUIRED",
+   "source": "https://www.lakeheadu.ca/programs/graduate/programs/masters/computer-science",
+   "quote": "GRE not mentioned in admission requirements"
+  },
+  "other_requirements": {
+   "value": "Transcript, CV, Statement of Purpose, CS Background Form; references: none (course-based), 1-2 (project), 3 (thesis)",
+   "source": "https://www.lakeheadu.ca/programs/graduate/programs/masters/computer-science"
+  },
+  "application_fee": {
+   "value": "125 CAD",
+   "source": "https://www.lakeheadu.ca/programs/graduate/programs/masters/computer-science"
+  },
+  "deadline": {
+   "value": "Fall 2027 application opens Oct 2026; Winter 2027 (Jan) intake open limited; deadline UNKNOWN",
+   "source": "https://www.lakeheadu.ca/programs/graduate/programs/masters/computer-science"
+  },
+  "delivery_mode": {
+   "value": "on-campus (Thunder Bay, Barrie)",
+   "source": "https://www.lakeheadu.ca/programs/graduate/programs/masters/computer-science"
+  },
+  "duration": {
+   "value": "Up to 6 terms (2 years)",
+   "source": "https://www.lakeheadu.ca/programs/graduate/programs/masters/computer-science"
+  },
+  "coop_internship": {
+   "value": "Co-op for Project and Thesis students after 2 terms with 80%+ average",
+   "source": "https://www.lakeheadu.ca/programs/graduate/programs/masters/computer-science"
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: Honours CS preferred, non-CS case-by-case via mandatory CS Background Form; Geography with likely little CS coursework is a risk, work experience not stated as a pathway. English waiver available for English-medium degree. No GRE. 2:1 should meet B standing. Course-based route has no co-op.",
+ "saved_on": "2026-10-06"
+}

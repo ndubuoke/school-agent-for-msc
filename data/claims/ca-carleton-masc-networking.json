@@ -1,0 +1,87 @@
+{
+ "id": "ca-carleton-masc-networking",
+ "claims": {
+  "bachelor_required": {
+   "value": "4-year (honours) bachelor's degree",
+   "source": "https://graduate.carleton.ca/apply-online/minimum-requirements/",
+   "quote": "4-year (honours) bachelor's degree"
+  },
+  "min_gpa": {
+   "value": "B+ or better in major subjects; B- or better overall (Carleton general master's minimum); a third-party site claims 90% for international MNetT, unverified",
+   "source": "https://graduate.carleton.ca/apply-online/minimum-requirements/",
+   "quote": "B+ or better in your major subjects"
+  },
+  "ielts": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "toefl": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "english_waiver": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "gre_gmat": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "application_fee": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "international_students": {
+   "value": "YES (international applicants addressed on program page)",
+   "source": "https://graduate.carleton.ca/program/information-technology-digital-media-networking-technology-masters/"
+  },
+  "bachelor_field": {
+   "value": "Related field (not stated on MASc page; likely as MNetT)",
+   "source": "https://graduate.carleton.ca/program/information-technology-digital-media-networking-technology-masters/"
+  },
+  "non_cs_eligible": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "experience_pathway": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "non_cs_notes": {
+   "value": "Requires support of a faculty supervisor; background rule not stated",
+   "source": "https://graduate.carleton.ca/program/information-technology-digital-media-networking-technology-masters/",
+   "quote": "support of a Carleton faculty member who is willing to supervise you"
+  },
+  "work_experience_considered": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "duration": {
+   "value": "6-term program (~2 years full-time)",
+   "source": "https://carleton.ca/csit/graduate-studies/programs-and-admissions/master-of-applied-science-in-networking/",
+   "quote": "6-term program"
+  },
+  "intake": {
+   "value": "September and January",
+   "source": "https://carleton.ca/csit/graduate-studies/programs-and-admissions/master-of-applied-science-in-networking/",
+   "quote": "Apply any time. In-takes in September and January."
+  },
+  "delivery_mode": {
+   "value": "On campus; thesis work can be done remote",
+   "source": "https://carleton.ca/csit/graduate-studies/programs-and-admissions/master-of-applied-science-in-networking/",
+   "quote": "On campus. Thesis work can be done remote."
+  },
+  "program_type": {
+   "value": "thesis",
+   "source": "https://carleton.ca/csit/graduate-studies/programs-and-admissions/master-of-applied-science-in-networking/"
+  },
+  "other_requirements": {
+   "value": "Must secure a willing Carleton faculty supervisor before admission",
+   "source": "https://graduate.carleton.ca/program/information-technology-digital-media-networking-technology-masters/",
+   "quote": "support of a Carleton faculty member who is willing to supervise you"
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: thesis program needing a willing faculty supervisor; background rule and English requirements not stated on pages read. Applicant has no research record; weak fit with course-based preference.",
+ "saved_on": "2026-10-06"
+}

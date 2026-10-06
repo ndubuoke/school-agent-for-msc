@@ -1,0 +1,84 @@
+{
+ "id": "ca-concordia-mapcompsc",
+ "claims": {
+  "bachelor_required": {
+   "value": "Undergraduate degree in computer science OR graduate diploma in computer science; high academic standing (B average min per university)",
+   "source": "https://www.concordia.ca/academics/graduate/calendar/current/gina-cody-school-of-engineering-and-computer-science-programs/applied-computer-science-mapcompsc.html",
+   "quote": "Undergraduate degree in computer science or a graduate diploma in computer science."
+  },
+  "bachelor_field": {
+   "value": "Computer science (degree) or CS Graduate Diploma",
+   "source": "https://www.concordia.ca/academics/graduate/calendar/current/gina-cody-school-of-engineering-and-computer-science-programs/applied-computer-science-mapcompsc.html"
+  },
+  "non_cs_eligible": {
+   "value": "with-bridging (via Computer Science Graduate Diploma, separate 32-credit program open to any bachelor's)",
+   "source": "https://www.concordia.ca/academics/graduate/calendar/current/gina-cody-school-of-engineering-and-computer-science-programs/computer-science-graduate-diploma.html",
+   "quote": "Bachelor's degree with above-average standing; completion of COMP 248 Object-Oriented Programming I or equivalent"
+  },
+  "non_cs_notes": {
+   "value": "MApCompSc itself: 'Undergraduate degree in computer science or a graduate diploma in computer science.' The CS Graduate Diploma (GrDip) is offered to 'university graduates from diverse backgrounds' (search summary) with entry: bachelor's with above-average standing + COMP 248 or equivalent (OO language). Diploma = min 32 credits, 8 courses (discrete structures, OS, data structures, SE, databases, ML); graduates with superior records 'may apply for admission to a 45 credit Master's program in Computer Science' (not explicitly named MApCompSc). So bridging route exists but adds ~1+ year and cost; no guarantee. Not confirmed whether Diploma-to-MApCompSc is automatic or whether it counts as international-study-permit/PGWP route.",
+   "source": "https://www.concordia.ca/academics/graduate/calendar/current/gina-cody-school-of-engineering-and-computer-science-programs/computer-science-graduate-diploma.html"
+  },
+  "prerequisites": {
+   "value": "COMP 248 (OO programming) or equivalent for the Diploma; Diploma then required for MApCompSc if non-CS degree",
+   "source": "https://www.concordia.ca/academics/graduate/calendar/current/gina-cody-school-of-engineering-and-computer-science-programs/computer-science-graduate-diploma.html"
+  },
+  "min_gpa": {
+   "value": "High standing = B average equivalent (university minimum); program: competitive, 'high academic standing'",
+   "source": "https://www.concordia.ca/gradstudies/future-students/how-to-apply/minimum-requirements.html",
+   "quote": "High standing can be defined as honours, specialization, a GPA equivalent to B average."
+  },
+  "work_experience_considered": {
+   "value": "NO / not mentioned for MApCompSc",
+   "source": "https://www.concordia.ca/academics/graduate/calendar/current/gina-cody-school-of-engineering-and-computer-science-programs/applied-computer-science-mapcompsc.html"
+  },
+  "experience_pathway": {
+   "value": "no (work experience not mentioned as substitute; COMP 248 'equivalence determined by the Diploma Program Director' may allow programming evidence - unconfirmed)",
+   "source": "https://www.concordia.ca/academics/graduate/calendar/current/gina-cody-school-of-engineering-and-computer-science-programs/computer-science-graduate-diploma.html"
+  },
+  "ielts": {
+   "value": "6.5 overall, 6.5 each (general faculty minimum; program may differ)",
+   "source": "https://www.concordia.ca/admissions/graduate/requirements/english-language-proficiency.html"
+  },
+  "toefl": {
+   "value": "iBT 86, no section below 20 (general)",
+   "source": "https://www.concordia.ca/admissions/graduate/requirements/english-language-proficiency.html"
+  },
+  "english_waiver": {
+   "value": "yes (3+ full years undergraduate study in exempt country; Nigeria listed; university may still require a test)",
+   "source": "https://www.concordia.ca/gradstudies/future-students/how-to-apply/english-language-proficiency/exempt-countries.html",
+   "quote": "In all cases, the university reserves the right to require a proficiency test if we deem it necessary."
+  },
+  "english_req": {
+   "value": "Nigeria on exempt-country list; 3 full years undergrad study required",
+   "source": "https://www.concordia.ca/gradstudies/future-students/how-to-apply/english-language-proficiency/exempt-countries.html"
+  },
+  "gre_gmat": {
+   "value": "UNKNOWN - not mentioned",
+   "source": "https://www.concordia.ca/academics/graduate/calendar/current/gina-cody-school-of-engineering-and-computer-science-programs/applied-computer-science-mapcompsc.html"
+  },
+  "other_requirements": {
+   "value": "Application form and fee, CV, three letters of reference and assessment form, statement of purpose, transcripts",
+   "source": "https://www.concordia.ca/academics/graduate/computer-science-mcompsci-applied.html"
+  },
+  "application_fee": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "duration": {
+   "value": "1-2 years, 45 credits (calendar: normally six terms full-time)",
+   "source": "https://www.concordia.ca/academics/graduate/computer-science-mcompsci-applied.html"
+  },
+  "deadline": {
+   "value": "International: Fall March 1 (program page) vs February 1 (calendar search summary) - possible conflict; Winter July 1",
+   "source": "https://www.concordia.ca/academics/graduate/computer-science-mcompsci-applied.html"
+  },
+  "coop_internship": {
+   "value": "Co-op option (per tracker hint, not re-verified)",
+   "source": "https://www.concordia.ca/academics/graduate/computer-science-mcompsci-applied.html"
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: direct entry requires a CS degree, which Philip (Geography BSc) lacks. Bridging route: Concordia's CS Graduate Diploma (32 credits, any bachelor's with above-average standing + COMP 248 or equivalent), after which superior students may apply to a 45-credit CS master's. Not a hard background reject under the non-CS rule (bridging available), but it means ~2 extra terms plus cost, and curriculum is algorithm-heavy. Nigerian degree: English test exemption likely (Nigeria exempt list). Deadline discrepancy Feb 1 vs Mar 1 for Fall; fee, GRE, tuition unknown.",
+ "saved_on": "2026-10-06"
+}

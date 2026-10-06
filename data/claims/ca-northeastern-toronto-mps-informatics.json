@@ -1,0 +1,86 @@
+{
+ "id": "ca-northeastern-toronto-mps-informatics",
+ "claims": {
+  "english_waiver": {
+   "value": "English proficiency proof required; waiver details for this college (CPS) not confirmed on program page",
+   "source": "https://cps.northeastern.edu/admissions-aid/international-admissions/applications/english-language-requirements/"
+  },
+  "ielts": {
+   "value": "UNKNOWN for CPS (COE values: IELTS 6.5/TOEFL 79 do not necessarily apply)",
+   "source": ""
+  },
+  "toefl": {
+   "value": "UNKNOWN for CPS (COE values: IELTS 6.5/TOEFL 79 do not necessarily apply)",
+   "source": ""
+  },
+  "gre_gmat": {
+   "value": "UNKNOWN for CPS (COE values: IELTS 6.5/TOEFL 79 do not necessarily apply)",
+   "source": ""
+  },
+  "application_fee": {
+   "value": "USD 100 normally; waived for new master's applicants for Fall 2026 and Spring 2027 terms (Fall 2027 waiver not confirmed; one search snippet said Fall 2027 waived, unverified)",
+   "source": "https://coe.northeastern.edu/academics-experiential-learning/graduate-school-of-engineering/graduate-admissions/"
+  },
+  "work_experience_considered": {
+   "value": "Resume required; experience not an explicit requirement or substitute",
+   "source": "https://coe.northeastern.edu/academics-experiential-learning/graduate-school-of-engineering/graduate-admissions/"
+  },
+  "bachelor_required": {
+   "value": "Accredited bachelor's (transcripts + FCE); GPA not specified on page",
+   "source": "https://graduate.northeastern.edu/programs/mps-informatics/master-of-professional-studies-in-informatics-toronto/"
+  },
+  "bachelor_field": {
+   "value": "No field stated; program 'draws students from diverse educational backgrounds'",
+   "source": "https://graduate.northeastern.edu/programs/mps-informatics/master-of-professional-studies-in-informatics-toronto/"
+  },
+  "non_cs_eligible": {
+   "value": "yes",
+   "source": "https://graduate.northeastern.edu/programs/mps-informatics/master-of-professional-studies-in-informatics-toronto/",
+   "quote": "draws students from diverse educational backgrounds"
+  },
+  "non_cs_notes": {
+   "value": "No field requirement stated; diverse backgrounds",
+   "source": "https://graduate.northeastern.edu/programs/mps-informatics/master-of-professional-studies-in-informatics-toronto/"
+  },
+  "min_gpa": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "other_requirements": {
+   "value": "2 recommendation letters, resume, personal statement 500-1,000 words, FCE, English proficiency proof",
+   "source": "https://graduate.northeastern.edu/programs/mps-informatics/master-of-professional-studies-in-informatics-toronto/"
+  },
+  "duration": {
+   "value": "12-18 months (graduate page); 15-24 months (Toronto page)",
+   "source": "https://graduate.northeastern.edu/programs/mps-informatics/master-of-professional-studies-in-informatics-toronto/"
+  },
+  "delivery_mode": {
+   "value": "On-ground, hybrid and online options; full-time and part-time. Must choose on-ground full-time for study permit/PGWP",
+   "source": "https://toronto.northeastern.edu/academic_program/master-of-professional-studies-in-informatics/"
+  },
+  "coop_internship": {
+   "value": "UNKNOWN (not seen on pages fetched)",
+   "source": ""
+  },
+  "tuition": {
+   "value": "International CAD 50,466 (2026-27); CAD 50.2K (AY2025-26 estimate)",
+   "source": "https://graduate.northeastern.edu/programs/mps-informatics/master-of-professional-studies-in-informatics-toronto/"
+  },
+  "deadline": {
+   "value": "Rolling; Fall June 15 intl, July 1 in-country; Spring Oct 7 intl",
+   "source": "https://toronto.northeastern.edu/academic_program/master-of-professional-studies-in-informatics/"
+  },
+  "ministry_consent": {
+   "value": "Yes: five-year term starting March 30, 2026 (consistent on program page; earlier 'through 2031' note consistent)",
+   "source": "https://toronto.northeastern.edu/academic_program/master-of-professional-studies-in-informatics/",
+   "quote": "granted a consent by the Minister ... to offer this program for a five-year term starting March 30, 2026"
+  },
+  "cloud_content": {
+   "value": "Cloud computing concentration (cloud engineers, migration, infrastructure architects); competencies incl. IT management, information security, enterprise architecture",
+   "source": "https://graduate.northeastern.edu/programs/mps-informatics/master-of-professional-studies-in-informatics-toronto/"
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: strong fit (IT management + cloud concentration), no field restriction, intl tuition ~CAD 50k. Caveats: CPS test/waiver/GPA/GRE rules not confirmed, multiple delivery modes (online option) so must be on-ground full-time for PGWP, co-op unknown.",
+ "saved_on": "2026-10-06"
+}

@@ -1,0 +1,89 @@
+{
+ "id": "ca-mcmaster-meng-computing-software",
+ "claims": {
+  "bachelor_required": {
+   "value": "Honours Bachelor's degree (4-year)",
+   "source": "https://www.eng.mcmaster.ca/app/uploads/2025/11/CAS-Graduate-Information-1.pdf"
+  },
+  "bachelor_field": {
+   "value": "Engineering, Computer Science, Mathematics, or equivalent",
+   "source": "https://www.eng.mcmaster.ca/app/uploads/2025/11/CAS-Graduate-Information-1.pdf",
+   "quote": "Honours Bachelor's degree in Engineering, Computer Science, Mathematics, or equivalent."
+  },
+  "non_cs_eligible": {
+   "value": "UNKNOWN (list is engineering/CS/maths; geography not named; 'or equivalent' undefined)",
+   "source": "https://www.eng.mcmaster.ca/app/uploads/2025/11/CAS-Graduate-Information-1.pdf"
+  },
+  "non_cs_notes": {
+   "value": "Academic Prerequisites: Honours Bachelor's degree in Engineering, Computer Science, Mathematics, or equivalent. No statement on professional experience or bridging.",
+   "source": "https://www.eng.mcmaster.ca/app/uploads/2025/11/CAS-Graduate-Information-1.pdf"
+  },
+  "experience_pathway": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "work_experience": {
+   "value": "UNKNOWN (none stated on official pages)",
+   "source": "https://www.eng.mcmaster.ca/cas/degree-options/computing-and-software-meng/"
+  },
+  "prerequisites": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "min_gpa": {
+   "value": "Anticipated admission range min B- (70-72%) for MEng",
+   "source": "https://www.eng.mcmaster.ca/app/uploads/2025/11/CAS-Graduate-Information-1.pdf"
+  },
+  "ielts": {
+   "value": "UNKNOWN (page defers to ELP details; not stated for this program)",
+   "source": "https://www.eng.mcmaster.ca/cas/degree-options/computing-and-software-meng/"
+  },
+  "toefl": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "english_waiver": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "english_req": {
+   "value": "ELP (TOEFL/IELTS) scores 'if applicable'; scores not stated on program pages",
+   "source": "https://www.eng.mcmaster.ca/app/uploads/2025/11/CAS-Graduate-Information-1.pdf"
+  },
+  "gre_gmat": {
+   "value": "Not listed among required documents (inferred NOT REQUIRED; verify)",
+   "source": "https://www.eng.mcmaster.ca/app/uploads/2025/11/CAS-Graduate-Information-1.pdf"
+  },
+  "other_requirements": {
+   "value": "Transcripts and degree certificates, statement of interest, CV, ELP scores if applicable, two academic references",
+   "source": "https://www.eng.mcmaster.ca/app/uploads/2025/11/CAS-Graduate-Information-1.pdf"
+  },
+  "application_fee": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "deadline": {
+   "value": "International: February 28",
+   "source": "https://www.eng.mcmaster.ca/app/uploads/2025/11/CAS-Graduate-Information-1.pdf"
+  },
+  "duration": {
+   "value": "1-2 years full-time (page says 2 years); co-op available",
+   "source": "https://www.eng.mcmaster.ca/cas/degree-options/computing-and-software-meng/"
+  },
+  "coop_internship": {
+   "value": "Co-op available",
+   "source": "https://www.eng.mcmaster.ca/cas/degree-options/computing-and-software-meng/"
+  },
+  "key_courses": {
+   "value": "Six half-term graduate courses plus independent project; specializations incl. Computer Systems, Health Informatics, Security, Privacy and Data Analytics",
+   "source": "https://www.eng.mcmaster.ca/cas/degree-options/computing-and-software-meng/"
+  },
+  "tuition_total_cad": {
+   "value": "UNKNOWN (registrar graduate fee schedule not read)",
+   "source": "https://www.eng.mcmaster.ca/app/uploads/2025/11/CAS-Graduate-Information-1.pdf"
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: Degree list is Engineering/CS/Maths 'or equivalent'; a geography BSc is not named and no experience pathway is stated, so background is unknown (ask program), not a clear reject. 2:1 likely meets B- (70-72%) but cgpa/% unconfirmed. English waiver, fee and IELTS minimums not found on pages read. Intl deadline Feb 28 2027 fits Fall 2027.",
+ "saved_on": "2026-10-06"
+}

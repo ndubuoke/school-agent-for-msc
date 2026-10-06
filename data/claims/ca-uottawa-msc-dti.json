@@ -1,0 +1,86 @@
+{
+ "id": "ca-uottawa-msc-dti",
+ "claims": {
+  "bachelor_required": {
+   "value": "Bachelor's degree with specialization or major in a relevant discipline",
+   "source": "https://catalogue.uottawa.ca/en/graduate/master-science-digital-transformation-innovation/",
+   "quote": "Have a Bachelor's degree with a specialization or a major (or equivalent) in a relevant discipline"
+  },
+  "bachelor_field": {
+   "value": "Relevant discipline; must have statistics course, MIS or computing course, and two advanced courses in creative arts/humanities, management or technology",
+   "source": "https://catalogue.uottawa.ca/en/graduate/master-science-digital-transformation-innovation/"
+  },
+  "min_gpa": {
+   "value": "75% (B+) admission average",
+   "source": "https://catalogue.uottawa.ca/en/graduate/master-science-digital-transformation-innovation/",
+   "quote": "minimum admission average of 75% (B+)"
+  },
+  "non_cs_eligible": {
+   "value": "with-bridging",
+   "source": "https://catalogue.uottawa.ca/en/graduate/master-science-digital-transformation-innovation/",
+   "quote": "relevant discipline ... course in statistics; a course in management information systems or computing"
+  },
+  "experience_pathway": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "non_cs_notes": {
+   "value": "Multi-faculty program, not CS-specific; prerequisite courses in statistics and MIS/computing required. Geography degree may need to show those; ask program.",
+   "source": "https://catalogue.uottawa.ca/en/graduate/master-science-digital-transformation-innovation/"
+  },
+  "prerequisites": {
+   "value": "Statistics course; MIS or computing course; two advanced courses in one of creative arts/humanities, management, technology",
+   "source": "https://catalogue.uottawa.ca/en/graduate/master-science-digital-transformation-innovation/"
+  },
+  "work_experience_considered": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "ielts": {
+   "value": "7 in 3 of 4 components, 6 in the fourth",
+   "source": "https://catalogue.uottawa.ca/en/graduate/master-science-digital-transformation-innovation/",
+   "quote": "minimum score of 7 for 3 of the 4 tests"
+  },
+  "toefl": {
+   "value": "100 iBT (600 paper)",
+   "source": "https://catalogue.uottawa.ca/en/graduate/master-science-digital-transformation-innovation/",
+   "quote": "minimum score of 100 (internet-based)"
+  },
+  "english_waiver": {
+   "value": "Probable: proof of previous degree in an English-language university completed within last five years (Philip's graduation year unknown, so may be outside 5 years)",
+   "source": "https://catalogue.uottawa.ca/en/graduate/master-science-digital-transformation-innovation/",
+   "quote": "completion within the last five years, of a previous degree program in an English language university"
+  },
+  "gre_gmat": {
+   "value": "NOT REQUIRED (not mentioned)",
+   "source": "https://catalogue.uottawa.ca/en/graduate/master-science-digital-transformation-innovation/"
+  },
+  "duration": {
+   "value": "Within two years of full-time study",
+   "source": "https://catalogue.uottawa.ca/en/graduate/master-science-digital-transformation-innovation/"
+  },
+  "program_type": {
+   "value": "thesis",
+   "source": "https://catalogue.uottawa.ca/en/graduate/master-science-digital-transformation-innovation/"
+  },
+  "application_fee": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "intake": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "international_students": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "other_requirements": {
+   "value": "References and SOP not specified on page; deadlines on separate requirements page",
+   "source": "https://catalogue.uottawa.ca/en/graduate/master-science-digital-transformation-innovation/"
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: relevant-discipline degree with 75% average; needs statistics, MIS/computing and two advanced courses (gaps unknown given unlisted Geography coursework). English waiver depends on degree completed within last five years. Experience pathway not stated. International tuition not confirmed on an official page; a non-official-looking search snippet suggests ~1080 CAD per credit, unverified.",
+ "saved_on": "2026-10-06"
+}

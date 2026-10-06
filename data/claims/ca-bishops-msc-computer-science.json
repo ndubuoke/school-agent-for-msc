@@ -1,0 +1,82 @@
+{
+ "id": "ca-bishops-msc-computer-science",
+ "claims": {
+  "bachelor_required": {
+   "value": "Undergraduate degree in related field with high academic standing; course-based min 70% (B) for CS/related degrees",
+   "source": "https://www.ubishops.ca/future-students/admission-process/admission-requirements/master-science-msc-applicants/"
+  },
+  "bachelor_field": {
+   "value": "CS/SE/CompE or equivalent; related (Math, Stats, Physics, Engineering) with CS 454 co-requisite; less technical (incl. Earth/Environmental Science) admitted at >=75% (B+)",
+   "source": "https://www.ubishops.ca/academics/faculties-and-schools/faculty-of-natural-sciences-and-mathematics/computer-science/masters-degree-program/graduate-admission/",
+   "quote": "a less technical background such as a Bachelor's in Chemistry, Biochemistry, Earth/Environmental Science, Finance, Economics... no less than our 75% (B+)"
+  },
+  "non_cs_eligible": {
+   "value": "yes",
+   "source": "https://www.ubishops.ca/academics/faculties-and-schools/faculty-of-natural-sciences-and-mathematics/computer-science/masters-degree-program/graduate-admission/",
+   "quote": "Earth/Environmental Science ... provided that their undergraduate academic standing is no less than 75% (B+)"
+  },
+  "non_cs_notes": {
+   "value": "Course-based stream accepts less technical backgrounds at 75%+; MAT 200 and CS 454 assigned as preparatory co-requisites",
+   "source": "https://www.ubishops.ca/academics/faculties-and-schools/faculty-of-natural-sciences-and-mathematics/computer-science/masters-degree-program/graduate-admission/"
+  },
+  "prerequisites": {
+   "value": "MAT 200 and CS 454 preparatory co-requisites for non-CS applicants",
+   "source": "https://www.ubishops.ca/academics/faculties-and-schools/faculty-of-natural-sciences-and-mathematics/computer-science/masters-degree-program/graduate-admission/"
+  },
+  "min_gpa": {
+   "value": "75% (B+) for less technical backgrounds; 70% for CS degrees",
+   "source": "https://www.ubishops.ca/academics/faculties-and-schools/faculty-of-natural-sciences-and-mathematics/computer-science/masters-degree-program/graduate-admission/"
+  },
+  "experience_pathway": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "work_experience_considered": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "ielts": {
+   "value": "6.5 minimum",
+   "source": "https://www.ubishops.ca/academics/faculties-and-schools/faculty-of-natural-sciences-and-mathematics/computer-science/masters-degree-program/graduate-admission/"
+  },
+  "toefl": {
+   "value": "iBT 90 (PBT 580, CBT 237)",
+   "source": "https://www.ubishops.ca/academics/faculties-and-schools/faculty-of-natural-sciences-and-mathematics/computer-science/masters-degree-program/graduate-admission/"
+  },
+  "english_waiver": {
+   "value": "Yes: not required if English is first language or applicant attended at least one year of university in an English-language institution",
+   "source": "https://www.ubishops.ca/academics/faculties-and-schools/faculty-of-natural-sciences-and-mathematics/computer-science/masters-degree-program/graduate-admission/"
+  },
+  "gre_gmat": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "other_requirements": {
+   "value": "Transcript, statement of research interests, ID, program pre-approval form; thesis stream needs pre-application and supervisor",
+   "source": "https://www.ubishops.ca/future-students/admission-process/admission-requirements/master-science-msc-applicants/"
+  },
+  "application_fee": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "deadline": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "tuition_amount": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "program_type": {
+   "value": "Course-based: 12 one-term 500-level courses plus Master's project CS 590 (project only in spring/summer)",
+   "source": "https://www.ubishops.ca/academic-programs/faculty-of-natural-sciences-and-mathematics/computer-science/masters-degree-program/masters-degree-requirements/"
+  },
+  "language": {
+   "value": "English",
+   "source": "https://www.ubishops.ca/academic-programs/faculty-of-natural-sciences-and-mathematics/computer-science/masters-degree-program/"
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: explicitly admits Earth/Environmental Science (non-CS) at 75% (B+) in the course-based stream with MAT 200 and CS 454 prerequisites; whether a Nigerian 2:1 equals 75% is unconfirmed. English waiver via English-language university. Experience pathway, fees, deadline, tuition UNKNOWN. Curriculum is theory-leaning (prior note), low cloud relevance.",
+ "saved_on": "2026-10-06"
+}

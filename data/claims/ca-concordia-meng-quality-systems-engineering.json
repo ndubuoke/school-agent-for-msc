@@ -1,0 +1,100 @@
+{
+ "id": "ca-concordia-meng-quality-systems-engineering",
+ "claims": {
+  "bachelor_required": {
+   "value": "Bachelor's degree or equivalent; admission competitive, 'only applicants with high academic standing will be considered'",
+   "source": "https://www.concordia.ca/academics/graduate/calendar/current/gina-cody-school-of-engineering-and-computer-science-programs/quality-systems-engineering-meng.html"
+  },
+  "bachelor_field": {
+   "value": "Listed engineering fields, Computer Science, or any engineering or science discipline with appropriate background",
+   "source": "https://www.concordia.ca/academics/graduate/calendar/current/gina-cody-school-of-engineering-and-computer-science-programs/quality-systems-engineering-meng.html",
+   "quote": "Bachelor's degree or equivalent in Mechanical Engineering, Industrial Engineering, Electrical Engineering, Building Engineering, Civil Engineering, Environmental Engineering, Software Engineering, Computer Science, or any engineering or science discipline provided that the student has the appropriate background."
+  },
+  "non_cs_eligible": {
+   "value": "case-by-case",
+   "source": "https://www.concordia.ca/academics/graduate/calendar/current/gina-cody-school-of-engineering-and-computer-science-programs/quality-systems-engineering-meng.html",
+   "quote": "any engineering or science discipline provided that the student has the appropriate background"
+  },
+  "non_cs_notes": {
+   "value": "Non-CS accepted only if degree is engineering/science with 'appropriate background'; a Geography BSc is arguably a science discipline but not certain. Qualified applicants may need prerequisite/qualifying courses.",
+   "source": "https://www.concordia.ca/academics/graduate/calendar/current/gina-cody-school-of-engineering-and-computer-science-programs/quality-systems-engineering-meng.html",
+   "quote": "provided that the student has the appropriate background"
+  },
+  "min_gpa": {
+   "value": "UNKNOWN (no number stated; 'high academic standing'; CGPA 2.70 needed to graduate)",
+   "source": "https://www.concordia.ca/academics/graduate/calendar/current/gina-cody-school-of-engineering-and-computer-science-programs/quality-systems-engineering-meng.html"
+  },
+  "work_experience_considered": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "experience_pathway": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "ielts": {
+   "value": "6.5 overall (Gina Cody School)",
+   "source": "https://www.concordia.ca/admissions/graduate/requirements/english-language-proficiency.html"
+  },
+  "toefl": {
+   "value": "iBT 85, no component below 20 (tests before Jan 2026); new-scale 4.5 with no section below 4.0 (tests Jan 2026 or later)",
+   "source": "https://www.concordia.ca/admissions/graduate/requirements/english-language-proficiency.html"
+  },
+  "english_waiver": {
+   "value": "Likely yes: exemption for 3 full years of undergraduate study at an accredited university in a listed English-instruction country; Nigeria appears in exempt-countries list",
+   "source": "https://www.concordia.ca/gradstudies/future-students/how-to-apply/english-language-proficiency/exempt-countries.html",
+   "quote": "Nigeria"
+  },
+  "english_req": {
+   "value": "Test required unless exempt via 3+ years study in listed country (Nigeria listed); other tests not checked",
+   "source": "https://www.concordia.ca/admissions/graduate/requirements/english-language-proficiency.html"
+  },
+  "gre_gmat": {
+   "value": "NOT REQUIRED (none mentioned in documents list)",
+   "source": "https://www.concordia.ca/academics/graduate/calendar/current/gina-cody-school-of-engineering-and-computer-science-programs/quality-systems-engineering-meng.html"
+  },
+  "other_requirements": {
+   "value": "Application form and fee, CV, three letters of reference plus assessment form, statement of purpose, transcripts, language scores unless exempt",
+   "source": "https://www.concordia.ca/academics/graduate/calendar/current/gina-cody-school-of-engineering-and-computer-science-programs/quality-systems-engineering-meng.html"
+  },
+  "application_fee": {
+   "value": "CAD 103 (some program pages show CAD 100)",
+   "source": "search result summary of concordia.ca; not confirmed on a fetched page"
+  },
+  "international_students": {
+   "value": "YES",
+   "source": "https://www.concordia.ca/academics/graduate/calendar/current/gina-cody-school-of-engineering-and-computer-science-programs/quality-systems-engineering-meng.html"
+  },
+  "currently_offered": {
+   "value": "yes (calendar and program pages live)",
+   "source": "https://www.concordia.ca/academics/graduate/calendar/current/gina-cody-school-of-engineering-and-computer-science-programs/quality-systems-engineering-meng.html"
+  },
+  "duration": {
+   "value": "45 credits, course-based; 1-2 years",
+   "source": "https://www.concordia.ca/academics/graduate/calendar/current/gina-cody-school-of-engineering-and-computer-science-programs/quality-systems-engineering-meng.html"
+  },
+  "program_type": {
+   "value": "course",
+   "source": "https://www.concordia.ca/academics/graduate/calendar/current/gina-cody-school-of-engineering-and-computer-science-programs/quality-systems-engineering-meng.html"
+  },
+  "coop_internship": {
+   "value": "Optional co-op (4 or 8 month paid internships) per search summary; not confirmed on fetched page",
+   "source": "https://www.concordia.ca/academics/graduate/quality-systems-meng.html"
+  },
+  "key_courses": {
+   "value": "Core INSE 6210 Total Quality Methodologies in Engineering, INSE 6220 Advanced Statistical Approaches to Quality, INSE 6230 Total Quality Project Management; topic areas Systems Engineering, Quality Systems, Information Systems Engineering, 3D Graphics/Intelligent Systems",
+   "source": "https://www.concordia.ca/academics/graduate/quality-systems-meng.html"
+  },
+  "tuition": {
+   "value": "Intl approx CAD 691/credit x 45 = ~CAD 31,095 (from search summary, unverified, needs official source)",
+   "source": "https://www.concordia.ca/academics/graduate/quality-systems-meng.html"
+  },
+  "deadline": {
+   "value": "UNKNOWN for MEng (MASc page: Fall Mar 1 international)",
+   "source": ""
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: accepts 'any engineering or science discipline provided ... appropriate background', so a Geography BSc is possible but unconfirmed; competitive, may require qualifying courses. English likely waived (Nigeria on exempt list). Field overlap is weak: core is quality methodology, statistics and project management with an Information Systems Engineering topic area; no cloud/DevOps/infrastructure courses seen, so field filter is a real risk (category systems-infrastructure doubtful). Tuition approx 31k CAD (unverified), optional co-op. 3 references, SOP, CV. Experience pathway not stated.",
+ "saved_on": "2026-10-06"
+}

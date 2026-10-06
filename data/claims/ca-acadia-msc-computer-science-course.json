@@ -1,0 +1,66 @@
+{
+ "id": "ca-acadia-msc-computer-science-course",
+ "claims": {
+  "bachelor_required": {
+   "value": "4-year undergraduate degree in computer science",
+   "source": "https://www2.acadiau.ca/academics/graduate/computer-science.html"
+  },
+  "bachelor_field": {
+   "value": "Computer Science",
+   "source": "https://www2.acadiau.ca/academics/graduate/computer-science.html",
+   "quote": "4-year undergraduate degree in computer science"
+  },
+  "non_cs_eligible": {
+   "value": "UNKNOWN (only exception: up to 3 make-up CS courses)",
+   "source": "https://www2.acadiau.ca/academics/graduate/computer-science.html",
+   "quote": "Students required to make-up more than three undergraduate computer science courses will not be admitted."
+  },
+  "min_gpa": {
+   "value": "B- average (70%) in major courses, last two years",
+   "source": "https://www2.acadiau.ca/academics/graduate/computer-science.html"
+  },
+  "work_experience_considered": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "experience_pathway": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "prerequisites": {
+   "value": "Undergraduate CS courses; max 3 make-up courses; see Grad Guide",
+   "source": "https://www2.acadiau.ca/academics/graduate/computer-science.html"
+  },
+  "ielts": {
+   "value": "6.5 overall, no band below 6.0 (university-wide grad)",
+   "source": "https://www2.acadiau.ca/admissions/graduate-application.html"
+  },
+  "toefl": {
+   "value": "iBT 93, no section below 20",
+   "source": "https://www2.acadiau.ca/admissions/graduate-application.html"
+  },
+  "english_waiver": {
+   "value": "yes - may be waived with 3 years English-medium study (search snippet; verify)",
+   "source": "https://www2.acadiau.ca/admissions/graduate-application.html"
+  },
+  "gre_gmat": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "application_fee": {
+   "value": "CAD 100 (non-waivable)",
+   "source": "https://www2.acadiau.ca/admissions/graduate-application.html"
+  },
+  "tuition": {
+   "value": "Intl one-year MSc total CAD 27,625.50 (search snippet; verify)",
+   "source": "https://gradstudies.acadiau.ca/graduate_fees.html"
+  },
+  "duration": {
+   "value": "Course-based 12-16 months, in person",
+   "source": "https://www2.acadiau.ca/academics/graduate/computer-science.html"
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: page requires a CS degree and caps make-up courses at three, which a Geography BSc likely exceeds; no explicit experience pathway found, so not rejectable under the non-CS rule (silent). Low admission likelihood. Curriculum is generic CS (theory/systems), weak relevance.",
+ "saved_on": "2026-10-06"
+}

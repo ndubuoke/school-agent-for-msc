@@ -1,0 +1,78 @@
+{
+ "id": "ca-concordia-meng-cybersecurity-engineering",
+ "claims": {
+  "bachelor_required": {
+   "value": "4-year bachelor's (or equivalent) in Engineering or Computer Science; GPA 3.00",
+   "source": "https://www.concordia.ca/ginacody/cybersecurity-intelligent-systems-eng/students/graduate.html",
+   "quote": "a four-year or equivalent of bachelor's degree in Engineering or Computer Science"
+  },
+  "bachelor_field": {
+   "value": "Computer Engineering, Electrical Engineering, Software Engineering or Computer Science",
+   "source": "https://www.concordia.ca/academics/graduate/cybersecurity-engineering-meng.html",
+   "quote": "Bachelor's degree or equivalent in Computer Engineering, Electrical Engineering, Software Engineering, or Computer Science."
+  },
+  "non_cs_eligible": {
+   "value": "no (stated fields only); possible qualifying program for 'deficiencies' - unconfirmed",
+   "source": "https://www.concordia.ca/academics/graduate/cybersecurity-engineering-meng.html"
+  },
+  "non_cs_notes": {
+   "value": "Program pages: 'Bachelor's degree or equivalent in Computer Engineering, Electrical Engineering, Software Engineering, or Computer Science.' Faculty student page: 'a four-year or equivalent of bachelor's degree in Engineering or Computer Science', CGPA 3.00 or higher. A search-result summary of the Graduate Calendar (ISS entry; page itself not fetchable by me) said 'Applicants with deficiencies in their undergraduate preparation may be required to take a qualifying program' - unconfirmed on the official page.",
+   "source": "https://www.concordia.ca/ginacody/cybersecurity-intelligent-systems-eng/students/graduate.html"
+  },
+  "min_gpa": {
+   "value": "3.00 CGPA or equivalent",
+   "source": "https://www.concordia.ca/ginacody/cybersecurity-intelligent-systems-eng/students/graduate.html",
+   "quote": "Minimum CGPA: 3.00 or higher"
+  },
+  "work_experience_considered": {
+   "value": "UNKNOWN - not mentioned on official pages",
+   "source": "https://www.concordia.ca/academics/graduate/cybersecurity-engineering-meng.html"
+  },
+  "experience_pathway": {
+   "value": "no / not stated",
+   "source": "https://www.concordia.ca/academics/graduate/cybersecurity-engineering-meng.html"
+  },
+  "prerequisites": {
+   "value": "Ability to write programs in a standard language assumed (calendar summary, unconfirmed); ISS: solid knowledge of software engineering/development",
+   "source": "https://www.concordia.ca/ginacody/cybersecurity-intelligent-systems-eng/students/graduate.html"
+  },
+  "ielts": {
+   "value": "6.5 overall",
+   "source": "https://www.concordia.ca/ginacody/cybersecurity-intelligent-systems-eng/students/graduate.html",
+   "quote": "band score of 6.5"
+  },
+  "toefl": {
+   "value": "iBT 85, min 20 per section",
+   "source": "https://www.concordia.ca/ginacody/cybersecurity-intelligent-systems-eng/students/graduate.html",
+   "quote": "TOEFL iBT: 85 with a minimum of 20 in each section"
+  },
+  "english_waiver": {
+   "value": "yes (3+ full years undergraduate study in exempt country; Nigeria listed; university may still require a test)",
+   "source": "https://www.concordia.ca/gradstudies/future-students/how-to-apply/english-language-proficiency/exempt-countries.html",
+   "quote": "In all cases, the university reserves the right to require a proficiency test if we deem it necessary."
+  },
+  "gre_gmat": {
+   "value": "UNKNOWN - not mentioned",
+   "source": "https://www.concordia.ca/academics/graduate/cybersecurity-engineering-meng.html"
+  },
+  "deadline": {
+   "value": "International: Fall March 1; Winter July 1; Summer Nov 1",
+   "source": "https://www.concordia.ca/academics/graduate/cybersecurity-engineering-meng.html"
+  },
+  "duration": {
+   "value": "1-2 years, 45 credits, course-based",
+   "source": "https://www.concordia.ca/academics/graduate/cybersecurity-engineering-meng.html"
+  },
+  "application_fee": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "other_requirements": {
+   "value": "UNKNOWN for references/SOP on program page; general Gina Cody grad applications ask CV, SOP, 3 references (per MApCompSc page); co-op option",
+   "source": "https://www.concordia.ca/academics/graduate/cybersecurity-engineering-meng.html"
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: program page requires bachelor's in Computer/Electrical/Software Engineering or Computer Science, CGPA 3.00 (faculty page); no non-CS or experience pathway stated on pages read. A calendar summary mentions a possible qualifying program for deficiencies (unconfirmed; calendar page 404 on direct fetch). Course-based, 1-2 yrs, co-op option. Borderline pending verifier check of calendar; could become a background reject if no qualifying route exists. English likely waived (Nigeria exempt). Fee, GRE, tuition UNKNOWN.",
+ "saved_on": "2026-10-06"
+}

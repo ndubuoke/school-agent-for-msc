@@ -1,0 +1,86 @@
+{
+ "id": "ca-laurentian-msc-computational-sciences",
+ "claims": {
+  "bachelor_required": {
+   "value": "Bachelor's at Honors level (or equivalent) in a suitable field",
+   "source": "https://laurentian.ca/academics/program/computational-sciences-msc"
+  },
+  "bachelor_field": {
+   "value": "'Suitable field'; specific disciplines not listed",
+   "source": "https://laurentian.ca/academics/program/computational-sciences-msc"
+  },
+  "non_cs_eligible": {
+   "value": "case-by-case",
+   "source": "https://laurentian.ca/academics/program/computational-sciences-msc",
+   "quote": "Bachelor's degree in a suitable field at the Honors level (or equivalent)"
+  },
+  "non_cs_notes": {
+   "value": "Page says related fields welcomed; no explicit non-CS list",
+   "source": "https://laurentian.ca/academics/program/computational-sciences-msc"
+  },
+  "prerequisites": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "min_gpa": {
+   "value": "70% (B average)",
+   "source": "https://laurentian.ca/academics/program/computational-sciences-msc"
+  },
+  "work_experience_considered": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "experience_pathway": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "work_experience": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "ielts": {
+   "value": "6.5 overall, no band lower than 6.0",
+   "source": "https://laurentian.ca/academics/admissions/language-requirements"
+  },
+  "toefl": {
+   "value": "overall 4.5 (new scale, from 1 Jan 2026), min 5.0 Writing and Speaking",
+   "source": "https://laurentian.ca/academics/admissions/language-requirements"
+  },
+  "english_waiver": {
+   "value": "UNKNOWN",
+   "source": "https://laurentian.ca/academics/admissions/language-requirements",
+   "quote": "Page gives no graduate waiver for English-medium degrees; 'may be required' to submit scores; Laurentian can request a test from any applicant"
+  },
+  "english_req": {
+   "value": "IELTS 6.5/6.0; ILAC EAP pathway accepted",
+   "source": "https://laurentian.ca/academics/admissions/language-requirements"
+  },
+  "gre_gmat": {
+   "value": "NOT REQUIRED",
+   "source": "https://laurentian.ca/academics/program/computational-sciences-msc"
+  },
+  "other_requirements": {
+   "value": "Statement of Interest, CV, official transcripts (WES course-by-course possible); references: 3 for thesis, not mentioned for course-based",
+   "source": "https://laurentian.ca/academics/program/computational-sciences-msc"
+  },
+  "application_fee": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "deadline": {
+   "value": "Sept intake June 15; Jan Oct 15; May Feb 15 (program-specific may differ)",
+   "source": "https://laurentian.ca/apply/international-graduate-applicants"
+  },
+  "delivery_mode": {
+   "value": "on-campus",
+   "source": "https://laurentian.ca/academics/program/computational-sciences-msc"
+  },
+  "program_type": {
+   "value": "both (thesis or 30-credit course-based)",
+   "source": "https://laurentian.ca/academics/program/computational-sciences-msc"
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: non-CS likely acceptable ('suitable field', Honors level) but case-by-case; GPA 70% should be met by 2:1 (exact CGPA unknown); no GRE; English waiver not confirmed so IELTS 6.5 may be needed; fee, tuition, duration unknown.",
+ "saved_on": "2026-10-06"
+}

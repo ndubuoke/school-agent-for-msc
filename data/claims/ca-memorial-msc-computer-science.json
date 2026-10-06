@@ -1,0 +1,100 @@
+{
+ "id": "ca-memorial-msc-computer-science",
+ "claims": {
+  "bachelor_required": {
+   "value": "Bachelor degree (major in Computer Science or Computer Engineering)",
+   "source": "https://www.mun.ca/become/graduate/programs-and-courses/computer-science/",
+   "quote": "Bachelor degree (major in Computer Science or Computer Engineering)"
+  },
+  "bachelor_field": {
+   "value": "Computer Science/Computer Engineering; course route page: CS or related field (Computer Engineering, IT, other computing-related sciences)",
+   "source": "https://www.mun.ca/computerscience/graduate-students/graduate-programs/msc-course-route/",
+   "quote": "Bachelor's degree in Computer Science or a related field, such as Computer Engineering and Information Technology (or any other computing-related sciences)"
+  },
+  "non_cs_eligible": {
+   "value": "UNKNOWN",
+   "source": "https://www.mun.ca/become/graduate/programs-and-courses/computer-science/"
+  },
+  "non_cs_notes": {
+   "value": "CS/computing degree expected; no non-computing pathway found on fetched official pages. (Unconfirmed search-result summary mentioned the requirement 'may be waived on recommendation of the Head of Department' - not verified.)",
+   "source": "https://www.mun.ca/computerscience/graduate-students/graduate-programs/msc-course-route/",
+   "quote": "Bachelor's degree in Computer Science or a related field, such as Computer Engineering and Information Technology (or any other computing-related sciences)"
+  },
+  "prerequisites": {
+   "value": "UNKNOWN",
+   "source": "https://www.mun.ca/become/graduate/programs-and-courses/computer-science/"
+  },
+  "min_gpa": {
+   "value": "75% overall average",
+   "source": "https://www.mun.ca/become/graduate/programs-and-courses/computer-science/",
+   "quote": "a minimum average of 75% overall"
+  },
+  "experience_pathway": {
+   "value": "UNKNOWN",
+   "source": "https://www.mun.ca/become/graduate/programs-and-courses/computer-science/"
+  },
+  "work_experience_considered": {
+   "value": "UNKNOWN",
+   "source": "https://www.mun.ca/become/graduate/programs-and-courses/computer-science/"
+  },
+  "work_experience": {
+   "value": "UNKNOWN",
+   "source": "https://www.mun.ca/become/graduate/programs-and-courses/computer-science/"
+  },
+  "ielts": {
+   "value": "6.5 (7.0 for programs with higher requirements)",
+   "source": "https://www.mun.ca/become/graduate/apply-to-memorial/"
+  },
+  "toefl": {
+   "value": "80 aggregate (92 for higher requirements)",
+   "source": "https://www.mun.ca/become/graduate/apply-to-memorial/"
+  },
+  "english_waiver": {
+   "value": "yes",
+   "source": "https://www.mun.ca/become/graduate/apply-to-memorial/",
+   "quote": "Students who have completed secondary schooling, an undergraduate degree, or a graduate degree at a recognized institution where the language of instruction is English are not required to take an English proficiency test."
+  },
+  "english_req": {
+   "value": "Exempt with English-medium degree; may need MOI letter",
+   "source": "https://www.mun.ca/become/graduate/apply-to-memorial/"
+  },
+  "gre_gmat": {
+   "value": "OPTIONAL (strongly encouraged for international applicants)",
+   "source": "https://www.mun.ca/become/graduate/programs-and-courses/computer-science/",
+   "quote": "International applicants are strongly encouraged to submit a valid GRE score report."
+  },
+  "other_requirements": {
+   "value": "2 letters of appraisal (general SGS); statement of purpose (emphasized by units)",
+   "source": "https://www.mun.ca/become/graduate/apply-to-memorial/"
+  },
+  "application_fee": {
+   "value": "120 CAD international",
+   "source": "https://www.mun.ca/become/graduate/apply-to-memorial/"
+  },
+  "deadline": {
+   "value": "Fall: December 1; Winter: April 1 (course route also starts Sept or Jan)",
+   "source": "https://www.mun.ca/become/graduate/programs-and-courses/computer-science/"
+  },
+  "tuition_amount": {
+   "value": "UNKNOWN total; international 1,734-2,600 CAD per semester",
+   "source": "https://www.mun.ca/become/graduate/programs-and-courses/computer-science/"
+  },
+  "duration": {
+   "value": "Course route 16 months (4 semesters); thesis 2 years",
+   "source": "https://www.mun.ca/computerscience/graduate-students/graduate-programs/msc-course-route/"
+  },
+  "coop_internship": {
+   "value": "Paid work term 4 or 8 months, limited and competitive, after 3 semesters",
+   "source": "https://www.mun.ca/computerscience/graduate-students/graduate-programs/msc-course-route/",
+   "quote": "Admission to the work term is limited, competitive and selective; not everyone who applies is admitted."
+  },
+  "funding": {
+   "value": "Thesis route ~$20,000 support; course route: none",
+   "source": "https://www.mun.ca/computerscience/graduate-students/graduate-programs/msc-course-route/",
+   "quote": "No financial aid is provided to course-based students"
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: requires a CS/computing bachelor's (major in CS or Computer Engineering; related computing sciences). Geography BSc does not meet this on its face and no experience/bridging pathway was found on official pages; a possible Head-of-Department waiver was seen only in an unverified search summary. Not rejected because the non-CS rule requires an explicit statement of no alternative. English waived; GRE optional; 120 CAD fee; Fall deadline Dec 1 2026. Curriculum is generic CS (7 of 10 courses CS), low cloud/IS fit.",
+ "saved_on": "2026-10-06"
+}

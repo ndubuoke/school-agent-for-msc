@@ -1,0 +1,71 @@
+{
+ "id": "ca-dalhousie-mi",
+ "claims": {
+  "bachelor_required": {
+   "value": "Four-year undergraduate degree from recognized institution",
+   "source": "https://www.dal.ca/academics/programs/graduate/information-management.html"
+  },
+  "bachelor_field": {
+   "value": "Any",
+   "source": "https://www.dal.ca/academics/programs/graduate/information-management.html",
+   "quote": "All undergraduate degrees are acceptable"
+  },
+  "non_cs_eligible": {
+   "value": "yes",
+   "source": "https://www.dal.ca/academics/programs/graduate/information-management.html",
+   "quote": "All undergraduate degrees are acceptable"
+  },
+  "min_gpa": {
+   "value": "3.0 (B) on 4.3 scale, last two years (60 credit hours)",
+   "source": "https://www.dal.ca/academics/programs/graduate/information-management.html"
+  },
+  "work_experience_considered": {
+   "value": "NO (not required; direct-entry)",
+   "source": "https://www.dal.ca/academics/programs/graduate/information-management.html",
+   "quote": "direct-entry program"
+  },
+  "experience_pathway": {
+   "value": "yes (essay addresses work experience; not needed for entry)",
+   "source": "https://www.dal.ca/academics/programs/graduate/information-management.html"
+  },
+  "ielts": {
+   "value": "8.0 (as listed)",
+   "source": "https://www.dal.ca/academics/programs/graduate/information-management.html"
+  },
+  "toefl": {
+   "value": "iBT 100",
+   "source": "https://www.dal.ca/academics/programs/graduate/information-management.html"
+  },
+  "english_waiver": {
+   "value": "yes - test waived if degree completed at English-language institution in English-speaking country",
+   "source": "https://www.dal.ca/academics/programs/graduate/information-management.html"
+  },
+  "gre_gmat": {
+   "value": "NOT REQUIRED",
+   "source": "https://www.dal.ca/academics/programs/graduate/information-management.html"
+  },
+  "other_requirements": {
+   "value": "Transcripts; 2 academic references (professional allowed if graduated 3+ years ago); CV; 5-6 page application essay",
+   "source": "https://www.dal.ca/academics/programs/graduate/information-management.html"
+  },
+  "application_fee": {
+   "value": "UNKNOWN (non-refundable, amount not stated)",
+   "source": "https://www.dal.ca/academics/programs/graduate/information-management.html"
+  },
+  "duration": {
+   "value": "20 months full-time; 15 half-credit courses + non-credit practicum",
+   "source": "https://www.dal.ca/academics/programs/graduate/information-management.html"
+  },
+  "deadline": {
+   "value": "Intl (non-US): Jan 31 for Sept; page shows 2026 dates, 2027 intake dates need confirmation",
+   "source": "https://www.dal.ca/academics/programs/graduate/information-management.html"
+  },
+  "tuition": {
+   "value": "Estimated $10,000-$12,000 annually (~$1,200/course); international figure unconfirmed",
+   "source": "https://www.dal.ca/academics/programs/graduate/information-management.html"
+  }
+ },
+ "eligibility": "eligible",
+ "eligibility_notes": "Provisional: all degrees accepted, no GRE, waiver for English-medium degree. Risks: relevance to cloud/DevOps is LIS-leaning (verifier to check curriculum), international tuition unconfirmed, page deadlines are for 2026.",
+ "saved_on": "2026-10-06"
+}

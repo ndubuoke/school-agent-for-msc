@@ -1,0 +1,87 @@
+{
+ "id": "ca-usask-msc-applied-computing",
+ "claims": {
+  "bachelor_required": {
+   "value": "4-year honours degree or equivalent",
+   "source": "https://programs.usask.ca/grad-studies/applied-computing-grad/appl-comp-msc-thesis.php",
+   "quote": "four-year honours degree, or equivalent, from a recognized college or university in an academic discipline relevant to the proposed field of study"
+  },
+  "bachelor_field": {
+   "value": "4-year BSc in applied computing/CS, or 4-year undergraduate degree in a cognate discipline",
+   "source": "https://grad.usask.ca/programs/applied-computing.php",
+   "quote": "A 4-year B.Sc. degree in applied computing, or computer science (or equivalent), or a 4-year undergraduate degree in a cognate discipline"
+  },
+  "non_cs_eligible": {
+   "value": "case-by-case",
+   "source": "https://grad.usask.ca/programs/applied-computing.php",
+   "quote": "4-year undergraduate degree in a cognate discipline"
+  },
+  "non_cs_notes": {
+   "value": "Cognate discipline accepted; whether Geography counts is unclear (Applied Computing links CS to a cognate area, thesis-based)",
+   "source": "https://grad.usask.ca/programs/applied-computing.php",
+   "quote": "a 4-year undergraduate degree in a cognate discipline"
+  },
+  "prerequisites": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "min_gpa": {
+   "value": "70% cumulative weighted average, last two years",
+   "source": "https://programs.usask.ca/grad-studies/applied-computing-grad/appl-comp-msc-thesis.php",
+   "quote": "a cumulative weighted average of at least a 70%"
+  },
+  "experience_pathway": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "work_experience": {
+   "value": "not mentioned (UNKNOWN)",
+   "source": "https://grad.usask.ca/programs/applied-computing.php"
+  },
+  "ielts": {
+   "value": "7.0 overall, no band below 6.5",
+   "source": "https://programs.usask.ca/grad-studies/applied-computing-grad/appl-comp-msc-thesis.php"
+  },
+  "toefl": {
+   "value": "iBT 94, no section below 20",
+   "source": "https://programs.usask.ca/grad-studies/applied-computing-grad/appl-comp-msc-thesis.php"
+  },
+  "english_waiver": {
+   "value": "yes, conditional - 3 consecutive years of English-only study at WHED-listed institution (sole language English) or Registrar letter; unit may still require test",
+   "source": "https://grad.usask.ca/admissions/english-countries-institutions.php"
+  },
+  "english_req": {
+   "value": "TOEFL 94 / IELTS 7.0 / Duolingo 120",
+   "source": "https://grad.usask.ca/programs/applied-computing.php"
+  },
+  "gre_gmat": {
+   "value": "NOT REQUIRED (not listed)",
+   "source": "https://grad.usask.ca/programs/applied-computing.php"
+  },
+  "other_requirements": {
+   "value": "Statement of research interest, resume, three letters of reference; supervisor not required before applying",
+   "source": "https://programs.usask.ca/grad-studies/applied-computing-grad/appl-comp-msc-thesis.php",
+   "quote": "a statement of research interest; a resume; and three letters of reference"
+  },
+  "application_fee": {
+   "value": "145 CAD international",
+   "source": "https://grad.usask.ca/programs/applied-computing.php"
+  },
+  "deadline": {
+   "value": "Dec 15 for Fall",
+   "source": "https://grad.usask.ca/programs/applied-computing.php"
+  },
+  "tuition": {
+   "value": "MSc intl 12,837 CAD/yr (2026-27), 20-month thesis program",
+   "source": "https://grad.usask.ca/programs/applied-computing.php"
+  },
+  "funding": {
+   "value": "Admitted students automatically considered; MSc funding covers tuition plus 18,000 CAD annually (not stated as guaranteed)",
+   "source": "https://grad.usask.ca/programs/applied-computing.php",
+   "quote": "MSc funding covering tuition plus $18,000 annually"
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: accepts 'cognate discipline' degrees, so Geography is case-by-case; 70% average needed (2:1 conversion unknown). English waiver possible but conditional on WHED listing; fallback needs IELTS 7.0 (high). Thesis-based only; relevance moderate. Strong tuition/funding. Deadline Dec 15.",
+ "saved_on": "2026-10-06"
+}

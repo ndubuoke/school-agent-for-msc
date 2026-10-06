@@ -1,0 +1,84 @@
+{
+ "id": "ca-uleth-msc-management-information-systems-business-analytics",
+ "claims": {
+  "bachelor_required": {
+   "value": "Baccalaureate degree in a related discipline, GPA 3.00/4.00",
+   "source": "https://www.ulethbridge.ca/future-student/graduate-studies/master-science-management",
+   "quote": "Hold a baccalaureate degree (i.e. undergraduate degree) in a related discipline"
+  },
+  "bachelor_field": {
+   "value": "Related discipline; Information Systems major open to 'any business discipline or management' backgrounds",
+   "source": "https://www.ulethbridge.ca/future-student/graduate-studies/program/information-systems-business-analytics-concentration"
+  },
+  "non_cs_eligible": {
+   "value": "case-by-case",
+   "source": "https://www.ulethbridge.ca/future-student/graduate-studies/master-science-management",
+   "quote": "designed for students with an undergraduate degree, or significant professional experience"
+  },
+  "non_cs_notes": {
+   "value": "'Related discipline' is undefined; Geography may or may not count. Page says program is designed for students with a degree or significant professional experience; work experience not required.",
+   "source": "https://www.ulethbridge.ca/future-student/graduate-studies/master-science-management",
+   "quote": "Previous work experience is not required for admission"
+  },
+  "min_gpa": {
+   "value": "3.00/4.00",
+   "source": "https://www.ulethbridge.ca/future-student/graduate-studies/master-science-management"
+  },
+  "work_experience_considered": {
+   "value": "yes (valued, not required)",
+   "source": "https://www.ulethbridge.ca/future-student/graduate-studies/master-science-management"
+  },
+  "experience_pathway": {
+   "value": "case-by-case",
+   "source": "https://www.ulethbridge.ca/future-student/graduate-studies/master-science-management"
+  },
+  "ielts": {
+   "value": "6.5 overall, 6.0 each band",
+   "source": "https://www.ulethbridge.ca/ross/admissions/grad/elr"
+  },
+  "toefl": {
+   "value": "86 total, 20 each section",
+   "source": "https://www.ulethbridge.ca/ross/admissions/grad/elr"
+  },
+  "english_waiver": {
+   "value": "Case-by-case: English-medium degree waives only if from Canada/English-primary countries or on the exempt list; other institutions considered case-by-case",
+   "source": "https://www.ulethbridge.ca/ross/admissions/grad/elr",
+   "quote": "Other institutions will be considered on a case-by-case basis"
+  },
+  "english_req": {
+   "value": "PTE 61 (60 each part); Duolingo 120 (110 each)",
+   "source": "https://www.ulethbridge.ca/ross/admissions/grad/elr"
+  },
+  "gre_gmat": {
+   "value": "Not mentioned as required",
+   "source": "https://www.ulethbridge.ca/future-student/graduate-studies/master-science-management"
+  },
+  "other_requirements": {
+   "value": "Three reference letters, academic or professional",
+   "source": "https://www.ulethbridge.ca/future-student/graduate-studies/master-science-management"
+  },
+  "duration": {
+   "value": "16 months full-time, in person, Lethbridge and Calgary campuses, Fall intake",
+   "source": "https://www.ulethbridge.ca/future-student/graduate-studies/program/information-systems-business-analytics-concentration"
+  },
+  "coop_internship": {
+   "value": "Optional co-op",
+   "source": "https://www.ulethbridge.ca/future-student/graduate-studies/program/information-systems-business-analytics-concentration"
+  },
+  "tuition_intl_per_year": {
+   "value": "CAD 15,664.59 per year (third-party snippet; unverified)",
+   "source": ""
+  },
+  "application_fee": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "currently_offered": {
+   "value": "CONFLICT-RISK: search snippet claimed Information Systems major 'currently unavailable for admission' in program documentation; program page and MSc Management page list it as available. Verify.",
+   "source": "https://www.ulethbridge.ca/future-student/graduate-studies/master-science-management"
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: 'related discipline' degree and 3.0/4.0 required; Geography relevance unclear; English waiver for Nigerian English-medium degree not automatic (exempt-list/case-by-case); 3 references. Curriculum is business analytics, not cloud. Check whether the IS major is currently admitting.",
+ "saved_on": "2026-10-06"
+}

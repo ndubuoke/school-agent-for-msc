@@ -1,0 +1,89 @@
+{
+ "id": "ca-carleton-mnet",
+ "claims": {
+  "bachelor_required": {
+   "value": "4-year (honours) bachelor's degree",
+   "source": "https://graduate.carleton.ca/apply-online/minimum-requirements/",
+   "quote": "4-year (honours) bachelor's degree"
+  },
+  "min_gpa": {
+   "value": "B+ or better in major subjects; B- or better overall (Carleton general master's minimum); a third-party site claims 90% for international MNetT, unverified",
+   "source": "https://graduate.carleton.ca/apply-online/minimum-requirements/",
+   "quote": "B+ or better in your major subjects"
+  },
+  "ielts": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "toefl": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "english_waiver": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "gre_gmat": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "application_fee": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "international_students": {
+   "value": "YES (international applicants addressed on program page)",
+   "source": "https://graduate.carleton.ca/program/information-technology-digital-media-networking-technology-masters/"
+  },
+  "bachelor_field": {
+   "value": "Undergraduate degree in a related field",
+   "source": "https://graduate.carleton.ca/program/information-technology-digital-media-networking-technology-masters/",
+   "quote": "International applicants must have an undergraduate degree in a related field"
+  },
+  "non_cs_eligible": {
+   "value": "case-by-case",
+   "source": "https://graduate.carleton.ca/program/information-technology-digital-media-networking-technology-masters/",
+   "quote": "applicants with GPAs near the cutoff may still apply if they have relevant work or professional experience"
+  },
+  "experience_pathway": {
+   "value": "case-by-case",
+   "source": "https://graduate.carleton.ca/program/information-technology-digital-media-networking-technology-masters/",
+   "quote": "applicants with GPAs near the cutoff may still apply if they have relevant work or professional experience"
+  },
+  "non_cs_notes": {
+   "value": "'Related field' undefined on pages read; experience mentioned only for GPA near cutoff. Geography may not count as related; ask program.",
+   "source": "https://graduate.carleton.ca/program/information-technology-digital-media-networking-technology-masters/",
+   "quote": "undergraduate degree in a related field"
+  },
+  "work_experience_considered": {
+   "value": "CASE-BY-CASE",
+   "source": "https://graduate.carleton.ca/program/information-technology-digital-media-networking-technology-masters/"
+  },
+  "duration": {
+   "value": "6-term program (~2 years full-time)",
+   "source": "https://carleton.ca/csit/graduate-studies/programs-and-admissions/master-of-networking-technology/",
+   "quote": "6-term program"
+  },
+  "intake": {
+   "value": "September and January",
+   "source": "https://carleton.ca/csit/graduate-studies/programs-and-admissions/master-of-networking-technology/",
+   "quote": "Apply any time. In-takes in September and January."
+  },
+  "delivery_mode": {
+   "value": "On campus; full-time and part-time options",
+   "source": "https://carleton.ca/csit/graduate-studies/programs-and-admissions/master-of-networking-technology/",
+   "quote": "On campus"
+  },
+  "program_type": {
+   "value": "course-based",
+   "source": "https://carleton.ca/csit/graduate-studies/programs-and-admissions/master-of-networking-technology/"
+  },
+  "other_requirements": {
+   "value": "Unknown: references, SOP, CV not found on pages read",
+   "source": "https://graduate.carleton.ca/apply-online/minimum-requirements/"
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: requires 'undergraduate degree in a related field' for international applicants; Geography may not qualify, but professional experience is mentioned for near-cutoff GPA. English tests and waiver, GRE, fee, references not found on official pages read. Needs checking on Carleton English requirements page and with program.",
+ "saved_on": "2026-10-06"
+}

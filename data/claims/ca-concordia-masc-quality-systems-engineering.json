@@ -1,0 +1,105 @@
+{
+ "id": "ca-concordia-masc-quality-systems-engineering",
+ "claims": {
+  "bachelor_required": {
+   "value": "Bachelor's degree or equivalent; admission competitive, 'only applicants with high academic standing will be considered'",
+   "source": "https://www.concordia.ca/academics/graduate/calendar/current/gina-cody-school-of-engineering-and-computer-science-programs/quality-systems-engineering-masc.html"
+  },
+  "bachelor_field": {
+   "value": "Listed engineering fields, Computer Science, or any engineering or science discipline with appropriate background",
+   "source": "https://www.concordia.ca/academics/graduate/calendar/current/gina-cody-school-of-engineering-and-computer-science-programs/quality-systems-engineering-masc.html",
+   "quote": "Bachelor's degree or equivalent in Mechanical Engineering, Industrial Engineering, Electrical Engineering, Building Engineering, Civil Engineering, Environmental Engineering, Software Engineering, Computer Science, or any engineering or science discipline provided that the student has the appropriate background."
+  },
+  "non_cs_eligible": {
+   "value": "case-by-case",
+   "source": "https://www.concordia.ca/academics/graduate/calendar/current/gina-cody-school-of-engineering-and-computer-science-programs/quality-systems-engineering-masc.html",
+   "quote": "any engineering or science discipline provided that the student has the appropriate background"
+  },
+  "non_cs_notes": {
+   "value": "Non-CS accepted only if degree is engineering/science with 'appropriate background'; a Geography BSc is arguably a science discipline but not certain. Qualified applicants may need prerequisite/qualifying courses.",
+   "source": "https://www.concordia.ca/academics/graduate/calendar/current/gina-cody-school-of-engineering-and-computer-science-programs/quality-systems-engineering-masc.html",
+   "quote": "provided that the student has the appropriate background"
+  },
+  "min_gpa": {
+   "value": "UNKNOWN (no number stated; 'high academic standing'; CGPA 2.70 needed to graduate)",
+   "source": "https://www.concordia.ca/academics/graduate/calendar/current/gina-cody-school-of-engineering-and-computer-science-programs/quality-systems-engineering-masc.html"
+  },
+  "work_experience_considered": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "experience_pathway": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "ielts": {
+   "value": "6.5 overall (Gina Cody School)",
+   "source": "https://www.concordia.ca/admissions/graduate/requirements/english-language-proficiency.html"
+  },
+  "toefl": {
+   "value": "iBT 85, no component below 20 (tests before Jan 2026); new-scale 4.5 with no section below 4.0 (tests Jan 2026 or later)",
+   "source": "https://www.concordia.ca/admissions/graduate/requirements/english-language-proficiency.html"
+  },
+  "english_waiver": {
+   "value": "Likely yes: exemption for 3 full years of undergraduate study at an accredited university in a listed English-instruction country; Nigeria appears in exempt-countries list",
+   "source": "https://www.concordia.ca/gradstudies/future-students/how-to-apply/english-language-proficiency/exempt-countries.html",
+   "quote": "Nigeria"
+  },
+  "english_req": {
+   "value": "Test required unless exempt via 3+ years study in listed country (Nigeria listed); other tests not checked",
+   "source": "https://www.concordia.ca/admissions/graduate/requirements/english-language-proficiency.html"
+  },
+  "gre_gmat": {
+   "value": "NOT REQUIRED (none mentioned in documents list)",
+   "source": "https://www.concordia.ca/academics/graduate/calendar/current/gina-cody-school-of-engineering-and-computer-science-programs/quality-systems-engineering-masc.html"
+  },
+  "other_requirements": {
+   "value": "Application form and fee, CV, three letters of reference plus assessment form, statement of purpose, transcripts, language scores unless exempt",
+   "source": "https://www.concordia.ca/academics/graduate/calendar/current/gina-cody-school-of-engineering-and-computer-science-programs/quality-systems-engineering-masc.html"
+  },
+  "application_fee": {
+   "value": "CAD 103 (some program pages show CAD 100)",
+   "source": "search result summary of concordia.ca; not confirmed on a fetched page"
+  },
+  "international_students": {
+   "value": "YES",
+   "source": "https://www.concordia.ca/academics/graduate/calendar/current/gina-cody-school-of-engineering-and-computer-science-programs/quality-systems-engineering-masc.html"
+  },
+  "currently_offered": {
+   "value": "yes (calendar and program pages live)",
+   "source": "https://www.concordia.ca/academics/graduate/calendar/current/gina-cody-school-of-engineering-and-computer-science-programs/quality-systems-engineering-masc.html"
+  },
+  "duration": {
+   "value": "2 years, 45 credits (29 thesis)",
+   "source": "https://www.concordia.ca/academics/graduate/quality-systems-masc.html"
+  },
+  "program_type": {
+   "value": "thesis",
+   "source": "https://www.concordia.ca/academics/graduate/quality-systems-masc.html"
+  },
+  "deadline": {
+   "value": "Fall: March 1 (U.S./International); Winter: July 1; Summer: November 1",
+   "source": "https://www.concordia.ca/academics/graduate/quality-systems-masc.html"
+  },
+  "funding": {
+   "value": "Funding packages generally available for thesis-based programs (awards, TA/RA); not guaranteed",
+   "source": "https://www.concordia.ca/academics/graduate/quality-systems-masc.html",
+   "quote": "Funding packages are generally available for students in thesis-based programs"
+  },
+  "coop_internship": {
+   "value": "None mentioned for thesis program",
+   "source": "https://www.concordia.ca/academics/graduate/quality-systems-masc.html"
+  },
+  "key_courses": {
+   "value": "INSE 8901 MASc Research and Thesis (29 cr); 12 cr from INSE topic areas E66 Systems Engineering, E67 3D Graphics & Intelligent Systems, E68 Quality Systems Engineering, E70 Information Systems Engineering; 4 cr Gina Cody courses. No cloud/infrastructure/IT-management courses identified.",
+   "source": "https://www.concordia.ca/ginacody/info-systems-eng/programs/quality-systems-engineering/masc.html"
+  },
+  "tuition": {
+   "value": "UNKNOWN (use Concordia tuition estimator)",
+   "source": ""
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: same admission as MEng ('any engineering or science discipline ... appropriate background'); thesis program, funding possible but not guaranteed, no co-op. Curriculum is thesis plus 12 credits from Systems Eng / 3D graphics / Quality Systems / Information Systems Engineering topic areas: little cloud or IT management content, and a research thesis in quality systems is a weak fit for a DevOps career goal. Fall international deadline March 1 (2027 presumably). Tuition UNKNOWN.",
+ "saved_on": "2026-10-06"
+}

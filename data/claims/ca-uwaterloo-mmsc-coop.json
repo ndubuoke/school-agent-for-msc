@@ -1,0 +1,88 @@
+{
+ "id": "ca-uwaterloo-mmsc-coop",
+ "claims": {
+  "bachelor_required": {
+   "value": "Relevant four-year honours bachelor's or equivalent",
+   "source": "https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/management-science-co-op-master-management-science-mmsc",
+   "quote": "relevant four-year honours bachelor's degree or equivalent"
+  },
+  "bachelor_field": {
+   "value": "Relevant degree; background in quantitative methods (calculus, linear algebra, probability and statistics)",
+   "source": "https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/management-science-co-op-master-management-science-mmsc"
+  },
+  "non_cs_eligible": {
+   "value": "case-by-case (not CS-specific; 'relevant' degree + quantitative background)",
+   "source": "https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/management-science-co-op-master-management-science-mmsc",
+   "quote": "Background in quantitative methods (e.g., Calculus, Linear Algebra, Probability and Statistics)"
+  },
+  "non_cs_notes": {
+   "value": "Degree must be 'relevant'; quantitative-methods background required. Geography degree may qualify only if it includes calculus/linear algebra/stats",
+   "source": "https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/management-science-co-op-master-management-science-mmsc",
+   "quote": "Background in quantitative methods (e.g., Calculus, Linear Algebra, Probability and Statistics)"
+  },
+  "prerequisites": {
+   "value": "Calculus, Linear Algebra, Probability and Statistics",
+   "source": "https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/management-science-co-op-master-management-science-mmsc"
+  },
+  "min_gpa": {
+   "value": "75% overall standing (international: in a relevant four-year honours degree)",
+   "source": "https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/management-science-co-op-master-management-science-mmsc"
+  },
+  "work_experience_considered": {
+   "value": "UNKNOWN (no pathway stated; paid co-op placements integrated)",
+   "source": "https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/management-science-co-op-master-management-science-mmsc"
+  },
+  "experience_pathway": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "ielts": {
+   "value": "7.0 overall (writing 6.5, speaking 6.5)",
+   "source": "https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/management-science-co-op-master-management-science-mmsc"
+  },
+  "toefl": {
+   "value": "4.5 overall (writing 5, speaking 5) as stated on page (likely TOEFL essay/scale; verify iBT)",
+   "source": "https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/management-science-co-op-master-management-science-mmsc"
+  },
+  "english_waiver": {
+   "value": "Waterloo ELP exemption: 3+ years post-secondary at a WHED-listed institution with English as only language of instruction (expires 2 years after graduation), or 3 years employment in English in a listed country incl. Nigeria",
+   "source": "https://uwaterloo.ca/future-graduate-students/admissions/admission-and-english-language-proficiency-requirements"
+  },
+  "english_req": {
+   "value": "IELTS 7.0 or TOEFL unless exempt",
+   "source": "https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/management-science-co-op-master-management-science-mmsc"
+  },
+  "gre_gmat": {
+   "value": "Not mentioned (no requirement stated)",
+   "source": "https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/management-science-co-op-master-management-science-mmsc"
+  },
+  "other_requirements": {
+   "value": "Two references (academic preferred or professional); one-page Statement of Purpose",
+   "source": "https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/management-science-co-op-master-management-science-mmsc",
+   "quote": "Two references are required, academic (preferred) or professional."
+  },
+  "application_fee": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "deadline": {
+   "value": "February 1 (for September admission)",
+   "source": "https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/management-science-co-op-master-management-science-mmsc"
+  },
+  "duration": {
+   "value": "20 months full-time",
+   "source": "https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/management-science-co-op-master-management-science-mmsc"
+  },
+  "coop_internship": {
+   "value": "Paid co-op placements integrated",
+   "source": "https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/management-science-co-op-master-management-science-mmsc"
+  },
+  "tuition_amount": {
+   "value": "UNKNOWN",
+   "source": ""
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: 'relevant' 4-year honours degree with quantitative methods background; geography degree plausible only if it included calculus/linear algebra/stats (profile coursework TODO). 75% needed (2:1 likely ok, exact CGPA TODO). English waiver likely via WHED/employment route. Experience pathway not stated.",
+ "saved_on": "2026-10-06"
+}

@@ -1,0 +1,91 @@
+{
+ "id": "ca-unb-mtme",
+ "claims": {
+  "bachelor_required": {
+   "value": "Undergraduate degree, min CGPA 3.0/4.3 (B average)",
+   "source": "https://www.unb.ca/fredericton/engineering/depts/tme/mtme/admission.html",
+   "quote": "All applicants should hold an undergraduate degree with a minimum CGPA of 3.0/4.3 (B average)."
+  },
+  "bachelor_field": {
+   "value": "STEM-related (engineering, science, CS, technology); special cases (nursing, kinesiology, chemistry, biology) evaluated individually",
+   "source": "https://www.unb.ca/fredericton/engineering/depts/tme/mtme/index.html | https://www.unb.ca/fredericton/engineering/depts/tme/mtme/admission.html",
+   "quote": "Applicants should come from an engineering, science, computer science, or technology-based background."
+  },
+  "non_cs_eligible": {
+   "value": "case-by-case",
+   "source": "https://www.unb.ca/fredericton/engineering/depts/tme/mtme/index.html",
+   "quote": "completion of a STEM-related undergraduate degree"
+  },
+  "non_cs_notes": {
+   "value": "Non-CS science/tech OK; geography not named, would need individual evaluation; technical portfolio required",
+   "source": "https://www.unb.ca/fredericton/engineering/depts/tme/mtme/admission.html",
+   "quote": "Applicants should come from an engineering, science, computer science, or technology-based background."
+  },
+  "prerequisites": {
+   "value": "Technical competency; technical portfolio of projects; ability to build functional technology prototype",
+   "source": "https://www.unb.ca/fredericton/engineering/depts/tme/mtme/admission.html"
+  },
+  "min_gpa": {
+   "value": "3.0/4.3 (B average)",
+   "source": "https://www.unb.ca/fredericton/engineering/depts/tme/mtme/admission.html"
+  },
+  "work_experience_considered": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "experience_pathway": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "work_experience": {
+   "value": "UNKNOWN (resume and technical portfolio required, so projects likely valued but no stated policy)",
+   "source": "https://www.unb.ca/fredericton/engineering/depts/tme/mtme/admission.html"
+  },
+  "ielts": {
+   "value": "IELTS 7.0 overall, no band below 6.5",
+   "source": "https://www.unb.ca/fredericton/engineering/depts/tme/mtme/admission.html",
+   "quote": "IELTS band 7 with no individual score below 6.5"
+  },
+  "toefl": {
+   "value": "TOEFL iBT 92/120 with writing 24 and speaking 22 (or 580 paper)",
+   "source": "https://www.unb.ca/fredericton/engineering/depts/tme/mtme/admission.html"
+  },
+  "english_waiver": {
+   "value": "CONFLICT",
+   "source": "https://www.unb.ca/fredericton/engineering/depts/tme/mtme/admission.html | https://www.unb.ca/gradstudies/admissions/international.html",
+   "quote": "Program page lists IELTS/TOEFL for first-language non-English applicants without mentioning waiver; Graduate Studies page lists Nigeria as exempt but says some programs require higher standards."
+  },
+  "english_req": {
+   "value": "Program requires IELTS 7/6.5 or TOEFL iBT 92; Graduate Studies exempts applicants from Nigeria. Unclear which governs.",
+   "source": "https://www.unb.ca/fredericton/engineering/depts/tme/mtme/admission.html"
+  },
+  "gre_gmat": {
+   "value": "NOT REQUIRED",
+   "source": "https://www.unb.ca/fredericton/engineering/depts/tme/mtme/admission.html",
+   "quote": "GMAT/GRE is not required"
+  },
+  "other_requirements": {
+   "value": "Application, resume, statement of purpose, 3 references (2 academic), technical portfolio; possible interview",
+   "source": "https://www.unb.ca/fredericton/engineering/depts/tme/mtme/admission.html"
+  },
+  "application_fee": {
+   "value": "125 CAD (international, Graduate Studies general)",
+   "source": "https://www.unb.ca/gradstudies/admissions/index.html"
+  },
+  "deadline": {
+   "value": "International: May 1; domestic June 30 (Fall entry)",
+   "source": "https://www.unb.ca/fredericton/engineering/depts/tme/mtme/index.html"
+  },
+  "duration": {
+   "value": "12 months, in-person Fredericton",
+   "source": "https://www.unb.ca/fredericton/engineering/depts/tme/mtme/index.html"
+  },
+  "coop_internship": {
+   "value": "Not mentioned",
+   "source": "https://www.unb.ca/fredericton/engineering/depts/tme/mtme/index.html"
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: requires STEM-related degree; geography/environmental science is not named, so case-by-case at best (UNKNOWN whether it qualifies). Technical portfolio required (Philip's DevOps work could supply it). Experience pathway UNKNOWN. IELTS 7.0 stated, waiver conflicts with Graduate Studies exemption for Nigeria. GRE/GMAT not required. No co-op mentioned. Tuition not found.",
+ "saved_on": "2026-10-06"
+}

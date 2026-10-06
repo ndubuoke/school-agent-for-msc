@@ -1,0 +1,99 @@
+{
+ "id": "ca-mcgill-mist",
+ "claims": {
+  "bachelor_required": {
+   "value": "Bachelor's degree from a recognized university; minimum B / CGPA 3.0/4.0",
+   "source": "https://www.mcgill.ca/sis/programs/mist/admissions"
+  },
+  "bachelor_field": {
+   "value": "No specific field; School considers 'character of applicants' post-secondary studies and their suitability for a career in information-related fields'",
+   "source": "https://www.mcgill.ca/sis/programs/mist/admissions"
+  },
+  "non_cs_eligible": {
+   "value": "yes",
+   "source": "https://www.mcgill.ca/sis/programs/mist/admissions",
+   "quote": "The School will take into account the character of applicants' post-secondary studies and their suitability for a career in information-related fields"
+  },
+  "non_cs_notes": {
+   "value": "Not a CS program; no field requirement stated",
+   "source": "https://www.mcgill.ca/sis/programs/mist/admissions",
+   "quote": "suitability for a career in information-related fields"
+  },
+  "prerequisites": {
+   "value": "None stated beyond basic computer competency (Windows, file management, word processing, PowerPoint)",
+   "source": "https://www.mcgill.ca/sis/programs/mist/admissions"
+  },
+  "min_gpa": {
+   "value": "3.0/4.0 (B)",
+   "source": "https://www.mcgill.ca/sis/programs/mist/admissions"
+  },
+  "work_experience_considered": {
+   "value": "yes (CV with relevant experience required; non-academic references allowed if degree 5+ years old)",
+   "source": "https://www.mcgill.ca/sis/programs/mist/admissions"
+  },
+  "experience_pathway": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "ielts": {
+   "value": "7.5 overall, 7.5 writing",
+   "source": "https://www.mcgill.ca/sis/programs/mist/admissions"
+  },
+  "toefl": {
+   "value": "iBT overall figure shown as '6' on fetched page (likely truncated/garbled, verify); writing >=5, others >=4.5",
+   "source": "https://www.mcgill.ca/sis/programs/mist/admissions"
+  },
+  "english_waiver": {
+   "value": "Likely yes: McGill grad general rule exempts degrees from recognized institutions where English is language of instruction; the MISt page says proof 'if applicable'. Verify at https://www.mcgill.ca/gradapplicants/how-apply/you-apply-mcgill/proficiency",
+   "source": "https://www.mcgill.ca/gradapplicants/how-apply/you-apply-mcgill/proficiency"
+  },
+  "gre_gmat": {
+   "value": "Not required",
+   "source": "https://www.mcgill.ca/sis/programs/mist/admissions",
+   "quote": "GRE scores are not required"
+  },
+  "other_requirements": {
+   "value": "2 references (instructors; non-academic OK if degree 5+ yrs old), SOP 800-1000 words, CV, transcripts, non-refundable fee",
+   "source": "https://www.mcgill.ca/sis/programs/mist/admissions"
+  },
+  "application_fee": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "deadline": {
+   "value": "January 15 for Fall (international and Canadian)",
+   "source": "https://www.mcgill.ca/sis/programs/mist/admissions"
+  },
+  "duration": {
+   "value": "48 credits, ~2 years full-time",
+   "source": "https://www.mcgill.ca/sis/programs/mist"
+  },
+  "tuition_amount": {
+   "value": "Master's non-thesis international 2026-27: CAD 16,416.30 per term tuition; MISt program-specific rate and total UNKNOWN (48 credits ~4 terms => roughly 65k tuition if 4 terms; verify against fee calculator)",
+   "source": "https://www.mcgill.ca/student-accounts/masters-non-thesis-programs-7"
+  },
+  "language": {
+   "value": "English (McGill)",
+   "source": "https://www.mcgill.ca/sis/programs/mist"
+  },
+  "accreditation": {
+   "value": "McGill is a Universities Canada member; program ALA-accredited",
+   "source": "https://www.mcgill.ca/sis/programs/mist"
+  },
+  "curriculum_focus": {
+   "value": "Library studies, knowledge management, archival studies, UX, data science",
+   "source": "https://www.mcgill.ca/sis/programs/mist"
+  },
+  "coop_internship": {
+   "value": "Optional 3-credit practicum",
+   "source": "https://www.mcgill.ca/sis/programs/mist"
+  },
+  "delivery_mode": {
+   "value": "On-campus full-time; part-time also available (5-year window)",
+   "source": "https://www.mcgill.ca/sis/programs/mist"
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: any-degree-like admission (suitability for information-related careers); 2:1 vs 3.0/4.0 conversion unconfirmed; English waiver probable but unconfirmed; IELTS 7.5 if no waiver. No GRE. Tuition likely near/over preferred max and curriculum is LIS-leaning with little cloud content. Per-term tuition 16,416 may mean total ~65.7k for 4 terms, within 75k cap but needs verification.",
+ "saved_on": "2026-10-06"
+}

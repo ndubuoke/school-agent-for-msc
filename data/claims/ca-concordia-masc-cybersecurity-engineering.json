@@ -1,0 +1,78 @@
+{
+ "id": "ca-concordia-masc-cybersecurity-engineering",
+ "claims": {
+  "bachelor_required": {
+   "value": "4-year bachelor's (or equivalent) in Engineering or Computer Science; GPA 3.00",
+   "source": "https://www.concordia.ca/ginacody/cybersecurity-intelligent-systems-eng/students/graduate.html",
+   "quote": "a four-year or equivalent of bachelor's degree in Engineering or Computer Science"
+  },
+  "bachelor_field": {
+   "value": "Computer Engineering, Electrical Engineering, Software Engineering or Computer Science",
+   "source": "https://www.concordia.ca/academics/graduate/cybersecurity-engineering-masc.html",
+   "quote": "Bachelor's degree or equivalent in Computer Engineering, Electrical Engineering, Software Engineering, or Computer Science."
+  },
+  "non_cs_eligible": {
+   "value": "no (stated fields only); possible qualifying program for 'deficiencies' - unconfirmed",
+   "source": "https://www.concordia.ca/academics/graduate/cybersecurity-engineering-masc.html"
+  },
+  "non_cs_notes": {
+   "value": "Program pages: 'Bachelor's degree or equivalent in Computer Engineering, Electrical Engineering, Software Engineering, or Computer Science.' Faculty student page: 'a four-year or equivalent of bachelor's degree in Engineering or Computer Science', CGPA 3.00 or higher. A search-result summary of the Graduate Calendar (ISS entry; page itself not fetchable by me) said 'Applicants with deficiencies in their undergraduate preparation may be required to take a qualifying program' - unconfirmed on the official page.",
+   "source": "https://www.concordia.ca/ginacody/cybersecurity-intelligent-systems-eng/students/graduate.html"
+  },
+  "min_gpa": {
+   "value": "3.00 CGPA or equivalent",
+   "source": "https://www.concordia.ca/ginacody/cybersecurity-intelligent-systems-eng/students/graduate.html",
+   "quote": "Minimum CGPA: 3.00 or higher"
+  },
+  "work_experience_considered": {
+   "value": "UNKNOWN - not mentioned on official pages",
+   "source": "https://www.concordia.ca/academics/graduate/cybersecurity-engineering-masc.html"
+  },
+  "experience_pathway": {
+   "value": "no / not stated",
+   "source": "https://www.concordia.ca/academics/graduate/cybersecurity-engineering-masc.html"
+  },
+  "prerequisites": {
+   "value": "Ability to write programs in a standard language assumed (calendar summary, unconfirmed); ISS: solid knowledge of software engineering/development",
+   "source": "https://www.concordia.ca/ginacody/cybersecurity-intelligent-systems-eng/students/graduate.html"
+  },
+  "ielts": {
+   "value": "6.5 overall",
+   "source": "https://www.concordia.ca/ginacody/cybersecurity-intelligent-systems-eng/students/graduate.html",
+   "quote": "band score of 6.5"
+  },
+  "toefl": {
+   "value": "iBT 85, min 20 per section",
+   "source": "https://www.concordia.ca/ginacody/cybersecurity-intelligent-systems-eng/students/graduate.html",
+   "quote": "TOEFL iBT: 85 with a minimum of 20 in each section"
+  },
+  "english_waiver": {
+   "value": "yes (3+ full years undergraduate study in exempt country; Nigeria listed; university may still require a test)",
+   "source": "https://www.concordia.ca/gradstudies/future-students/how-to-apply/english-language-proficiency/exempt-countries.html",
+   "quote": "In all cases, the university reserves the right to require a proficiency test if we deem it necessary."
+  },
+  "gre_gmat": {
+   "value": "UNKNOWN - not mentioned",
+   "source": "https://www.concordia.ca/academics/graduate/cybersecurity-engineering-masc.html"
+  },
+  "deadline": {
+   "value": "International: Fall March 1; Winter July 1; Summer Nov 1",
+   "source": "https://www.concordia.ca/academics/graduate/cybersecurity-engineering-masc.html"
+  },
+  "duration": {
+   "value": "2 years, 45 credits, thesis",
+   "source": "https://www.concordia.ca/academics/graduate/cybersecurity-engineering-masc.html"
+  },
+  "application_fee": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "other_requirements": {
+   "value": "Supervisor match required before offer: 'An admission offer will not be issued until a supervisor match has been made.'",
+   "source": "https://concordia.ca/admissions/graduate/programs-with-additional-requirements.html"
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: official program page lists Computer/Electrical/Software Engineering or Computer Science bachelor's; no stated non-CS or experience pathway on the pages I could read, but a calendar summary mentions a qualifying program for undergraduate deficiencies (unconfirmed). Thesis program requiring supervisor match; Geography BSc is a weak fit. Not marked ineligible because a qualifying-program route may exist and I could not read the calendar entry directly; verifier should check the Graduate Calendar entry. English waiver likely via Nigeria exempt list. GRE, fee, tuition UNKNOWN.",
+ "saved_on": "2026-10-06"
+}

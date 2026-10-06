@@ -1,0 +1,76 @@
+{
+ "id": "ca-brocku-msc-management-ois",
+ "claims": {
+  "bachelor_required": {
+   "value": "Four-year bachelor's degree (Canadian equivalent) from accredited university",
+   "source": "https://brocku.ca/programs/graduate/msc/"
+  },
+  "bachelor_field": {
+   "value": "UNKNOWN (no field restriction stated in the snippets found)",
+   "source": "https://brocku.ca/programs/graduate/msc/"
+  },
+  "non_cs_eligible": {
+   "value": "UNKNOWN",
+   "source": "https://brocku.ca/programs/graduate/msc/"
+  },
+  "non_cs_notes": {
+   "value": "Only a four-year bachelor's and B+/78% average required in snippet; no statement on field or experience",
+   "source": "https://brocku.ca/programs/graduate/msc/"
+  },
+  "experience_pathway": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "work_experience": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "prerequisites": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "min_gpa": {
+   "value": "B+/First Class/78 percent average in last two years (Canadian equivalent)",
+   "source": "https://brocku.ca/programs/graduate/msc/"
+  },
+  "ielts": {
+   "value": "Academic IELTS 7.0 (band minimums not captured)",
+   "source": "https://brocku.ca/programs/graduate/msc/"
+  },
+  "toefl": {
+   "value": "TOEFL iBT 100",
+   "source": "https://brocku.ca/programs/graduate/msc/"
+  },
+  "english_waiver": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "english_req": {
+   "value": "International applicants: TOEFL iBT 100 or Academic IELTS 7.0; waiver not found",
+   "source": "https://brocku.ca/programs/graduate/msc/"
+  },
+  "gre_gmat": {
+   "value": "REQUIRED: GMAT 52nd percentile verbal and quant, or GRE 60th percentile verbal and quant; waiver not found",
+   "source": "https://brocku.ca/programs/graduate/msc/"
+  },
+  "other_requirements": {
+   "value": "OUAC application, transcripts, official GMAT/GRE, three reference reports, statement of research interest, resume, language scores, faculty interview",
+   "source": "https://brocku.ca/programs/graduate/msc/"
+  },
+  "application_fee": {
+   "value": "110 CAD",
+   "source": "https://brocku.ca/programs/graduate/msc/"
+  },
+  "deadline": {
+   "value": "Rolling until full; international applicants encouraged to apply by March 1",
+   "source": "https://brocku.ca/programs/graduate/msc/"
+  },
+  "duration": {
+   "value": "Thesis, ~20 months (from tracker record, unconfirmed)",
+   "source": "https://brocku.ca/goodman/programs/msc/"
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: brocku.ca pages mostly returned 403 to automated fetch; requirements come from search-result excerpts of brocku.ca/programs/graduate/msc/ and need verifier confirmation. GMAT/GRE required with no waiver found, IELTS 7.0/TOEFL 100 with no waiver found, 78% average needed, three references and interview. Background is not restricted in what was seen, so not a reject. Tuition unknown.",
+ "saved_on": "2026-10-06"
+}

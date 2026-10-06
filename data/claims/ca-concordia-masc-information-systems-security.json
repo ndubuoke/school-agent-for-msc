@@ -1,0 +1,71 @@
+{
+ "id": "ca-concordia-masc-information-systems-security",
+ "claims": {
+  "currently_offered": {
+   "value": "UNLIKELY/UNCONFIRMED - ISS pages 404; department now lists Cybersecurity Engineering MASc instead",
+   "source": "https://www.concordia.ca/ginacody/cybersecurity-intelligent-systems-eng/programs/graduate.html",
+   "quote": "Cybersecurity Engineering - Master of Applied Science (MASc) - Thesis-based program"
+  },
+  "bachelor_required": {
+   "value": "4-year bachelor's or equivalent in Engineering or Computer Science, CGPA 3.00 (ISS faculty student page, covers ISS and CE)",
+   "source": "https://www.concordia.ca/ginacody/cybersecurity-intelligent-systems-eng/students/graduate.html",
+   "quote": "a four-year or equivalent of bachelor's degree in Engineering or Computer Science"
+  },
+  "bachelor_field": {
+   "value": "Computer Engineering, Electrical Engineering, Software Engineering or Computer Science (successor CE page); ISS also requires solid software engineering knowledge",
+   "source": "https://www.concordia.ca/academics/graduate/cybersecurity-engineering-masc.html",
+   "quote": "Bachelor's degree or equivalent in Computer Engineering, Electrical Engineering, Software Engineering, or Computer Science."
+  },
+  "non_cs_eligible": {
+   "value": "no (none stated on pages read)",
+   "source": "https://www.concordia.ca/academics/graduate/cybersecurity-engineering-masc.html"
+  },
+  "experience_pathway": {
+   "value": "no / not stated",
+   "source": "https://www.concordia.ca/academics/graduate/cybersecurity-engineering-masc.html"
+  },
+  "min_gpa": {
+   "value": "3.00 CGPA or equivalent",
+   "source": "https://www.concordia.ca/ginacody/cybersecurity-intelligent-systems-eng/students/graduate.html",
+   "quote": "an equivalent CGPA of 3.00 or higher"
+  },
+  "ielts": {
+   "value": "6.5 overall",
+   "source": "https://www.concordia.ca/ginacody/cybersecurity-intelligent-systems-eng/students/graduate.html",
+   "quote": "IELTS band score of 6.5"
+  },
+  "toefl": {
+   "value": "iBT 85, min 20 per section",
+   "source": "https://www.concordia.ca/ginacody/cybersecurity-intelligent-systems-eng/students/graduate.html",
+   "quote": "TOEFL iBT score of 85 with a minimum of 20 in each section"
+  },
+  "english_waiver": {
+   "value": "yes - Nigeria on exempt-country list (3+ yrs study); university may still require test",
+   "source": "https://www.concordia.ca/gradstudies/future-students/how-to-apply/english-language-proficiency/exempt-countries.html",
+   "quote": "In all cases, the university reserves the right to require a proficiency test if we deem it necessary."
+  },
+  "deadline": {
+   "value": "International: Fall Mar 1; Winter Jul 1; Summer Nov 1 (successor CE page)",
+   "source": "https://www.concordia.ca/academics/graduate/cybersecurity-engineering-masc.html"
+  },
+  "gre_gmat": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "application_fee": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "other_requirements": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "work_experience_considered": {
+   "value": "UNKNOWN",
+   "source": ""
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: Program-status check: the current department graduate-programs page lists only Cybersecurity Engineering MEng/MASc (plus AI for Systems Eng, PhD) and no Information Systems Security entry; the older ISS pages (ginacody/info-systems-eng/programs/information-systems-security/meng.html and masc.html) and the Graduate Calendar ISS URLs returned HTTP 404 on fetch. No official page I could read says explicitly 'formerly ISS' or 'no longer admitting', so this is strong circumstantial evidence of replacement by Cybersecurity Engineering, not a quoted statement. Thesis-based, requires Engineering/CS bachelor's, CGPA 3.00, supervisor match; Geography BSc weak fit, no non-CS pathway stated. Verifier should confirm offered status. English waiver likely. GRE, fee UNKNOWN.",
+ "saved_on": "2026-10-06"
+}

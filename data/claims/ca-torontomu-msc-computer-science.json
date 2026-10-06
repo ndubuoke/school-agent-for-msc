@@ -1,0 +1,74 @@
+{
+ "id": "ca-torontomu-msc-computer-science",
+ "claims": {
+  "bachelor_required": {
+   "value": "4-year degree in CS (or equivalent), or any 4-year degree plus qualifying coursework",
+   "source": "https://www.torontomu.ca/graduate/programs/computer-science/",
+   "quote": "Individuals who hold a 4-year undergraduate degree (or equivalent) in any field may complete the Coding, Programming, and Algorithms: Computer Science Fundamentals course series or Computer Coding certificate to enhance their application and qualify to apply"
+  },
+  "bachelor_field": {
+   "value": "Computer Science, or any field with qualifying coursework",
+   "source": "https://www.torontomu.ca/graduate/programs/computer-science/"
+  },
+  "non_cs_eligible": {
+   "value": "with-bridging",
+   "source": "https://www.torontomu.ca/graduate/programs/computer-science/"
+  },
+  "non_cs_notes": {
+   "value": "Any-field degree holders may qualify via Coding, Programming, and Algorithms course series or Computer Coding certificate",
+   "source": "https://www.torontomu.ca/graduate/programs/computer-science/",
+   "quote": "may complete the Coding, Programming, and Algorithms: Computer Science Fundamentals course series or Computer Coding certificate to enhance their application and qualify to apply"
+  },
+  "prerequisites": {
+   "value": "Coding, Programming, and Algorithms: CS Fundamentals series or Computer Coding certificate (for non-CS)",
+   "source": "https://www.torontomu.ca/graduate/programs/computer-science/"
+  },
+  "min_gpa": {
+   "value": "3.00/4.33 (B) last two years",
+   "source": "https://www.torontomu.ca/graduate/programs/computer-science/"
+  },
+  "work_experience_considered": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "experience_pathway": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "ielts": {
+   "value": "UNKNOWN (CS-specific score not found; general 7.0)",
+   "source": "https://www.torontomu.ca/graduate/future-students/requirements/"
+  },
+  "toefl": {
+   "value": "UNKNOWN (general 93 iBT)",
+   "source": "https://www.torontomu.ca/graduate/future-students/requirements/"
+  },
+  "english_waiver": {
+   "value": "Yes if 2+ years full-time postsecondary in English-medium university, with registrar statement",
+   "source": "https://www.torontomu.ca/graduate/future-students/requirements/"
+  },
+  "gre_gmat": {
+   "value": "NOT REQUIRED (not mentioned)",
+   "source": "https://www.torontomu.ca/graduate/programs/computer-science/"
+  },
+  "other_requirements": {
+   "value": "2 letters of recommendation",
+   "source": "https://www.torontomu.ca/graduate/programs/computer-science/"
+  },
+  "application_fee": {
+   "value": "110 CAD",
+   "source": "https://www.torontomu.ca/graduate/future-students/apply/faq/"
+  },
+  "deadline": {
+   "value": "Fall 2027 not found; Fall 2026 first consideration Jan 19, 2026",
+   "source": "https://www.torontomu.ca/graduate/future-students/apply/faq/"
+  },
+  "delivery_mode": {
+   "value": "Full-time (MSc)",
+   "source": "https://www.torontomu.ca/graduate/programs/computer-science/"
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: non-CS degrees admitted only after qualifying CS fundamentals coursework/certificate, which Philip has not documented (his DevOps experience does not obviously substitute). Not a background reject (bridging route). Research-flavoured CS, partial field fit; English waivable via English-medium degree.",
+ "saved_on": "2026-10-06"
+}

@@ -1,0 +1,86 @@
+{
+ "id": "ca-mcmaster-mest-systems-technology",
+ "claims": {
+  "bachelor_required": {
+   "value": "Honours Bachelor's Degree (4 Year)",
+   "source": "https://www.eng.mcmaster.ca/sept/degree-options/systems-technology/",
+   "quote": "Honours Bachelor's Degree (4 Year) in Engineering, Sciences, or equivalent"
+  },
+  "bachelor_field": {
+   "value": "Engineering, Sciences, or equivalent",
+   "source": "https://www.eng.mcmaster.ca/sept/degree-options/systems-technology/"
+  },
+  "non_cs_eligible": {
+   "value": "case-by-case (Sciences accepted; geography as science likely but must cover ~20 technical courses)",
+   "source": "https://www.eng.mcmaster.ca/sept/degree-options/systems-technology/"
+  },
+  "non_cs_notes": {
+   "value": "Honours Bachelor's Degree (4 Year) in Engineering, Sciences, or equivalent; B average in final two years covering 20 technical courses",
+   "source": "https://www.eng.mcmaster.ca/sept/degree-options/systems-technology/",
+   "quote": "Honours Bachelor's Degree (4 Year) in Engineering, Sciences, or equivalent"
+  },
+  "experience_pathway": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "work_experience": {
+   "value": "UNKNOWN (not stated)",
+   "source": "https://www.eng.mcmaster.ca/sept/degree-options/systems-technology/"
+  },
+  "prerequisites": {
+   "value": "B average (73-76% or 8.0/12) in final two years covering 20 technical courses",
+   "source": "https://www.eng.mcmaster.ca/sept/degree-options/systems-technology/"
+  },
+  "min_gpa": {
+   "value": "B average (73-76% or 8.0/12) in final two years",
+   "source": "https://www.eng.mcmaster.ca/sept/degree-options/systems-technology/"
+  },
+  "ielts": {
+   "value": "Overall 6.5 (5.5 reading/writing, 6 listening/speaking)",
+   "source": "https://www.eng.mcmaster.ca/sept/degree-options/systems-technology/"
+  },
+  "toefl": {
+   "value": "iBT 88 (pre-Jan 2026 test); new-format 4.5 post-Jan 2026; section minimums not stated",
+   "source": "https://www.eng.mcmaster.ca/sept/degree-options/systems-technology/"
+  },
+  "english_waiver": {
+   "value": "yes (if English was medium of instruction, documented on transcripts)",
+   "source": "https://www.eng.mcmaster.ca/sept/degree-options/systems-technology/"
+  },
+  "english_req": {
+   "value": "IELTS 6.5 or TOEFL 88; waiver if English was medium of instruction documented on transcripts",
+   "source": "https://www.eng.mcmaster.ca/sept/degree-options/systems-technology/"
+  },
+  "gre_gmat": {
+   "value": "Not listed (inferred NOT REQUIRED; verify)",
+   "source": "https://www.eng.mcmaster.ca/sept/degree-options/systems-technology/"
+  },
+  "other_requirements": {
+   "value": "CV, statement of interest (max 2 pages), transcripts, two academic references, Kira Talent online interview ($60)",
+   "source": "https://www.eng.mcmaster.ca/sept/degree-options/systems-technology/"
+  },
+  "application_fee": {
+   "value": "150 (plus 60 Kira interview fee), currency presumably CAD",
+   "source": "https://www.eng.mcmaster.ca/sept/degree-options/systems-technology/"
+  },
+  "deadline": {
+   "value": "International: February 28, 2027 (Sept 2027 intake)",
+   "source": "https://www.eng.mcmaster.ca/sept/degree-options/systems-technology/"
+  },
+  "duration": {
+   "value": "12-24 months full-time (16 recommended); part-time domestic only",
+   "source": "https://www.eng.mcmaster.ca/sept/degree-options/systems-technology/"
+  },
+  "tuition_total_cad": {
+   "value": "UNKNOWN (per-credit; registrar schedule not read)",
+   "source": "https://www.eng.mcmaster.ca/sept/degree-options/systems-technology/"
+  },
+  "key_courses": {
+   "value": "Streams: Automation & Smart Systems, Automotive, Digital Manufacturing, Process Systems (unavailable 2026/27); cyber-physical/engineering focus, little IT management or cloud",
+   "source": "https://www.eng.mcmaster.ca/sept/degree-options/systems-technology/"
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: Sciences degree accepted and English waived with English-medium transcripts, so background not a reject; but 20 technical courses in last two years may be a gap for geography, no experience pathway stated, and curriculum is manufacturing/automation-oriented (field relevance weak). Two academic references and interview add burden.",
+ "saved_on": "2026-10-06"
+}

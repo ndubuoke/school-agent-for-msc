@@ -1,0 +1,79 @@
+{
+ "id": "ca-uwindsor-mac",
+ "claims": {
+  "bachelor_required": {
+   "value": "4-year bachelor degree in Computer Science or a closely-related discipline",
+   "source": "https://www.uwindsor.ca/graduate-studies/305/applied-computing",
+   "quote": "An applicant must hold a 4-year bachelor degree in Computer Science or a closely-related discipline with a minimum major average of 70%"
+  },
+  "bachelor_field": {
+   "value": "CS or closely related discipline",
+   "source": "https://www.future.uwindsor.ca/program/master-of-applied-computing/"
+  },
+  "non_cs_eligible": {
+   "value": "UNKNOWN (only 'closely related discipline' stated)",
+   "source": "https://www.uwindsor.ca/graduate-studies/305/applied-computing"
+  },
+  "non_cs_notes": {
+   "value": "No alternative pathway or experience substitution stated; 5+ grades below 70% in CS courses reduces chances",
+   "source": "https://www.uwindsor.ca/graduate-studies/305/applied-computing",
+   "quote": "4-year bachelor's degree in computer science or related discipline"
+  },
+  "min_gpa": {
+   "value": "Minimum major average 70%, or 77% in last 3 years of study",
+   "source": "https://www.future.uwindsor.ca/program/master-of-applied-computing/"
+  },
+  "work_experience_considered": {
+   "value": "Not explicitly required/addressed",
+   "source": "https://www.future.uwindsor.ca/program/master-of-applied-computing/"
+  },
+  "experience_pathway": {
+   "value": "UNKNOWN",
+   "source": "https://www.uwindsor.ca/graduate-studies/305/applied-computing"
+  },
+  "ielts": {
+   "value": "6.5, no more than one band at 6.0 (no band below 6.0)",
+   "source": "https://www.uwindsor.ca/graduate-studies/305/applied-computing"
+  },
+  "toefl": {
+   "value": "iBT 92 (min 23 each band); Duolingo 120; Pearson 65",
+   "source": "https://www.uwindsor.ca/graduate-studies/305/applied-computing"
+  },
+  "english_waiver": {
+   "value": "Exempt if degree completed at an institution in a country where English was primary language of instruction (list includes Nigeria) within past two years",
+   "source": "https://www.uwindsor.ca/graduate-studies/346/admission-requirements"
+  },
+  "gre_gmat": {
+   "value": "Not mentioned",
+   "source": "https://www.future.uwindsor.ca/program/master-of-applied-computing/"
+  },
+  "other_requirements": {
+   "value": "Statement of Interest, resume/CV, two letters of reference; $4,000 deposit within 21 days of admission",
+   "source": "https://www.uwindsor.ca/graduate-studies/305/applied-computing"
+  },
+  "application_fee": {
+   "value": "$125 (CAD presumably)",
+   "source": "https://www.uwindsor.ca/graduate-studies/346/admission-requirements"
+  },
+  "deadline": {
+   "value": "Fall: May 15; Winter: October 1 (Summer 2026 suspended)",
+   "source": "https://www.uwindsor.ca/graduate-studies/305/applied-computing"
+  },
+  "duration": {
+   "value": "16 months (4 consecutive terms)",
+   "source": "https://www.uwindsor.ca/studentrecruitment/645/faq-applied-computing",
+   "quote": "four (4) consecutive academic terms or 16 months"
+  },
+  "coop_internship": {
+   "value": "Final-term research project or internship; co-op option per program page",
+   "source": "https://www.uwindsor.ca/studentrecruitment/645/faq-applied-computing"
+  },
+  "tuition_amount": {
+   "value": "UNKNOWN",
+   "source": ""
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: requires CS or 'closely-related discipline' with a 70% major average; a geography degree is unlikely to count and no experience route is stated, but not explicitly 'no alternatives', so not rejected. English waiver likely (Nigeria exemption, but within two years of graduation, which may fail depending on graduation year TODO). Fall deadline May 15, 2027, fee $125.",
+ "saved_on": "2026-10-06"
+}

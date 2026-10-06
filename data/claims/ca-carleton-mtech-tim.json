@@ -1,0 +1,100 @@
+{
+ "id": "ca-carleton-mtech-tim",
+ "claims": {
+  "bachelor_required": {
+   "value": "Bachelor's in engineering, business or science with at least high honours standing; GPA B+ or higher",
+   "source": "https://calendar.carleton.ca/grad/gradprograms/technologyinnovationmanagement/",
+   "quote": "The normal requirement for admission to the master's program is a bachelor's degree in engineering, business, or science, with at least high honours standing."
+  },
+  "bachelor_field": {
+   "value": "Science, Engineering, Technology, Business; others considered with significant technical work experience",
+   "source": "https://carleton.ca/tim/frequently-asked-questions/",
+   "quote": "Students with an academic background outside these fields may be considered if they have significant technical work experience."
+  },
+  "non_cs_eligible": {
+   "value": "case-by-case",
+   "source": "https://carleton.ca/tim/frequently-asked-questions/",
+   "quote": "may be considered if they have significant technical work experience"
+  },
+  "experience_pathway": {
+   "value": "yes",
+   "source": "https://carleton.ca/tim/frequently-asked-questions/",
+   "quote": "Students with an academic background outside these fields may be considered if they have significant technical work experience."
+  },
+  "min_gpa": {
+   "value": "B+ (both graduate and undergrad GPAs calculated)",
+   "source": "https://carleton.ca/tim/frequently-asked-questions/",
+   "quote": "a GPA of B+ or higher"
+  },
+  "work_experience_considered": {
+   "value": "YES",
+   "source": "https://carleton.ca/tim/frequently-asked-questions/",
+   "quote": "a minimum of 2 years of professional work experience"
+  },
+  "work_experience": {
+   "value": "required (minimum 2 years professional/technical experience)",
+   "source": "https://carleton.ca/tim/frequently-asked-questions/"
+  },
+  "ielts": {
+   "value": "6.5 overall, min 6.0 each band (Carleton graduate general; program-specific not found)",
+   "source": "https://graduate.carleton.ca/international/english-second-language/"
+  },
+  "toefl": {
+   "value": "iBT 86 overall (exams before 2026-01-21); newer scoring changed; section minimums not captured",
+   "source": "https://graduate.carleton.ca/international/english-second-language/"
+  },
+  "english_waiver": {
+   "value": "yes - Nigeria is on Approved English-Speaking Countries list; degree must have English as primary language of instruction",
+   "source": "https://graduate.carleton.ca/list-of-english-speaking-countries/",
+   "quote": "Nigeria"
+  },
+  "gre_gmat": {
+   "value": "NOT REQUIRED (none mentioned in program documents; not explicitly stated)",
+   "source": "https://carleton.ca/tim/frequently-asked-questions/"
+  },
+  "other_requirements": {
+   "value": "Transcripts, CV, two-page Statement of Intent, two references (preferably academic); full-time only, evening classes; Fall admission only; Fall 2027 open",
+   "source": "https://carleton.ca/tim/frequently-asked-questions/"
+  },
+  "application_fee": {
+   "value": "CAD 125 (grad general; MBA 175) - from search snippet, not confirmed on page",
+   "source": "https://graduate.carleton.ca/apply-online/"
+  },
+  "duration": {
+   "value": "As fast as 4 terms (16 months); max 2 years",
+   "source": "https://carleton.ca/tim/frequently-asked-questions/"
+  },
+  "intake": {
+   "value": "Fall only",
+   "source": "https://carleton.ca/tim/frequently-asked-questions/"
+  },
+  "delivery_mode": {
+   "value": "on-campus full-time, evening classes; part-time not available",
+   "source": "https://carleton.ca/tim/frequently-asked-questions/"
+  },
+  "non_cs_notes": {
+   "value": "Quote: 'Students with an academic background outside these fields may be considered if they have significant technical work experience.' Geography BSc is science-adjacent anyway.",
+   "source": "https://carleton.ca/tim/frequently-asked-questions/"
+  },
+  "key_courses": {
+   "value": "Compulsory TIMG 5001 Principles of Technology Innovation Management; TIMG 5002 Technology Entrepreneurship; TIMG 5003 Issues in TIM (IP, market entry, open source, ecosystems); electives from TIMG/engineering/business/science; 5.5 credits; project or coursework pathway",
+   "source": "https://calendar.carleton.ca/grad/gradprograms/technologyinnovationmanagement/"
+  },
+  "curriculum_focus": {
+   "value": "management",
+   "source": "https://calendar.carleton.ca/grad/gradprograms/technologyinnovationmanagement/",
+   "quote": "core courses are innovation/entrepreneurship/commercialization oriented, no cloud/infrastructure core"
+  },
+  "cloud_content": {
+   "value": "minimal (none in core; possible via engineering/science electives)",
+   "source": "https://calendar.carleton.ca/grad/gradprograms/technologyinnovationmanagement/"
+  },
+  "coop_internship": {
+   "value": "Nicol Internships pathway mentioned",
+   "source": "https://carleton.ca/tim/program-pathways/master-of-technology/"
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: non-science background may be considered with significant technical experience (Philip has 5-7 yrs DevOps); needs B+ (2:1 conversion unconfirmed), English waived via Nigeria list. Curriculum is management/innovation/entrepreneurship with minimal cloud; relevance weak though electives in engineering possible. Tuition, deadline unknown.",
+ "saved_on": "2026-10-06"
+}

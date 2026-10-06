@@ -1,0 +1,77 @@
+{
+ "id": "ca-uvic-meng-telecommunications-information-security",
+ "claims": {
+  "bachelor_required": {
+   "value": "Bachelor degree in engineering or related field, normally first-class standing",
+   "source": "https://uvic.ca/ecs/ece/future/mtis/admissions/index.php",
+   "quote": "completed a Bachelor degree in engineering or a related field from an academic institution recognized by the University of Victoria"
+  },
+  "bachelor_field": {
+   "value": "Engineering or related field",
+   "source": "https://uvic.ca/ecs/ece/future/mtis/admissions/index.php"
+  },
+  "non_cs_eligible": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "experience_pathway": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "work_experience_considered": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "non_cs_notes": {
+   "value": "No non-engineering pathway stated; 'engineering or related field' only",
+   "source": "https://uvic.ca/ecs/ece/future/mtis/admissions/index.php"
+  },
+  "min_gpa": {
+   "value": "Normally first-class standing",
+   "source": "https://uvic.ca/ecs/ece/future/mtis/admissions/index.php"
+  },
+  "english_waiver": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "english_req": {
+   "value": "Must meet English language requirements (details not on page)",
+   "source": "https://uvic.ca/ecs/ece/future/mtis/admissions/index.php"
+  },
+  "ielts": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "toefl": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "gre_gmat": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "other_requirements": {
+   "value": "UNKNOWN references/SOP; 2,000 CAD acceptance deposit",
+   "source": "https://uvic.ca/ecs/ece/future/mtis/admissions/index.php"
+  },
+  "application_fee": {
+   "value": "142.50 CAD (docs within Canada) / 183.00 CAD (any outside Canada) per search snippet",
+   "source": "https://www.uvic.ca/ecs/programs/professional-programs/meng-mtis/index.php"
+  },
+  "deadline": {
+   "value": "Sept entry: April 30 (international); Jan entry: Aug 31 (international)",
+   "source": "https://uvic.ca/ecs/ece/future/mtis/admissions/index.php"
+  },
+  "duration": {
+   "value": "One year, 3 terms, optional co-op work terms",
+   "source": "https://www.uvic.ca/ecs/ece/future/mtis/index.php"
+  },
+  "tuition_amount": {
+   "value": "About 33,000 CAD international (2025-26)",
+   "source": "https://uvic.ca/ecs/ece/future/mtis/admissions/index.php"
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: requires engineering or related degree, normally first-class standing; Philip has a 2:1 geography BSc, so poor fit, but no explicit CS-only rule and no explicit pathway, so not a clean reject. English requirements, references, GRE unknown. Fall 2027 international deadline April 30, 2027. Should be confirmed with program.",
+ "saved_on": "2026-10-06"
+}

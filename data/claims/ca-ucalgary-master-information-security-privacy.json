@@ -1,0 +1,79 @@
+{
+ "id": "ca-ucalgary-master-information-security-privacy",
+ "claims": {
+  "bachelor_required": {
+   "value": "4-year bachelor's, admission GPA 3.00/4.00 on last 60 units",
+   "source": "https://science.ucalgary.ca/future-students/professional-programs/application-information",
+   "quote": "A minimum admission grade point average of 3.00 on a four-point scale"
+  },
+  "bachelor_field": {
+   "value": "No named field, but CS prerequisite courses required",
+   "source": "https://science.ucalgary.ca/future-students/professional-programs/application-information"
+  },
+  "non_cs_eligible": {
+   "value": "case-by-case",
+   "source": "https://science.ucalgary.ca/future-students/professional-programs/application-information",
+   "quote": "Applicants must complete with at least a B: computer programming (e.g. CPSC 233); algorithms and data structures (e.g. CPSC 331); either operating systems (CPSC 457) or computer networks"
+  },
+  "non_cs_notes": {
+   "value": "Direct entry does not require a CS degree but requires proof of three undergraduate CS courses at B or better; no statement found on professional experience substituting. Laddered pathway (via grad certificates) is a second route, with domestic-only scholarship.",
+   "source": "https://science.ucalgary.ca/future-students/professional-programs/application-information"
+  },
+  "prerequisites": {
+   "value": "Programming; algorithms & data structures; OS or computer networks (each B or better); proof of prerequisite completion required",
+   "source": "https://science.ucalgary.ca/future-students/professional-programs/application-information"
+  },
+  "min_gpa": {
+   "value": "3.00/4.00 on last 60 units",
+   "source": "https://science.ucalgary.ca/future-students/professional-programs/application-information"
+  },
+  "work_experience_considered": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "experience_pathway": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "ielts": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "toefl": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "english_waiver": {
+   "value": "Yes, degree from English-instruction institution (Nigeria applicability to be confirmed)",
+   "source": "https://science.ucalgary.ca/future-students/professional-programs/application-information",
+   "quote": "If you hold a degree from an institution that instructs in English"
+  },
+  "gre_gmat": {
+   "value": "Not listed as required",
+   "source": "https://science.ucalgary.ca/future-students/professional-programs/application-information"
+  },
+  "other_requirements": {
+   "value": "Unofficial transcripts, grade scale, proof of prerequisite completion, GPA calculation worksheet; references/SoP not mentioned",
+   "source": "https://science.ucalgary.ca/future-students/professional-programs/application-information"
+  },
+  "application_fee": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "deadline": {
+   "value": "International: March 01 (domestic May 01)",
+   "source": "https://science.ucalgary.ca/future-students/professional-programs/application-information"
+  },
+  "tuition": {
+   "value": "Assessed per course; total UNKNOWN",
+   "source": "https://science.ucalgary.ca/future-students/professional-programs/application-information"
+  },
+  "delivery_mode": {
+   "value": "In person (per record notes; to verify)",
+   "source": "https://science.ucalgary.ca/information-security"
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: any 4-year degree with 3.0/4.0 accepted, English waiver for English-instruction degree, but three CS prerequisite courses at B or better are required; Philip's coursework unknown (TODO) so gap likely. No found statement that experience replaces prerequisites. Ask program.",
+ "saved_on": "2026-10-06"
+}

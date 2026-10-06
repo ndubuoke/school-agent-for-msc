@@ -1,0 +1,83 @@
+{
+ "id": "ca-concordia-meng-software-engineering",
+ "claims": {
+  "currently_offered": {
+   "value": "yes - live page with Fall/Winter/Summer intakes",
+   "source": "https://www.concordia.ca/academics/graduate/software-engineering-meng.html"
+  },
+  "bachelor_required": {
+   "value": "Undergraduate degree or graduate diploma in Software Engineering with very high standing; or degree in engineering, science, computer science or mathematics plus 2 yrs IT experience",
+   "source": "https://www.concordia.ca/academics/graduate/software-engineering-meng.html",
+   "quote": "Undergraduate degree or a graduate diploma in Software Engineering with very high standing"
+  },
+  "bachelor_field": {
+   "value": "Software Engineering; alternatively engineering, science, computer science or mathematics with at least 2 years IT/related industry experience",
+   "source": "https://www.concordia.ca/academics/graduate/software-engineering-meng.html",
+   "quote": "engineering, science, computer science or mathematics"
+  },
+  "non_cs_eligible": {
+   "value": "case-by-case (science degree plus 2 yrs IT experience route; geography degree not explicitly named)",
+   "source": "https://www.concordia.ca/academics/graduate/software-engineering-meng.html",
+   "quote": "at least two years of experience in IT or related industry"
+  },
+  "experience_pathway": {
+   "value": "yes",
+   "source": "https://www.concordia.ca/academics/graduate/software-engineering-meng.html",
+   "quote": "at least two years of experience in IT or related industry"
+  },
+  "work_experience_considered": {
+   "value": "YES - 2+ years IT experience accepted in lieu of SE degree",
+   "source": "https://www.concordia.ca/academics/graduate/software-engineering-meng.html"
+  },
+  "non_cs_notes": {
+   "value": "Page: degrees in 'engineering, science, computer science or mathematics' need 'at least two years of experience in IT or related industry'. Philip's BSc (geography/environmental science) may count as 'science' - verifier to confirm; 5-7 yrs DevOps exceeds 2 yrs.",
+   "source": "https://www.concordia.ca/academics/graduate/software-engineering-meng.html"
+  },
+  "min_gpa": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "ielts": {
+   "value": "UNKNOWN on this page (Concordia graduate standard: 6.5 per Gina Cody student page)",
+   "source": "https://www.concordia.ca/ginacody/cybersecurity-intelligent-systems-eng/students/graduate.html",
+   "quote": "IELTS band score of 6.5"
+  },
+  "toefl": {
+   "value": "iBT 85, min 20 per section (Gina Cody graduate page, program-specific page not itemized)",
+   "source": "https://www.concordia.ca/ginacody/cybersecurity-intelligent-systems-eng/students/graduate.html",
+   "quote": "TOEFL iBT score of 85 with a minimum of 20 in each section"
+  },
+  "english_waiver": {
+   "value": "yes - Nigeria on exempt-country list; university may still require test",
+   "source": "https://www.concordia.ca/gradstudies/future-students/how-to-apply/english-language-proficiency/exempt-countries.html",
+   "quote": "In all cases, the university reserves the right to require a proficiency test if we deem it necessary."
+  },
+  "deadline": {
+   "value": "International: Fall Mar 1; Winter Jul 1; Summer Nov 1",
+   "source": "https://www.concordia.ca/academics/graduate/software-engineering-meng.html"
+  },
+  "coop_internship": {
+   "value": "Paid full-time internship 4 or 8 months",
+   "source": "https://www.concordia.ca/academics/graduate/software-engineering-meng.html"
+  },
+  "gre_gmat": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "application_fee": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "other_requirements": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "tuition": {
+   "value": "Not listed; tuition estimator",
+   "source": "https://www.concordia.ca/academics/graduate/software-engineering-meng.html"
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: official page admits degrees in 'engineering, science, computer science or mathematics' with at least two years of IT experience; Philip has 5-7 yrs DevOps/cloud, but whether a Geography BSc counts as 'science' and whether 'very high standing' GPA is needed is unconfirmed. Course-based with co-op. English waiver likely via Nigeria exempt list. GPA, GRE, fee, tuition UNKNOWN. Software-engineering focus, less IS-management/cloud.",
+ "saved_on": "2026-10-06"
+}

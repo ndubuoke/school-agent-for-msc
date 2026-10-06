@@ -1,0 +1,61 @@
+{
+ "id": "ca-uwinnipeg-msc-applied-computer-science-society",
+ "claims": {
+  "bachelor_required": {
+   "value": "Honours or 4-year BSc in Applied Computer Science, Computer Science and/or Engineering, Mathematics or equivalent with suitable courses",
+   "source": "https://www.uwinnipeg.ca/academics/graduate-calendar/docs/grad-msc-acs.pdf"
+  },
+  "bachelor_field": {
+   "value": "CS, Applied CS, Engineering, Mathematics or equivalent",
+   "source": "https://www.uwinnipeg.ca/academics/graduate-calendar/docs/grad-msc-acs.pdf"
+  },
+  "non_cs_eligible": {
+   "value": "bridging",
+   "source": "https://www.uwinnipeg.ca/academics/graduate-calendar/docs/grad-msc-acs.pdf",
+   "quote": "admitted upon successful completion of a University of Winnipeg designed pre-Master's program (upper-level undergraduate courses) - from search snippet; page itself 403/unreadable"
+  },
+  "non_cs_notes": {
+   "value": "Pre-Master's route exists per search snippet of official calendar; PDF could not be parsed and program page returned 403, so the claim needs verification.",
+   "source": "https://www.uwinnipeg.ca/academics/graduate-calendar/docs/grad-msc-acs.pdf"
+  },
+  "min_gpa": {
+   "value": "3.0 of 4.5 cumulative; course-based: 3.0 in computing, maths and statistics courses (snippet)",
+   "source": "https://www.uwinnipeg.ca/academics/graduate-calendar/docs/grad-msc-acs.pdf"
+  },
+  "work_experience_considered": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "experience_pathway": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "ielts": {
+   "value": "6.5 (snippet)",
+   "source": "https://www.uwinnipeg.ca/academics/graduate-calendar/docs/grad-msc-acs.pdf"
+  },
+  "toefl": {
+   "value": "80 iBT (550 paper) (snippet)",
+   "source": "https://www.uwinnipeg.ca/academics/graduate-calendar/docs/grad-msc-acs.pdf"
+  },
+  "english_waiver": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "gre_gmat": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "other_requirements": {
+   "value": "Two letters of recommendation; thesis track needs supervisor before admission (snippet)",
+   "source": "https://www.uwinnipeg.ca/academics/graduate-calendar/docs/grad-msc-acs.pdf"
+  },
+  "application_fee": {
+   "value": "UNKNOWN",
+   "source": ""
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: stated entry degrees are CS/Engineering/Maths, but a pre-Master's pathway reportedly exists (unconfirmed, official pages blocked). Entry GPA is computed on computing/maths/stats courses, which Philip may lack. English waiver status UNKNOWN. Needs direct verification.",
+ "saved_on": "2026-10-06"
+}

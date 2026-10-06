@@ -19,3 +19,14 @@ Append-only. One entry per `/find-schools` run (newest at the bottom).
 - Unverifiable: ca-brocku-msc-management-ois (brocku.ca blocks automated access).
 - Raw agent outputs are in this session's transcript only; a re-run will need to re-verify.
 - 2026-10-06 follow-up: added per-agent saving, `data/claims/`, `list --unfinished` and a resume queue to /find-schools. The 43 Canada rows at stage `researching` will resume at step 6 on the next run.
+
+## 2026-10-06 — /find-schools Canada (resumed run, complete)
+- Location: Canada · Target: 20 · New candidates: 20 (target met: yes) — Ontario 8, Quebec/Atlantic 6, West 6. Resumed 43 rows from the earlier interrupted run (all at stage `researching` → resumed at step 6).
+- Checked: 63 · Verified: 62 · Unverified: 1 (Brock MSc Management OIS — brocku.ca returns 403) · Strong: 0 · Possible: 53 (only 7 score ≥65 on verified facts; 46 are best-case rescues) · Rejected this run: 11 (background 4, field 3, low-score 3, other 1)
+- Verifier: changed 194 claims · unconfirmed→UNKNOWN 284 · CONFLICT fields 11 · reasons confirmed 2 (Northeastern Align online-only; UNFC MCS AI field) / overturned 1 (UBC MEng ECE background — calendar allows experience to offset academic deficiency)
+- Judgment calls: Concordia Cybersecurity Eng MEng/MASc and ISS MEng/MASc rejected on background (Eng/CS degree only; calendar "deficiency/qualifying" wording judged to cover in-field applicants only). SMU MTEI and Carleton MDTE rejected on field (business/entrepreneurship curricula with no IT/systems content).
+- Spot-checks by orchestrator (official pages, 2026-10-06): SMU CDA tuition/deadline ✓, Bishop's deadline/fee ✓, York MAIST intl deadline ✓, Ontario Tech MITS per-credit rate ✓, Concordia BATM tuition/deadline ✓, SFU Cybersecurity tuition/deadline ✓, Northeastern Toronto MPS — page shows 2025-26 figure (50.2K) vs tracker's 2026-27 estimate (50,466); noted on the row.
+- Exchange rates used: none (all figures in CAD).
+- Fix applied: a verifier wrote UNKNOWN over Brock's identity fields (program, province, URL); restored from git and guarded the save step.
+- Issues: most universities haven't published 2027-28 tuition (2026-27 figures used, confidence medium); many deadlines printed without a year (year inferred); uwinnipeg.ca, brocku.ca, ece.ubc.ca, Sauder and some uOttawa pages block automated access; Concordia ISS and Quality Systems MEng pages 404 (status UNKNOWN).
+- Profile gaps limiting accuracy: CGPA, degree title/length, coursework (programming/maths/stats), graduation year, exact experience and certifications.

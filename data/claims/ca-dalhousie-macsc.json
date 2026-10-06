@@ -1,0 +1,74 @@
+{
+ "id": "ca-dalhousie-macsc",
+ "claims": {
+  "bachelor_required": {
+   "value": "Four-year undergraduate degree",
+   "source": "https://www.dal.ca/academics/programs/graduate/applied-computer-science.html"
+  },
+  "bachelor_field": {
+   "value": "Knowledge base equivalent to second-year core CS curriculum; non-CS may need qualifying courses",
+   "source": "https://www.dal.ca/academics/programs/graduate/applied-computer-science.html"
+  },
+  "non_cs_eligible": {
+   "value": "with-bridging",
+   "source": "https://www.dal.ca/academics/programs/graduate/applied-computer-science.html",
+   "quote": "Applicants from non-computer science backgrounds may be required to complete qualifying year courses."
+  },
+  "prerequisites": {
+   "value": "Second-year core CS knowledge (qualifying courses possible)",
+   "source": "https://www.dal.ca/academics/programs/graduate/applied-computer-science.html"
+  },
+  "min_gpa": {
+   "value": "3.0 (emphasis on technical courses)",
+   "source": "https://www.dal.ca/academics/programs/graduate/applied-computer-science.html"
+  },
+  "work_experience_considered": {
+   "value": "YES",
+   "source": "https://www.dal.ca/academics/programs/graduate/applied-computer-science.html"
+  },
+  "experience_pathway": {
+   "value": "case-by-case",
+   "source": "https://www.dal.ca/academics/programs/graduate/applied-computer-science.html",
+   "quote": "Applicants who have been away from academia should demonstrate relevant industry experience maintaining technical skills."
+  },
+  "ielts": {
+   "value": "7.0 overall (when required)",
+   "source": "https://www.dal.ca/academics/programs/graduate/applied-computer-science.html"
+  },
+  "toefl": {
+   "value": "iBT 92 (when required)",
+   "source": "https://www.dal.ca/academics/programs/graduate/applied-computer-science.html"
+  },
+  "english_waiver": {
+   "value": "yes - waiver possible if degree at recognized English-instruction university in country where English is official language (FGS); request during application",
+   "source": "https://www.dal.ca/faculty/gradstudies/apply-graduate-studies/admission-requirements/english-requirements.html"
+  },
+  "gre_gmat": {
+   "value": "UNKNOWN (not mentioned)",
+   "source": ""
+  },
+  "other_requirements": {
+   "value": "Admissions interview mandatory",
+   "source": "https://www.dal.ca/academics/programs/graduate/applied-computer-science.html"
+  },
+  "application_fee": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "duration": {
+   "value": "16+ months full-time, in-person; course-based with internship/entrepreneurship option",
+   "source": "https://www.dal.ca/academics/programs/graduate/applied-computer-science.html"
+  },
+  "deadline": {
+   "value": "Sept: Apr 1 intl; Jan: Aug 1 intl; May: Jan 15 intl",
+   "source": "https://www.dal.ca/academics/programs/graduate/applied-computer-science.html"
+  },
+  "tuition": {
+   "value": "Program fee per term, no amounts on page; international rate; scholarships $1,000-$3,000",
+   "source": "https://www.dal.ca/academics/programs/graduate/applied-computer-science.html"
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: non-CS accepted with possible qualifying courses; industry experience valued; interview required; Philip's 5-7 yrs DevOps helps. English waiver likely but must be requested. Tuition amounts, fee, GRE unknown.",
+ "saved_on": "2026-10-06"
+}

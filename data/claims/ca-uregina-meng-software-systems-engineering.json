@@ -1,0 +1,75 @@
+{
+ "id": "ca-uregina-meng-software-systems-engineering",
+ "claims": {
+  "bachelor_required": {
+   "value": "Four-year baccalaureate with graduating average of at least 70%",
+   "source": "https://www.uregina.ca/graduate-studies-research/future-students/eligibility-requirements.html",
+   "quote": "A graduating average of at least 70% from a four-year baccalaureate"
+  },
+  "bachelor_field": {
+   "value": "Program-specific field not stated on program page; non-complete background admitted conditionally",
+   "source": "https://www.uregina.ca/graduate-studies-research/graduate-calendar/all-programs/engg-sse.html"
+  },
+  "non_cs_eligible": {
+   "value": "bridging",
+   "source": "https://www.uregina.ca/graduate-studies-research/graduate-calendar/all-programs/engg-sse.html",
+   "quote": "students who may not have a complete background in the program area as determined by SSE may be admitted conditionally as qualifying students"
+  },
+  "non_cs_notes": {
+   "value": "Qualifying-student route: additional graduate or undergraduate courses, normally completed within one year",
+   "source": "https://www.uregina.ca/graduate-studies-research/graduate-calendar/all-programs/engg-sse.html",
+   "quote": "They must normally complete all qualifying courses within one year of beginning course work"
+  },
+  "prerequisites": {
+   "value": "Qualifying courses assigned by SSE; specifics UNKNOWN",
+   "source": ""
+  },
+  "min_gpa": {
+   "value": "70% (about 2.67/4.0 per WES)",
+   "source": "https://www.uregina.ca/graduate-studies-research/future-students/eligibility-requirements.html"
+  },
+  "work_experience_considered": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "experience_pathway": {
+   "value": "bridging",
+   "source": "https://www.uregina.ca/graduate-studies-research/graduate-calendar/all-programs/engg-sse.html"
+  },
+  "ielts": {
+   "value": "6.5 overall, 6.0 each band",
+   "source": "https://www.uregina.ca/graduate-studies-research/future-students/eligibility-requirements.html"
+  },
+  "toefl": {
+   "value": "Snippet showed unclear values; UNKNOWN",
+   "source": ""
+  },
+  "english_waiver": {
+   "value": "Yes for universities where English is the sole language on WHED or on U of R ELP List by Country; Nigeria status UNKNOWN",
+   "source": "https://www.uregina.ca/graduate-studies-research/future-students/eligibility-requirements.html"
+  },
+  "gre_gmat": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "other_requirements": {
+   "value": "Many programs require WES ICAP evaluation; project is a required course; co-op or project option, 30 credit hours",
+   "source": "https://www.uregina.ca/graduate-studies-research/graduate-calendar/all-programs/engg-sse.html"
+  },
+  "coop_internship": {
+   "value": "Co-op track available",
+   "source": "https://www.uregina.ca/graduate-studies-research/graduate-calendar/all-programs/engg-sse.html"
+  },
+  "tuition_intl_per_year": {
+   "value": "CAD 23,964/year, 2 years (third-party snippet; unverified)",
+   "source": ""
+  },
+  "application_fee": {
+   "value": "UNKNOWN",
+   "source": ""
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: qualifying-student route accepts incomplete backgrounds, which helps a Geography BSc, but required qualifying courses are unspecified and Philip has no stated engineering/CS coursework. 70% average needs conversion of 2:1. English waiver depends on Nigeria being on U of R's ELP list (UNKNOWN). Requirements on the program page are sparse; contact engg.grad@uregina.ca.",
+ "saved_on": "2026-10-06"
+}

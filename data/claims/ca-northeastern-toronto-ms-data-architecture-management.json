@@ -1,0 +1,84 @@
+{
+ "id": "ca-northeastern-toronto-ms-data-architecture-management",
+ "claims": {
+  "english_waiver": {
+   "value": "Yes: waived if degree taught entirely in English (documentation required); Nigeria not automatically listed",
+   "source": "https://coe.northeastern.edu/academics-experiential-learning/graduate-school-of-engineering/graduate-admissions/",
+   "quote": "holding degrees where English is the only language of instruction for the entirety of the program"
+  },
+  "ielts": {
+   "value": "6.5 overall (no band minimums found)",
+   "source": "https://coe.northeastern.edu/academics-experiential-learning/graduate-school-of-engineering/graduate-admissions/"
+  },
+  "toefl": {
+   "value": "79 iBT overall (4.0 on 2026 scale); no section minimums found",
+   "source": "https://coe.northeastern.edu/academics-experiential-learning/graduate-school-of-engineering/graduate-admissions/"
+  },
+  "gre_gmat": {
+   "value": "GRE not required/test-optional",
+   "source": "https://coe.northeastern.edu/academics-experiential-learning/graduate-school-of-engineering/graduate-admissions/",
+   "quote": "Northeastern University is GRE test-optional"
+  },
+  "application_fee": {
+   "value": "USD 100 normally; waived for new master's applicants for Fall 2026 and Spring 2027 terms (Fall 2027 waiver not confirmed; one search snippet said Fall 2027 waived, unverified)",
+   "source": "https://coe.northeastern.edu/academics-experiential-learning/graduate-school-of-engineering/graduate-admissions/"
+  },
+  "work_experience_considered": {
+   "value": "Resume required; experience not an explicit requirement or substitute",
+   "source": "https://coe.northeastern.edu/academics-experiential-learning/graduate-school-of-engineering/graduate-admissions/"
+  },
+  "bachelor_required": {
+   "value": "Bachelor's degree; no GPA minimum stated",
+   "source": "https://graduate.northeastern.edu/programs/ms-data-architecture-and-mgmt/master-of-science-in-data-architecture-and-management-toronto/"
+  },
+  "bachelor_field": {
+   "value": "No field stated on program page; COE generic: engineering/technology degree, non-engineering may be eligible for select programs",
+   "source": "https://coe.northeastern.edu/academics-experiential-learning/graduate-school-of-engineering/graduate-admissions/"
+  },
+  "non_cs_eligible": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "non_cs_notes": {
+   "value": "Not addressed on program pages; no explicit CS requirement found",
+   "source": "https://graduate.northeastern.edu/programs/ms-data-architecture-and-mgmt/master-of-science-in-data-architecture-and-management-toronto/"
+  },
+  "min_gpa": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "other_requirements": {
+   "value": "2 recommendation letters, SOP, resume, transcripts + FCE",
+   "source": "https://graduate.northeastern.edu/programs/ms-data-architecture-and-mgmt/master-of-science-in-data-architecture-and-management-toronto/"
+  },
+  "duration": {
+   "value": "24 months (full/part-time options)",
+   "source": "https://graduate.northeastern.edu/programs/ms-data-architecture-and-mgmt/master-of-science-in-data-architecture-and-management-toronto/"
+  },
+  "delivery_mode": {
+   "value": "On-ground/on-campus; part-time and full-time options",
+   "source": "https://toronto.northeastern.edu/academic_program/ms-in-data-architecture-and-management/"
+  },
+  "coop_internship": {
+   "value": "Co-op up to 8 months",
+   "source": "https://toronto.northeastern.edu/academic_program/ms-in-data-architecture-and-management/",
+   "quote": "gaining up to 8 months of professional experience as part of the academic program"
+  },
+  "tuition": {
+   "value": "International CAD 48,090 (2026-27); CAD 48K (AY2025-26)",
+   "source": "https://graduate.northeastern.edu/programs/ms-data-architecture-and-mgmt/master-of-science-in-data-architecture-and-management-toronto/"
+  },
+  "deadline": {
+   "value": "Fall: Early Action Dec 1; June 15 intl, July 1 in-country; Spring Nov 1 intl (per program page, a COE snippet said June 1)",
+   "source": "https://graduate.northeastern.edu/programs/ms-data-architecture-and-mgmt/master-of-science-in-data-architecture-and-management-toronto/"
+  },
+  "ministry_consent": {
+   "value": "Yes: five-year term starting April 4, 2025",
+   "source": "https://toronto.northeastern.edu/academic_program/ms-in-data-architecture-and-management/",
+   "quote": "a five-year term starting April 4th, 2025"
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: data-focused (BI, warehousing, software engineering with ML), weaker relevance than IS; non-CS pathway not stated (UNKNOWN), GPA unknown; English waiver possible; GRE not required. Consented and on-ground.",
+ "saved_on": "2026-10-06"
+}

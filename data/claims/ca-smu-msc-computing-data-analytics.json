@@ -1,0 +1,96 @@
+{
+ "id": "ca-smu-msc-computing-data-analytics",
+ "claims": {
+  "bachelor_required": {
+   "value": "4-year Bachelor of Science in Computing Science (or equivalent in a quantitative field)",
+   "source": "https://www.smu.ca/academics/msc-in-computing-and-data-analytics.html",
+   "quote": "normally requires a four-year Bachelor of Science in Computing Science degree (or equivalent in a quantitative field)"
+  },
+  "bachelor_field": {
+   "value": "Computing Science, or equivalent in a quantitative field",
+   "source": "https://www.smu.ca/academics/msc-in-computing-and-data-analytics.html"
+  },
+  "non_cs_eligible": {
+   "value": "case-by-case",
+   "source": "https://www.smu.ca/academics/msc-in-computing-and-data-analytics.html",
+   "quote": "or equivalent in a quantitative field"
+  },
+  "non_cs_notes": {
+   "value": "'normally' requires CS degree or equivalent in quantitative field; technical interview assesses programming, web development, database skills",
+   "source": "https://www.smu.ca/academics/msc-in-computing-and-data-analytics.html",
+   "quote": "normally requires a four-year Bachelor of Science in Computing Science degree (or equivalent in a quantitative field)"
+  },
+  "prerequisites": {
+   "value": "None listed; technical interview (programming, web dev, databases)",
+   "source": "https://www.smu.ca/academics/msc-in-computing-and-data-analytics.html"
+  },
+  "min_gpa": {
+   "value": "UNKNOWN - 'check with the program for country-specific GPA requirements'",
+   "source": "https://www.smu.ca/academics/msc-in-computing-and-data-analytics.html"
+  },
+  "experience_pathway": {
+   "value": "UNKNOWN",
+   "source": "https://www.smu.ca/academics/msc-in-computing-and-data-analytics.html"
+  },
+  "work_experience_considered": {
+   "value": "UNKNOWN",
+   "source": "https://www.smu.ca/academics/msc-in-computing-and-data-analytics.html"
+  },
+  "work_experience": {
+   "value": "UNKNOWN (not required; CV required)",
+   "source": "https://www.smu.ca/academics/msc-in-computing-and-data-analytics.html"
+  },
+  "ielts": {
+   "value": "6.5 overall, no band below 6.0",
+   "source": "https://www.smu.ca/academics/msc-in-computing-and-data-analytics.html"
+  },
+  "toefl": {
+   "value": "Listening 4.5, no other band below 4.0 (as stated on page; total not stated; appears to be TOEFL Essentials style scale)",
+   "source": "https://www.smu.ca/academics/msc-in-computing-and-data-analytics.html"
+  },
+  "english_waiver": {
+   "value": "yes",
+   "source": "https://www.smu.ca/gradstudies/graduate-studies-language-requirements.html",
+   "quote": "Nigeria is in the exempted countries list; degree with min 3 years full-time instruction in English"
+  },
+  "english_req": {
+   "value": "Exempt if previous degree completed entirely in English / from exempted country (Nigeria listed)",
+   "source": "https://www.smu.ca/gradstudies/graduate-studies-language-requirements.html"
+  },
+  "gre_gmat": {
+   "value": "NOT REQUIRED (not mentioned)",
+   "source": "https://www.smu.ca/academics/msc-in-computing-and-data-analytics.html"
+  },
+  "other_requirements": {
+   "value": "Online application; 2 recommendation forms (official program page; a search snippet said 3, unconfirmed); letter of intent; up-to-date CV; unofficial transcripts; successful technical interview",
+   "source": "https://www.smu.ca/academics/msc-in-computing-and-data-analytics.html"
+  },
+  "application_fee": {
+   "value": "125 CAD",
+   "source": "https://www.smu.ca/academics/msc-in-computing-and-data-analytics.html"
+  },
+  "deadline": {
+   "value": "Apply + fee by 2027-05-01; all documents by 2027-05-31 (September 2027 cohort; applications open Oct 2026)",
+   "source": "https://www.smu.ca/academics/msc-in-computing-and-data-analytics.html"
+  },
+  "tuition_amount": {
+   "value": "42000 CAD international total (four instalments)",
+   "source": "https://www.smu.ca/academics/msc-in-computing-and-data-analytics.html"
+  },
+  "duration": {
+   "value": "16 months / 4 terms (8 coursework + 8 work experience)",
+   "source": "https://www.smu.ca/academics/msc-in-computing-and-data-analytics.html"
+  },
+  "coop_internship": {
+   "value": "Paid work experience component (8 months), CAP pathway",
+   "source": "https://www.smu.ca/academics/msc-in-computing-and-data-analytics.html"
+  },
+  "post_study_work": {
+   "value": "Eligible for 3-year PGWP; pathway to PR",
+   "source": "https://www.smu.ca/academics/msc-in-computing-and-data-analytics.html"
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: degree 'normally' CS or equivalent in a quantitative field; Geography BSc may or may not count (case-by-case, not stated). Technical interview required. 5-7 yrs DevOps/cloud experience likely helps but page states no experience pathway. English waived (Nigeria exempted). GPA minimum unknown. Deadline 2027-05-01 is open. Reference count: official page says 2.",
+ "saved_on": "2026-10-06"
+}

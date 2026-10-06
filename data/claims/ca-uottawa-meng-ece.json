@@ -1,0 +1,90 @@
+{
+ "id": "ca-uottawa-meng-ece",
+ "claims": {
+  "bachelor_required": {
+   "value": "Bachelor's with specialization or major in electrical and computer engineering (or equivalent), min average 70% (B)",
+   "source": "https://catalogue.uottawa.ca/en/graduate/master-engineering-electrical-computer-engineering/",
+   "quote": "Have a bachelor's degree with a specialization, or a major in electrical and computer engineering (or equivalent) with a minimum average of 70% (B)."
+  },
+  "bachelor_field": {
+   "value": "Electrical and computer engineering or equivalent",
+   "source": "https://catalogue.uottawa.ca/en/graduate/master-engineering-electrical-computer-engineering/"
+  },
+  "non_cs_eligible": {
+   "value": "no (no alternative route found; 'or equivalent' not defined)",
+   "source": "https://catalogue.uottawa.ca/en/graduate/master-engineering-electrical-computer-engineering/",
+   "quote": "electrical and computer engineering (or equivalent)"
+  },
+  "experience_pathway": {
+   "value": "UNKNOWN (no work-experience route stated on catalogue page)",
+   "source": "https://catalogue.uottawa.ca/en/graduate/master-engineering-electrical-computer-engineering/"
+  },
+  "min_gpa": {
+   "value": "70% (B) average",
+   "source": "https://catalogue.uottawa.ca/en/graduate/master-engineering-electrical-computer-engineering/"
+  },
+  "work_experience_considered": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "work_experience": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "non_cs_notes": {
+   "value": "Requires ECE degree 'or equivalent'. Geography degree is not engineering; no bridging or experience route stated. Verify with the department.",
+   "source": "https://catalogue.uottawa.ca/en/graduate/master-engineering-electrical-computer-engineering/"
+  },
+  "ielts": {
+   "value": "6.5 overall (uOttawa graduate general, via search snippet; program-level not confirmed)",
+   "source": "https://www.uottawa.ca/study/graduate-studies/how-to-apply"
+  },
+  "toefl": {
+   "value": "iBT 84 overall (search snippet; sections not captured)",
+   "source": "https://www.uottawa.ca/study/graduate-studies/how-to-apply"
+  },
+  "english_waiver": {
+   "value": "UNKNOWN - snippet: exemption if previous degree in English university completed within last five years, or 2 yrs full-time study in listed countries (Nigeria not confirmed); page 402-blocked",
+   "source": "https://www.uottawa.ca/study/graduate-studies/how-to-apply"
+  },
+  "gre_gmat": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "application_fee": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "other_requirements": {
+   "value": "International credential equivalency check required",
+   "source": "https://catalogue.uottawa.ca/en/graduate/master-engineering-electrical-computer-engineering/"
+  },
+  "duration": {
+   "value": "Two years full-time",
+   "source": "https://catalogue.uottawa.ca/en/graduate/master-engineering-electrical-computer-engineering/"
+  },
+  "delivery_mode": {
+   "value": "Full-time or part-time registration; English",
+   "source": "https://catalogue.uottawa.ca/en/graduate/master-engineering-electrical-computer-engineering/"
+  },
+  "key_courses": {
+   "value": "27 units: professional skills course, 12 units graduate EE, 3 general, 6 project or coursework; electrical/computer engineering coursework (EE-heavy, likely signal/maths oriented)",
+   "source": "https://catalogue.uottawa.ca/en/graduate/master-engineering-electrical-computer-engineering/"
+  },
+  "curriculum_focus": {
+   "value": "technical (EE)",
+   "source": "https://catalogue.uottawa.ca/en/graduate/master-engineering-electrical-computer-engineering/"
+  },
+  "cloud_content": {
+   "value": "minimal",
+   "source": "https://catalogue.uottawa.ca/en/graduate/master-engineering-electrical-computer-engineering/"
+  },
+  "coop_internship": {
+   "value": "Co-op separate competitive admission; requires Canadian citizenship/PR per catalogue (not open to Philip)",
+   "source": "https://catalogue.uottawa.ca/en/graduate/master-engineering-electrical-computer-engineering/"
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: requires ECE degree 'or equivalent'; Philip's geography BSc is unlikely to qualify, no experience or bridging route stated (UNKNOWN, not a stated refusal). Curriculum is EE-heavy with minimal cloud. English waiver unconfirmed. Co-op restricted to citizens/PR. Strong risk of ineligibility on background; verifier should ask whether any alternate route exists.",
+ "saved_on": "2026-10-06"
+}

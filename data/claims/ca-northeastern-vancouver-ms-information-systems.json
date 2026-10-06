@@ -1,0 +1,84 @@
+{
+ "id": "ca-northeastern-vancouver-ms-information-systems",
+ "claims": {
+  "english_waiver": {
+   "value": "Yes: waived if degree taught entirely in English (documentation required); Nigeria not automatically listed",
+   "source": "https://coe.northeastern.edu/academics-experiential-learning/graduate-school-of-engineering/graduate-admissions/",
+   "quote": "holding degrees where English is the only language of instruction for the entirety of the program"
+  },
+  "ielts": {
+   "value": "6.5 overall (no band minimums found)",
+   "source": "https://coe.northeastern.edu/academics-experiential-learning/graduate-school-of-engineering/graduate-admissions/"
+  },
+  "toefl": {
+   "value": "79 iBT overall (4.0 on 2026 scale); no section minimums found",
+   "source": "https://coe.northeastern.edu/academics-experiential-learning/graduate-school-of-engineering/graduate-admissions/"
+  },
+  "gre_gmat": {
+   "value": "GRE not required/test-optional",
+   "source": "https://coe.northeastern.edu/academics-experiential-learning/graduate-school-of-engineering/graduate-admissions/",
+   "quote": "Northeastern University is GRE test-optional"
+  },
+  "application_fee": {
+   "value": "USD 100 normally; waived for new master's applicants for Fall 2026 and Spring 2027 terms (Fall 2027 waiver not confirmed; one search snippet said Fall 2027 waived, unverified)",
+   "source": "https://coe.northeastern.edu/academics-experiential-learning/graduate-school-of-engineering/graduate-admissions/"
+  },
+  "work_experience_considered": {
+   "value": "Resume required; experience not an explicit requirement or substitute",
+   "source": "https://coe.northeastern.edu/academics-experiential-learning/graduate-school-of-engineering/graduate-admissions/"
+  },
+  "bachelor_required": {
+   "value": "Accredited bachelor's; GPA 3.0/4.0 per admissions snippet",
+   "source": "https://graduate.northeastern.edu/programs/msis-information-systems/master-of-science-in-information-systems-vancouver/"
+  },
+  "bachelor_field": {
+   "value": "No field stated; 'No STEM background? No problem'; Bridge option",
+   "source": "https://graduate.northeastern.edu/programs/msis-information-systems/master-of-science-in-information-systems-vancouver/",
+   "quote": "No STEM background? No problem"
+  },
+  "non_cs_eligible": {
+   "value": "yes (Bridge)",
+   "source": "https://vancouver.northeastern.edu/academic_program/master-of-science-in-information-systems-bridge/"
+  },
+  "non_cs_notes": {
+   "value": "Program page: 'No STEM background? No problem' with bridge option for career-changers",
+   "source": "https://graduate.northeastern.edu/programs/msis-information-systems/master-of-science-in-information-systems-vancouver/"
+  },
+  "min_gpa": {
+   "value": "3.0/4.0 (search snippet, not confirmed on Vancouver page)",
+   "source": "https://admissions.northeastern.edu/application-information/international-applicants/"
+  },
+  "other_requirements": {
+   "value": "2 recommendation letters, SOP, resume, transcripts + FCE",
+   "source": "https://graduate.northeastern.edu/programs/msis-information-systems/master-of-science-in-information-systems-vancouver/"
+  },
+  "duration": {
+   "value": "2 years; full-/part-time",
+   "source": "https://graduate.northeastern.edu/programs/msis-information-systems/master-of-science-in-information-systems-vancouver/"
+  },
+  "delivery_mode": {
+   "value": "On-ground (Vancouver page); graduate page says on campus/online/combination",
+   "source": "https://graduate.northeastern.edu/programs/msis-information-systems/master-of-science-in-information-systems-vancouver/"
+  },
+  "coop_internship": {
+   "value": "Co-op up to 8 months (optional)",
+   "source": "https://graduate.northeastern.edu/programs/msis-information-systems/master-of-science-in-information-systems-vancouver/"
+  },
+  "tuition": {
+   "value": "International CAD 48,090 (2026-27); CAD 47.9K (2025-26)",
+   "source": "https://graduate.northeastern.edu/programs/msis-information-systems/master-of-science-in-information-systems-vancouver/"
+  },
+  "deadline": {
+   "value": "Fall: June 15 intl (graduate page lists Dec 1 early action); Spring Nov 1 intl (graduate page says Dec 1) - dates conflict between pages",
+   "source": "https://graduate.northeastern.edu/programs/msis-information-systems/master-of-science-in-information-systems-vancouver/"
+  },
+  "ministry_consent": {
+   "value": "Yes: written consent of the Minister (BC) effective March 3, 2023; 'university' term consent May 9, 2024",
+   "source": "https://vancouver.northeastern.edu/academic_program/master-of-science-in-information-systems/",
+   "quote": "Offered under the written consent of the Minister effective March 3, 2023"
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: no STEM background needed (bridge), English test waivable with English-medium degree, GRE not required, co-op available. Caveats: GPA 3.0/4.0 vs unknown CGPA; deadline discrepancies; confirm full-time on-ground and BC PGWP/DLI status (private-institution consent, not public).",
+ "saved_on": "2026-10-06"
+}

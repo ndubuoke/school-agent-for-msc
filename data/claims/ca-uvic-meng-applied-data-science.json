@@ -1,0 +1,84 @@
+{
+ "id": "ca-uvic-meng-applied-data-science",
+ "claims": {
+  "bachelor_required": {
+   "value": "Bachelor's, normally first-class standing",
+   "source": "https://www.uvic.ca/ecs/ece/future/mads/admissions/index.php",
+   "quote": "normally with a first-class standing"
+  },
+  "bachelor_field": {
+   "value": "EE, computer engineering, CS or related; other degree + relevant industrial experience may be considered",
+   "source": "https://www.uvic.ca/ecs/programs/professional-programs/meng-mads/index.php",
+   "quote": "If you have another type of degree or diploma combined with relevant industrial experience, you may be considered."
+  },
+  "non_cs_eligible": {
+   "value": "case-by-case",
+   "source": "https://www.uvic.ca/ecs/programs/professional-programs/meng-mads/index.php"
+  },
+  "non_cs_notes": {
+   "value": "Experience explicitly offsets non-CS degree",
+   "source": "https://www.uvic.ca/ecs/programs/professional-programs/meng-mads/index.php",
+   "quote": "If you have another type of degree or diploma combined with relevant industrial experience, you may be considered."
+  },
+  "experience_pathway": {
+   "value": "yes",
+   "source": "https://www.uvic.ca/ecs/programs/professional-programs/meng-mads/index.php"
+  },
+  "work_experience": {
+   "value": "considered",
+   "source": "https://www.uvic.ca/ecs/programs/professional-programs/meng-mads/index.php"
+  },
+  "prerequisites": {
+   "value": "Strong foundation in CS (programming, algorithms, data structures) and mathematics (linear algebra, probability, statistics)",
+   "source": "https://www.uvic.ca/ecs/programs/professional-programs/meng-mads/index.php"
+  },
+  "min_gpa": {
+   "value": "First-class standing normally (numeric not stated); 2:1 may be below this",
+   "source": "https://www.uvic.ca/ecs/ece/future/mads/admissions/index.php"
+  },
+  "ielts": {
+   "value": "6.5 overall, no section below 6.0",
+   "source": "https://www.uvic.ca/graduate/admissions/language-proficiency/index.php"
+  },
+  "toefl": {
+   "value": "iBT 90, no section below 20 (before Jan 2026); new scale 4.5/4.0 after Jan 21 2026",
+   "source": "https://www.uvic.ca/graduate/admissions/language-proficiency/index.php"
+  },
+  "english_waiver": {
+   "value": "yes - degree from recognized institution with English as language of instruction",
+   "source": "https://www.uvic.ca/graduate/admissions/language-proficiency/index.php",
+   "quote": "you have a degree from a recognized institution at which the language of instruction is English"
+  },
+  "english_req": {
+   "value": "IELTS 6.5/6.0, TOEFL; exemption for English-medium degree",
+   "source": "https://www.uvic.ca/graduate/admissions/language-proficiency/index.php"
+  },
+  "gre_gmat": {
+   "value": "NOT REQUIRED (not mentioned)",
+   "source": "https://www.uvic.ca/ecs/programs/professional-programs/meng-mads/index.php"
+  },
+  "other_requirements": {
+   "value": "Two assessment reports from academic or professional references, resume, statement of intent (2 pages max), transcripts",
+   "source": "https://www.uvic.ca/ecs/programs/professional-programs/meng-mads/index.php"
+  },
+  "application_fee": {
+   "value": "187.00 CAD if any documents from outside Canada (145.25 within) - from search snippet, verify on uvic.ca",
+   "source": "https://www.uvic.ca/ecs/ece/future/mads/admissions/index.php"
+  },
+  "deadline": {
+   "value": "Sept entry intl April 30; Jan entry intl Aug 31",
+   "source": "https://www.uvic.ca/ecs/programs/professional-programs/meng-mads/index.php"
+  },
+  "tuition": {
+   "value": "~42,000 CAD international (2025-26 estimate), 1 year, plus $2,000 deposit",
+   "source": "https://www.uvic.ca/ecs/programs/professional-programs/meng-mads/index.php"
+  },
+  "coop_internship": {
+   "value": "Optional co-op up to three terms after academic portion (max 12 months)",
+   "source": "https://www.uvic.ca/ecs/programs/professional-programs/meng-mads/index.php"
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: explicit experience pathway for non-CS degrees; Philip's 5-7 years DevOps fits. Risks: 'normally first-class' standing vs 2:1, and CS/maths prerequisites. English waiver likely. Curriculum is data-science oriented with algorithms/optimization (maths-heavy), weak match to cloud/IT-management. Tuition ~42k CAD within budget.",
+ "saved_on": "2026-10-06"
+}

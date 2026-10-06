@@ -1,0 +1,92 @@
+{
+ "id": "ca-northeastern-vancouver-ms-computer-science",
+ "claims": {
+  "english_waiver": {
+   "value": "Yes: waived if degree taught entirely in English (documentation required); Nigeria not automatically listed",
+   "source": "https://coe.northeastern.edu/academics-experiential-learning/graduate-school-of-engineering/graduate-admissions/",
+   "quote": "holding degrees where English is the only language of instruction for the entirety of the program"
+  },
+  "ielts": {
+   "value": "6.5 overall (no band minimums found)",
+   "source": "https://coe.northeastern.edu/academics-experiential-learning/graduate-school-of-engineering/graduate-admissions/"
+  },
+  "toefl": {
+   "value": "Recommended 4.5 on new scale (page); COE generic 79 iBT",
+   "source": "https://graduate.northeastern.edu/programs/mscs-computer-science/master-of-science-in-computer-science-vancouver/"
+  },
+  "gre_gmat": {
+   "value": "GRE not required/test-optional",
+   "source": "https://coe.northeastern.edu/academics-experiential-learning/graduate-school-of-engineering/graduate-admissions/",
+   "quote": "Northeastern University is GRE test-optional"
+  },
+  "application_fee": {
+   "value": "USD 100 normally; waived for new master's applicants for Fall 2026 and Spring 2027 terms (Fall 2027 waiver not confirmed; one search snippet said Fall 2027 waived, unverified)",
+   "source": "https://coe.northeastern.edu/academics-experiential-learning/graduate-school-of-engineering/graduate-admissions/"
+  },
+  "work_experience_considered": {
+   "value": "Recent professional resume with detailed responsibilities required; experience valued (software roles)",
+   "source": "https://graduate.northeastern.edu/programs/mscs-computer-science/master-of-science-in-computer-science-vancouver/"
+  },
+  "bachelor_required": {
+   "value": "Bachelor's degree; GPA min 3.0/4.0 (8.0/10, 80/100)",
+   "source": "https://graduate.northeastern.edu/programs/mscs-computer-science/master-of-science-in-computer-science-vancouver/"
+  },
+  "bachelor_field": {
+   "value": "Standard MS CS aimed at software engineers/CS professionals; Align MS CS for any discipline",
+   "source": "https://graduate.northeastern.edu/programs/mscs-computer-science/master-of-science-in-computer-science-vancouver/",
+   "quote": "Align track exists for non-majors ... bachelor's in any discipline"
+  },
+  "non_cs_eligible": {
+   "value": "yes (Align MS CS variant only)",
+   "source": "https://vancouver.northeastern.edu/academic_program/align-master-of-science-in-computer-science/"
+  },
+  "non_cs_notes": {
+   "value": "Standard program page lists no explicit CS-degree requirement but targets 'software engineer, software development engineer, related computer science professional, or recent CS graduate'; Align track for non-CS (as little as 2.5 years).",
+   "source": "https://graduate.northeastern.edu/programs/mscs-computer-science/master-of-science-in-computer-science-vancouver/"
+  },
+  "min_gpa": {
+   "value": "3.0/4.0 (8.0/10, 80/100)",
+   "source": "https://graduate.northeastern.edu/programs/mscs-computer-science/master-of-science-in-computer-science-vancouver/"
+  },
+  "experience_pathway": {
+   "value": "UNKNOWN for standard track; Align track for non-CS",
+   "source": "https://graduate.northeastern.edu/programs/mscs-computer-science/master-of-science-in-computer-science-vancouver/"
+  },
+  "other_requirements": {
+   "value": "2 recommendation letters, SOP with career goals, resume, transcripts + FCE",
+   "source": "https://graduate.northeastern.edu/programs/mscs-computer-science/master-of-science-in-computer-science-vancouver/"
+  },
+  "duration": {
+   "value": "2 years; full-/part-time, on-ground",
+   "source": "https://graduate.northeastern.edu/programs/mscs-computer-science/master-of-science-in-computer-science-vancouver/"
+  },
+  "delivery_mode": {
+   "value": "On-ground; full-time and part-time",
+   "source": "https://graduate.northeastern.edu/programs/mscs-computer-science/master-of-science-in-computer-science-vancouver/"
+  },
+  "coop_internship": {
+   "value": "Paid full-time co-op/internship 4-8 months",
+   "source": "https://graduate.northeastern.edu/programs/mscs-computer-science/master-of-science-in-computer-science-vancouver/"
+  },
+  "tuition": {
+   "value": "International CAD 51,767 (2026-27); CAD 51.7K (2025-26)",
+   "source": "https://graduate.northeastern.edu/programs/mscs-computer-science/master-of-science-in-computer-science-vancouver/"
+  },
+  "deadline": {
+   "value": "Fall and Spring international June 1 per graduate page; Vancouver page: June 15 / Nov 1 - conflict",
+   "source": "https://graduate.northeastern.edu/programs/mscs-computer-science/master-of-science-in-computer-science-vancouver/"
+  },
+  "ministry_consent": {
+   "value": "Yes: written consent of the Minister effective May 9, 2024",
+   "source": "https://vancouver.northeastern.edu/academic_program/master-of-science-in-computer-science/",
+   "quote": "This program is offered under the written consent of the Minister effective May 9, 2024"
+  },
+  "curriculum_focus": {
+   "value": "Core algorithms and programming design; breadth in systems & software, theory & security, AI & data science; electives incl. systems/security",
+   "source": "https://graduate.northeastern.edu/programs/mscs-computer-science/master-of-science-in-computer-science-vancouver/"
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: CS-oriented (algorithms core, theory breadth), weaker relevance than IS programs; non-CS applicant would likely need the Align variant (longer, ~2.5 years, cost higher). Not rejected for background due to Align pathway. Co-op available, intl tuition ~CAD 51.8k.",
+ "saved_on": "2026-10-06"
+}

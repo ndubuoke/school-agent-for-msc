@@ -1,0 +1,91 @@
+{
+ "id": "ca-ontariotech-mits",
+ "claims": {
+  "bachelor_required": {
+   "value": "Any four-year honours undergraduate degree (or equivalent); preference for IT/engineering/science",
+   "source": "https://businessandit.ontariotechu.ca/graduate/master-of-information-technology-security-mits/index.php",
+   "quote": "any four-year honours undergraduate degree"
+  },
+  "bachelor_field": {
+   "value": "Any discipline; IT, engineering, science, related preferred",
+   "source": "https://businessandit.ontariotechu.ca/graduate/master-of-information-technology-security-mits/index.php"
+  },
+  "min_gpa": {
+   "value": "3.0 on 4.3 scale (B, 73-76%), maintained in last two years",
+   "source": "https://businessandit.ontariotechu.ca/graduate/master-of-information-technology-security-mits/index.php",
+   "quote": "minimum overall GPA of 3.0 on a 4.3 scale"
+  },
+  "non_cs_eligible": {
+   "value": "yes",
+   "source": "https://businessandit.ontariotechu.ca/graduate/master-of-information-technology-security-mits/index.php",
+   "quote": "any four-year honours undergraduate degree (or its equivalent from a recognized institution)"
+  },
+  "experience_pathway": {
+   "value": "yes",
+   "source": "https://businessandit.ontariotechu.ca/graduate/master-of-information-technology-security-mits/index.php",
+   "quote": "Work experience in IT-related jobs is preferred; OS prerequisite satisfiable by proven work experience with Linux"
+  },
+  "non_cs_notes": {
+   "value": "Any discipline accepted but must show advanced programming course, advanced maths course, and OS course or work experience with Windows/Unix/Linux. IT experience preferred. Math prerequisite gap likely for Geography grad.",
+   "source": "https://businessandit.ontariotechu.ca/graduate/master-of-information-technology-security-mits/index.php",
+   "quote": "Work experience in IT-related jobs is preferred"
+  },
+  "prerequisites": {
+   "value": "Advanced programming (Java/C/C++/C#); advanced mathematics (linear algebra, calculus, number theory); operating systems course or Windows/Unix/Linux work experience",
+   "source": "https://businessandit.ontariotechu.ca/graduate/master-of-information-technology-security-mits/index.php"
+  },
+  "work_experience_considered": {
+   "value": "YES",
+   "source": "https://businessandit.ontariotechu.ca/graduate/master-of-information-technology-security-mits/index.php"
+  },
+  "work_experience": {
+   "value": "IT-related work experience preferred, not mandatory",
+   "source": "https://businessandit.ontariotechu.ca/graduate/master-of-information-technology-security-mits/index.php",
+   "quote": "Work experience in IT-related jobs is preferred"
+  },
+  "ielts": {
+   "value": "6.5 overall (7.0 for select programs)",
+   "source": "https://gradstudies.ontariotechu.ca/future_students/application_process_and_requirement/step 3/english-language-proficiency.php"
+  },
+  "toefl": {
+   "value": "Post-Jan 2026: 4.5 overall, no section below 4.0; pre-2026 83-100 depending on program",
+   "source": "https://gradstudies.ontariotechu.ca/future_students/application_process_and_requirement/step 3/english-language-proficiency.php"
+  },
+  "english_waiver": {
+   "value": "yes: 3 years full-time university study in English-language instruction and examination",
+   "source": "https://gradstudies.ontariotechu.ca/future_students/application_process_and_requirement/step 3/english-language-proficiency.php",
+   "quote": "studied full-time for at least three years ... in a university degree program where the language of instruction and examination was English"
+  },
+  "gre_gmat": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "duration": {
+   "value": "24 months full-time",
+   "source": "https://businessandit.ontariotechu.ca/graduate/master-of-information-technology-security-mits/index.php"
+  },
+  "intake": {
+   "value": "September and January",
+   "source": "https://businessandit.ontariotechu.ca/graduate/master-of-information-technology-security-mits/index.php"
+  },
+  "delivery_mode": {
+   "value": "Hybrid/in-person per program page; verify on-campus for PGWP",
+   "source": "https://businessandit.ontariotechu.ca/graduate/master-of-information-technology-security-mits/index.php"
+  },
+  "other_requirements": {
+   "value": "Letters of reference and statement of research interests per third-party listing, unverified",
+   "source": "https://businessandit.ontariotechu.ca/graduate/master-of-information-technology-security-mits/index.php"
+  },
+  "application_fee": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "international_students": {
+   "value": "UNKNOWN",
+   "source": ""
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: any 4-year honours degree accepted, IT work experience preferred and can cover the OS prerequisite. Gaps: advanced programming and advanced maths prerequisites unknown for Geography grad. English waived with 3 years English-medium study. Security-focused rather than cloud; delivery listed hybrid, verify on-campus for PGWP; 2:1 should meet B average but exact CGPA unknown.",
+ "saved_on": "2026-10-06"
+}

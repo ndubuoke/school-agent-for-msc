@@ -1,0 +1,108 @@
+{
+ "id": "ca-memorial-masc-software-engineering",
+ "claims": {
+  "bachelor_required": {
+   "value": "Four-year undergraduate degree; normally minimum second-class",
+   "source": "https://www.mun.ca/engineering/graduate/programs/software-engineering/",
+   "quote": "four-year undergraduate degree (or equivalent) in computer science, computer engineering or a cognate area"
+  },
+  "bachelor_field": {
+   "value": "Computer science, computer engineering or cognate/related area",
+   "source": "https://www.mun.ca/engineering/graduate/programs/software-engineering/"
+  },
+  "non_cs_eligible": {
+   "value": "UNKNOWN (leans no; 'related discipline' may admit cognate fields, geography unlikely)",
+   "source": "https://www.mun.ca/engineering/graduate/programs/software-engineering/",
+   "quote": "computer science, computer engineering or a cognate area"
+  },
+  "non_cs_notes": {
+   "value": "Program page names only CS, computer engineering or cognate area; no stated non-CS pathway. Search summary of the calendar said 'or in a related discipline' (unconfirmed).",
+   "source": "https://www.mun.ca/engineering/graduate/programs/software-engineering/",
+   "quote": "computer science, computer engineering or a cognate area"
+  },
+  "prerequisites": {
+   "value": "UNKNOWN (core includes Software Foundations, Applied Algorithms; no qualifying course route stated)",
+   "source": "https://www.mun.ca/engineering/graduate/programs/software-engineering/"
+  },
+  "min_gpa": {
+   "value": "Minimum second-class standing (normally); no numeric value found",
+   "source": "https://www.mun.ca/university-calendar/school-of-graduate-studies/school-of-graduate-studies/8/7/"
+  },
+  "work_experience_considered": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "experience_pathway": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "ielts": {
+   "value": "7.0 overall (graduate programs with higher English requirements) per search summary of calendar",
+   "source": "https://www.mun.ca/university-calendar/school-of-graduate-studies/school-of-graduate-studies/8/7/"
+  },
+  "toefl": {
+   "value": "iBT 92 (higher-requirement programs); Duolingo 125",
+   "source": "https://www.mun.ca/university-calendar/school-of-graduate-studies/school-of-graduate-studies/8/7/"
+  },
+  "english_waiver": {
+   "value": "Yes: no test if undergraduate degree was taught in English; MOI letter from the institution uploaded as 'Grad Proof of English Proficiency'",
+   "source": "https://www.mun.ca/become/graduate/apply-to-memorial/",
+   "quote": "Students who have completed secondary schooling, an undergraduate degree, or a graduate degree at a recognized institution where the language of instruction is English are not required to take an English proficiency test"
+  },
+  "english_req": {
+   "value": "Waived with MOI letter",
+   "source": "https://www.mun.ca/become/graduate/apply-to-memorial/"
+  },
+  "gre_gmat": {
+   "value": "NOT REQUIRED (GRE listed only for other programs)",
+   "source": "https://www.mun.ca/become/graduate/apply-to-memorial/"
+  },
+  "other_requirements": {
+   "value": "Two letters of appraisal, CV, transcripts, statement of interest, English proof if applicable, fee",
+   "source": "https://www.mun.ca/become/graduate/apply-to-memorial/"
+  },
+  "application_fee": {
+   "value": "CAD 120 international",
+   "source": "https://www.mun.ca/become/graduate/apply-to-memorial/"
+  },
+  "duration": {
+   "value": "Four terms, 16 months, course-based, 30 credit hours (21 core + 9 elective)",
+   "source": "https://www.mun.ca/engineering/graduate/programs/software-engineering/"
+  },
+  "intake": {
+   "value": "Fall, each year",
+   "source": "https://www.mun.ca/engineering/graduate/programs/software-engineering/"
+  },
+  "deadline": {
+   "value": "International Fall: April 1",
+   "source": "https://www.mun.ca/engineering/graduate/programs/software-engineering/"
+  },
+  "tuition": {
+   "value": "Intl CAD 2,416.50 per semester plus special fee; 4 terms ~ CAD 9,666 + fees (arithmetic, fee details not checked)",
+   "source": "https://www.mun.ca/engineering/graduate/programs/software-engineering/"
+  },
+  "coop_internship": {
+   "value": "UNKNOWN (capstone project only)",
+   "source": "https://www.mun.ca/engineering/graduate/programs/software-engineering/"
+  },
+  "key_courses": {
+   "value": "Software Foundations, Advanced Computing Concepts, Software Design and Specification, Software V&V, Applied Algorithms, Software Engineering, Capstone; electives 3 of 20+ in security, architecture, concurrent programming",
+   "source": "https://www.mun.ca/engineering/graduate/programs/software-engineering/"
+  },
+  "funding": {
+   "value": "Awards database only; no guaranteed funding",
+   "source": "https://www.mun.ca/engineering/graduate/programs/software-engineering/"
+  },
+  "international_students": {
+   "value": "YES",
+   "source": "https://www.mun.ca/engineering/graduate/programs/software-engineering/"
+  },
+  "program_type": {
+   "value": "course",
+   "source": "https://www.mun.ca/engineering/graduate/programs/software-engineering/"
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: program page requires a four-year degree in 'computer science, computer engineering or a cognate area'; no stated non-CS or experience pathway, so a Geography BSc is a real risk (borderline, not rejected because 'cognate' is open to judgement and a relevant-experience case could be asked). English waived via MOI letter. Cheap (about 9.7k CAD plus fees), 16 months, course-based, no co-op found. Curriculum is software-engineering oriented (design, V&V, algorithms) with some architecture/security electives; limited cloud/IT management content. Ask program about non-CS and professional experience.",
+ "saved_on": "2026-10-06"
+}

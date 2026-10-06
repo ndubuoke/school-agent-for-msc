@@ -1,0 +1,83 @@
+{
+ "id": "ca-uoguelph-mcti",
+ "claims": {
+  "bachelor_required": {
+   "value": "Four-year honours degree",
+   "source": "https://www.uoguelph.ca/programs/master-of-cybersecurity-and-threat-intelligence"
+  },
+  "bachelor_field": {
+   "value": "Computer science/engineering or related; or other discipline with CS minor (min 10 CS-related courses)",
+   "source": "https://www.uoguelph.ca/programs/master-of-cybersecurity-and-threat-intelligence"
+  },
+  "non_cs_eligible": {
+   "value": "case-by-case",
+   "source": "https://www.uoguelph.ca/programs/master-of-cybersecurity-and-threat-intelligence",
+   "quote": "Applicants with an honours degree in an unrelated discipline who possess proven skills and working experience in cybersecurity may be considered."
+  },
+  "non_cs_notes": {
+   "value": "Applicants with an honours degree in an unrelated discipline who possess proven skills and working experience in cybersecurity may be considered.",
+   "source": "https://www.uoguelph.ca/programs/master-of-cybersecurity-and-threat-intelligence",
+   "quote": "Applicants with an honours degree in an unrelated discipline who possess proven skills and working experience in cybersecurity may be considered."
+  },
+  "experience_pathway": {
+   "value": "case-by-case (requires cybersecurity experience; Philip's is DevOps/cloud, security experience not stated in profile)",
+   "source": "https://www.uoguelph.ca/programs/master-of-cybersecurity-and-threat-intelligence"
+  },
+  "work_experience": {
+   "value": "considered",
+   "source": "https://www.uoguelph.ca/programs/master-of-cybersecurity-and-threat-intelligence"
+  },
+  "prerequisites": {
+   "value": "Knowledge equivalent to Data Communication and Networking (CIS*3210) and Computer Programming (CIS*2500)",
+   "source": "https://calendar.uoguelph.ca/graduate-calendar/graduate-programs/cybersecurity-threat-intelligence/"
+  },
+  "min_gpa": {
+   "value": "75% (B) average in last two years / four semesters of full-time study",
+   "source": "https://www.uoguelph.ca/programs/master-of-cybersecurity-and-threat-intelligence"
+  },
+  "ielts": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "toefl": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "english_waiver": {
+   "value": "yes (case-by-case, requested from department for English-medium prior study)",
+   "source": "https://graduatestudies.uoguelph.ca/faq/category/97"
+  },
+  "english_req": {
+   "value": "Test required if first language not English; may request waiver if prior post-secondary study was in English, decided case-by-case by department",
+   "source": "https://graduatestudies.uoguelph.ca/faq/category/97"
+  },
+  "gre_gmat": {
+   "value": "NOT REQUIRED",
+   "source": "https://www.uoguelph.ca/programs/master-of-cybersecurity-and-threat-intelligence",
+   "quote": "The GRE is NOT a requirement for admission."
+  },
+  "other_requirements": {
+   "value": "Transcripts, CV, statement of interest, two academic references (professional accepted if academic unavailable)",
+   "source": "https://www.uoguelph.ca/programs/master-of-cybersecurity-and-threat-intelligence"
+  },
+  "application_fee": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "deadline": {
+   "value": "UNKNOWN",
+   "source": ""
+  },
+  "duration": {
+   "value": "About 12 months to 2 years, course-based, min 4.00 credits",
+   "source": "https://calendar.uoguelph.ca/graduate-calendar/graduate-programs/cybersecurity-threat-intelligence/"
+  },
+  "key_courses": {
+   "value": "CIS*6590 Professional Seminar; electives in digital forensics, threat intelligence, penetration testing, cryptography",
+   "source": "https://calendar.uoguelph.ca/graduate-calendar/graduate-programs/cybersecurity-threat-intelligence/"
+  }
+ },
+ "eligibility": "borderline",
+ "eligibility_notes": "Provisional: unrelated-discipline degrees may be considered with cybersecurity work experience (case-by-case); Philip's DevOps experience is not cybersecurity, and networking/programming prerequisites need evidencing. English waiver is discretionary, GRE not required. Curriculum is threat-intel/security, weak fit; deadline, fee and tuition UNKNOWN.",
+ "saved_on": "2026-10-06"
+}
