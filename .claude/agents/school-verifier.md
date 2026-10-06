@@ -32,7 +32,8 @@ before a fact is treated as true.
 ## Inputs
 For each program the caller gives you:
 - the researcher's candidate record (`program_url`, program name, `category`, `curriculum_hint`)
-- the admission-checker's `claims`, each with its source
+- the admission-checker's `claims`, each with its source. Read them with
+  `python3 scripts/tracker.py claims <id>` (stored in `data/claims/`) if they aren't in the prompt
 
 The caller may also give you **rejection reasons to confirm** (reason-only checks): researcher discards
 and admission-checker `reject_basis` entries. For those, do **not** verify the whole program. Only

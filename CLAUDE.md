@@ -33,6 +33,7 @@ Region priority: **1. Canada** → **2. Europe** → **3. United States**.
 | `data/schools.csv` | Claude | One row per active program, in the user's 27-column format, plus `id`: facts, score, `status` (STRONG MATCH / POSSIBLE MATCH) and `verified`. |
 | `data/rejected.csv` | Claude | Unsuitable programs, with `reject_filter`, the reason, and the official page confirming it, so they aren't researched again. |
 | `data/school-details.csv` | Claude | Everything else per program, joined on `id`: score breakdown, sources, conflicts, eligibility notes, curriculum, `application_status` (the user's progress). |
+| `data/claims/<id>.json` | Claude | The admission-checker's raw, **unverified** claims per program, kept so an interrupted run can resume at verification. Never treat these as facts. |
 | `data/research-log.md` | Claude | Append-only log of each research run. |
 | `reports/*.md` | Claude | Human-readable summaries, regenerated from the CSVs. |
 | `data/SCHEMA.md` | Claude | What every column means. |

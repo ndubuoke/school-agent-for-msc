@@ -14,9 +14,17 @@ tuition, deadlines, requirements or program information.
 `school-verifier` found an official **university** source for that program, meaning it returned
 `university_source_found: true`. Everything else stays `verified` = `NO`.
 
-Keep each agent's raw JSON output in the scratchpad (the verifier needs the checker's per-claim
-sources). All tracker writes go through `python3 scripts/tracker.py upsert <file>` (active programs)
-or `python3 scripts/tracker.py reject <file>` (rejected programs), using JSON files in the scratchpad.
+**The PERSISTENCE rule:** a run can stop at any moment (usage limits, a closed session), and the
+scratchpad doesn't survive into the next session. So **save each agent's results to the tracker as
+soon as that agent returns**, before launching the next wave. Never hold results only in memory or
+the scratchpad until the end of the run. Every step below says what to save.
+
+All tracker writes go through `scripts/tracker.py`, using JSON files written to the scratchpad:
+- `upsert <file>` for active programs
+- `reject <file>` for rejected programs
+- `save-claims <file>` for the admission-checker's raw investigate output (stored in `data/claims/`)
+
+The script locks the files, so parallel agents and other sessions can write safely.
 
 ---
 
@@ -55,8 +63,22 @@ to the researcher; the checker reads it itself.
 1. Run `python3 scripts/tracker.py validate` and fix structural errors (stale rows are fine).
 2. Run `python3 scripts/tracker.py list --country "<Country>" [--province "<Province>"]` for each
    target. This lists `schools.csv` **and** `rejected.csv`.
-3. Build the **skip list**: every id already in the tracker. These won't be researched again.
-4. Build the **refresh queue** of existing `schools.csv` rows that are stale (`--stale 90`), have
+3. Build the **skip list**: every id already in the tracker. These won't be **discovered** again.
+4. Build the **resume queue**: rows in scope that a previous run left unfinished
+   (`python3 scripts/tracker.py list --country "<Country>" [--province "<Province>"] --unfinished`).
+   Each resumes from where it stopped, without redoing finished steps:
+
+   | Row state | Resume at |
+   |-----------|-----------|
+   | `stage` = `researching` | Step 6 (check) |
+   | `stage` = `checked` and `claims=yes` | Step 7 (verify), using `tracker.py claims <id>` |
+   | `stage` = `checked` and `claims=no` | Step 6 (check again; the claims were lost) |
+   | `stage` = `verified`, `verified` = `YES` | Step 8 (score) |
+   | `stage` = `verified`, `verified` = `NO` | Report as "Unverified"; retry step 7 only with `--refresh` |
+
+   Resumed rows count toward this run's work but **not** toward the 20 new-candidate target.
+   Tell the user how many rows are being resumed and from which steps.
+5. Build the **refresh queue** of existing `schools.csv` rows that are stale (`--stale 90`), have
    `UNKNOWN`/`CONFLICT` key fields, or all rows in scope with `--refresh`. Rejected rows are only
    re-queued if the reason may have changed (e.g. a new intake year).
 
@@ -80,26 +102,38 @@ Canada"`, a shortfall is reported, not filled from other provinces. Stop once th
 or the location is genuinely exhausted. Never pad the list with
 off-field programs. If it ends below target, say how many exist and why in the report.
 
-Upsert all candidates with `verified` = `NO` and `stage` = `researching`, mapping `curriculum_hint` →
-`key_courses` and `why` → `notes`.
+**Save immediately after each researcher returns:** upsert its candidates with `verified` = `NO` and
+`stage` = `researching`, mapping `curriculum_hint` → `key_courses` and `why` → `notes`. Its other
+discards aren't in the tracker yet, so if the run stops before step 7 they are simply rediscovered
+next time.
 
 ## Step 6: Send candidates to `admission-checker` (investigate mode)
-Every new candidate, plus the refresh queue, is promising. Launch `admission-checker` subagents with
+Every new candidate, plus the refresh queue and resume-queue rows due for step 6, is promising. Launch `admission-checker` subagents with
 the instruction "Mode: investigate", in parallel, batching ~3–5 programs per agent (group by
 university). Order the work so programs with **open or unknown deadlines go first**.
 
-Flatten each result's `claims` to values and upsert them with the provisional `eligibility` and
-`eligibility_notes`, `stage` = `checked`, `verified` = `NO`. Then split the results:
+**Save immediately after each checker returns:**
+1. `tracker.py save-claims <file>` with the agent's raw output (claims, sources and `reject_basis`
+   kept verbatim in `data/claims/<id>.json`).
+2. `tracker.py upsert <file>` with only the provisional `eligibility` and `eligibility_notes`,
+   `stage` = `checked`, `verified` = `NO`.
+
+Don't flatten claims into tracker columns. They are unverified free text, they often don't fit the
+fixed-value columns, and only the verifier may put facts into the tracker.
+
+Then split the results:
 - **Qualifying:** provisional `eligible` or `borderline` → step 7, full verification.
 - **Not qualifying:** provisional `ineligible`, which comes with a `reject_basis` → step 7, reason-only check.
 
 ## Step 7: Send candidates to `school-verifier`
 Launch `school-verifier` subagents in parallel, ~3–5 programs per agent, grouped by university. Give each:
-- **Full verification:** the qualifying candidates, each with the researcher record and the checker's raw `claims`.
+- **Full verification:** the qualifying candidates, each with the researcher record and the checker's
+  raw `claims`. Tell the verifier to read them with `python3 scripts/tracker.py claims <id>` rather
+  than pasting them into the prompt.
 - **Reason-only checks:** the `reject_basis` entries for non-qualifying candidates, plus researcher
   discards for the same universities.
 
-Apply the results:
+Apply the results **as soon as each verifier returns**:
 - **Full verification:** upsert `fields`, `conflicts`, `source_urls`, `last_checked`, `confidence`
   and `notes`, with `stage` = `verified`. Set `verified` = `YES` **only if**
   `university_source_found` is `true`; otherwise keep `verified` = `NO` and add "no official
@@ -114,7 +148,7 @@ Spot-check: for ~1 in 5 verified programs, open one cited university page yourse
 tuition or deadline appears there. If it doesn't, set `confidence` = `low`, note it, and re-verify.
 
 ## Step 8: Score verified candidates
-Send every program with `verified` = `YES` from this run to `admission-checker` with the instruction
+Send every program with `verified` = `YES` from this run, plus resume-queue rows due for step 8, to `admission-checker` with the instruction
 "Mode: evaluate, no web access" (~10 programs per agent). Programs still at `verified` = `NO` are not
 scored. They stay in `schools.csv` without a status and are listed in the report as "Unverified".
 
@@ -122,12 +156,12 @@ Sanity-check the background rule: for any `reject_filter` = `background`, confir
 `experience_pathway` and `non_cs_eligible` are both `no`. If not, send it back for re-evaluation.
 
 ## Step 9: Update `schools.csv`
-Upsert every `scored` result (STRONG MATCH / POSSIBLE MATCH) with `stage` = `evaluated`. Never touch
+As soon as each evaluator returns, upsert every `scored` result (STRONG MATCH / POSSIBLE MATCH) with `stage` = `evaluated`. Never touch
 `application_status`; the script also protects it. Run `python3 scripts/tracker.py validate` and fix
 anything it reports.
 
 ## Step 10: Put unsuitable candidates in `rejected.csv`
-Run `python3 scripts/tracker.py reject <file>` for:
+Run `python3 scripts/tracker.py reject <file>` as soon as each result is in (don't batch until the end) for:
 - the evaluate-mode `rejected` results (hard-filter fails and low scores)
 - confirmed reasons from step 7 (researcher discards and checker `reject_basis`)
 

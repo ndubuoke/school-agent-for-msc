@@ -12,11 +12,14 @@ Usage:
   tracker.py upsert <json-file-or-'-'>          # insert or update active programs (list or single object)
   tracker.py reject <json-file-or-'-'>          # move programs to rejected.csv (removes them from schools)
   tracker.py get <id>                           # print one program as JSON (active or rejected)
-  tracker.py list [--country Canada] [--province Ontario] [--stale DAYS]
+  tracker.py list [--country Canada] [--province Ontario] [--stale DAYS] [--unfinished]
+  tracker.py save-claims <json-file-or-'-'>     # store admission-checker investigate output (unverified)
+  tracker.py claims <id>                        # print the stored checker claims for one program
   tracker.py validate                           # check both CSVs against the schema
   tracker.py schema                             # print columns and allowed values
 """
 import csv
+import fcntl
 import json
 import re
 import sys
@@ -25,6 +28,9 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
+# Raw admission-checker claims (free text, unverified), one JSON file per program id. Kept on disk so
+# an interrupted run can resume verification without re-running the checker.
+CLAIMS = DATA / "claims"
 
 # The user's schema (Phase 6), in the user's order, plus a stable id.
 MAIN_COLUMNS = [
@@ -307,10 +313,24 @@ def arg(argv, flag):
     return argv[argv.index(flag) + 1] if flag in argv else None
 
 
+WRITE_COMMANDS = {"upsert", "reject", "save-claims"}
+
+
 def main(argv):
     if not argv:
         sys.exit(__doc__)
     cmd = argv[0]
+    if cmd in WRITE_COMMANDS:
+        # Every write is read-modify-write of whole files; serialize writers so concurrent
+        # /find-schools runs (or parallel agents) can't overwrite each other's rows.
+        DATA.mkdir(parents=True, exist_ok=True)
+        with open(DATA / ".tracker.lock", "w") as lock:
+            fcntl.flock(lock, fcntl.LOCK_EX)
+            return run(cmd, argv)
+    return run(cmd, argv)
+
+
+def run(cmd, argv):
     if cmd in ("upsert", "reject") and len(argv) == 2:
         src = sys.stdin.read() if argv[1] == "-" else Path(argv[1]).read_text(encoding="utf-8")
         (upsert if cmd == "upsert" else reject)(json.loads(src))
@@ -324,7 +344,10 @@ def main(argv):
     elif cmd == "list":
         country, province = arg(argv, "--country"), arg(argv, "--province")
         stale = arg(argv, "--stale")
+        unfinished = "--unfinished" in argv
         for rid, r in read_merged().items():
+            if unfinished and r["stage"] == "evaluated":
+                continue
             if country and r["country"].lower() != country.lower():
                 continue
             if province and r["province_state"].lower() != province.lower():
@@ -332,8 +355,9 @@ def main(argv):
             if stale is not None and r["last_checked"] and age_days(r["last_checked"]) <= int(stale):
                 continue
             print("\t".join([rid, r["score"] or "-", r["status"] or "-", f"verified={r['verified'] or '-'}",
-                             r["last_checked"] or "-"]))
-        if stale is None:
+                             r["last_checked"] or "-", f"stage={r['stage'] or '-'}",
+                             "claims=yes" if (CLAIMS / f"{rid}.json").exists() else "claims=no"]))
+        if stale is None and not unfinished:
             for x in read("rejected"):
                 if country and x["country"].lower() != country.lower():
                     continue
@@ -341,6 +365,25 @@ def main(argv):
                     continue
                 print("\t".join([x["id"], "-", "REJECTED", f"verified={x['verified'] or '-'}",
                                  x["last_checked"] or "-", x["reject_filter"]]))
+    elif cmd == "save-claims" and len(argv) == 2:
+        src = sys.stdin.read() if argv[1] == "-" else Path(argv[1]).read_text(encoding="utf-8")
+        payload = json.loads(src)
+        items = payload if isinstance(payload, list) else [payload]
+        CLAIMS.mkdir(parents=True, exist_ok=True)
+        saved = []
+        for item in items:
+            rid = normalize(item.get("id"))
+            if not ID_RE.match(rid) or "claims" not in item:
+                sys.exit(f"error: each item needs a valid id and a claims object ({rid!r})")
+            (CLAIMS / f"{rid}.json").write_text(
+                json.dumps({**item, "saved_on": date.today().isoformat()}, indent=1), encoding="utf-8")
+            saved.append(rid)
+        print(json.dumps({"claims_saved": saved}, indent=2))
+    elif cmd == "claims" and len(argv) == 2:
+        path = CLAIMS / f"{argv[1]}.json"
+        if not path.exists():
+            sys.exit(f"no claims stored for {argv[1]}")
+        print(path.read_text(encoding="utf-8"))
     elif cmd == "validate":
         return validate()
     elif cmd == "schema":

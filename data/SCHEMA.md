@@ -119,3 +119,10 @@ Written only by `tracker.py reject`, which also removes the program from the two
 | `last_checked` | YYYY-MM-DD |
 
 A passed deadline is **not** a rejection. Those programs stay in schools.csv and rank lower.
+
+## data/claims/<id>.json — unverified checker claims
+
+Written by `tracker.py save-claims`, read by `tracker.py claims <id>`. This is the
+admission-checker's raw investigate output (claims, sources, provisional eligibility, `reject_basis`),
+plus `saved_on`. It is **unverified**: only `school-verifier` may turn it into tracker values. It
+exists so that an interrupted `/find-schools` run can resume at verification.

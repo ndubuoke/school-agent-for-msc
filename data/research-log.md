@@ -18,3 +18,4 @@ Append-only. One entry per `/find-schools` run (newest at the bottom).
 - Unresolved reasons: ca-wlu-mcs-online (page unreachable), ca-polymtl-professional-masters (bot-blocked), ca-concordia-mapcompsc (CS graduate diploma may be a bridging route).
 - Unverifiable: ca-brocku-msc-management-ois (brocku.ca blocks automated access).
 - Raw agent outputs are in this session's transcript only; a re-run will need to re-verify.
+- 2026-10-06 follow-up: added per-agent saving, `data/claims/`, `list --unfinished` and a resume queue to /find-schools. The 43 Canada rows at stage `researching` will resume at step 6 on the next run.
